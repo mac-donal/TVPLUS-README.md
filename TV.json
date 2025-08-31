@@ -1074,10 +1074,15 @@
         }
       },
       {
-        "name": "DAZN F1 (ts2)",
-        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX7qPXABOjsY8eWWejHR1f8Sx4WTbVw40ZAS091sHU4BMg==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+        "name": "FORMULA 1  PRO",
+        "uri": "http://magisvideo.nainWZNQ8Iqu28VsYRPIFhUmnirrgSg2MoJBh/plmpWUYBkgUevuzSw9buuw2hgjcom/plpro/427.m3u8",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
+        "headers": [
+          {
+            "X-Hash": "Szt2c8rVLD3d7Q/Ooenzr+o9PiKZA+vv0ohVk6CB8ARhTcP5tBIb8FyLYQyR2FerEhQS995RgA2sEBCHVPWIgg6R+p396b0iYlvEmZXNO7tXmUqnqxFiEC34aM97qs0CnaP+1fMaW0S5j0sf/BkJJmZsqw0u02jKFhxyZL0CsULluOuiPJk2uRcIcMXqOVXutlpcATlR+cXPW6ttAGFcLEAvmiEbOtOIXy0awlcBZn4I72bAqJLBfIeUkfZeu7BqwmZo8Wo3pfJQ8ChBdLiDatoeTPaps/4tYtxTXzOXXsLZnuaAc56lCrjVnNau0vFZVu8Zojs0pGrTim0fssDNMFa0rJtv6VUe/4yvNiVt6VM2C2W6TRENFkaUO4jE9V1Nv8kp9TaMxdmRtWAssxhAsXZk6oLgJLPpwgAoPCm7Q+qRlG16hE4fY6nOBvAmdBJZ3E/Z3rhsCDNXH2OYg2w1ALrttcYcSpaRCUxtKtIdSJ/iWcCPqLmzzA5K7s4u71t2MI/5uEgsram9nj0kKYdCp3RiTXZvnG/+EMqFrCoakkyZrf/ChMHpWYyKo2ll5kBqLYX8mdJHUpkxUYZ1Oe+NR9xhJdEVWdREO9uGX4Y8lo34Pu7+QPtGKaWLncK+dWw6LegMqFcW63BMo1Ui+a9z1JSgYgZDRf+rwgTpckivnVdp45ALkHccw+E8WuN7aDnp",
+            "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+            "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+            "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ=="
       }
     ]
   },
