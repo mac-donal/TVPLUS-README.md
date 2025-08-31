@@ -752,7 +752,276 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+      }}
+    ]
+  },
+  {
+    "name": "🟣 DEPORTES TyC SPORTS PLAY (⚽)",
+    "samples": [
+      {
+        "name": "TyC Sports Play (PLAY 1)",
+        "url": "2tmIY+7QStxx7bW1kBGkp3zY0W6fPexNaCdVdY/2Xhu1CGy6wd3yrvW13PgQV4y4qXshcE/qyVwice8Z/a9qsdRZu5isuRC+bTzu8IFXbfV2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      },
+      {
+        "name": "TyC Sports Play (PLAY 2)",
+        "url": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      },
+      {
+        "name": "TyC Sports Play (PLAY 3)",
+        "url": "9+AOB2I6M5lX6GW/+qSDaXzY0W6fPexNaCdVdY/2XhseyDla/6APCVN4tuTIk+9VWkyV75fwzrmipKfkm9Viu0FMOPr/5YXMGnkIG1vvU6h2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      },
+      {
+        "name": "TyC Sports Play (PLAY 4)",
+        "url": "njEX2xu6xnULHEHcGyAzG3zY0W6fPexNaCdVdY/2Xhvhy4r1IgW+37q6CM90RtDXTcqjoAIQe0K08GTh1K3MMqMRi0xPRoFoJvlLnRfVHaC2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      },
+      {
+        "name": "TyC Sports Play (PLAY 5)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+Uqx3JOwsOoFb3rqgn4iDaGJ2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+      }
+    ]
+  },
+  {
+    "name": "🟣 DEPORTE FOX SPORTS (🇲🇽)",
+    "samples": [
+      {
+        "name": "FOX Sports Premium",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlLPyOBQXN0B0h2i9q+fpR1VePqrl6zKhk3kX/a7Z0JOm5/L11bEy1KaxFLrXVANl57j9s+aqg5/i+j70eiExkNE=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw==",
+        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
+      },
+      {
+        "name": "FOX Sports 1 MX",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlKubzreld8NrTVVGTYy7mYav90sNuxykqT7DDyl9cBoxDXyphriivzUj010Vewm48pT7M1RR3KMd+NJ6wrdELtE=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOzSoB7t23q+MKICItfoaWcRZVmbZGijjsDOR3ikUGdlsgaSRrbgNgwBBhfPgsNTkpJWWGciTDcxXsz7q1314/RVILFC4epXiEuY8gjgPe1qf5O36tj2n0R04Dfbu3Eo+A==",
+        "icono": "https://i.ibb.co/n8fh45XB/fox-sports-mexico-official-logo-1-by-carwashdumpsterboy-diul2ao-fullview.png"
+      },
+      {
+        "name": "FOX Sports 2 MX",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlA4lTljC3r3ZcpNLcx8xaSndF71gLdyfkxNvNkabUsiKLlWVQgZAefuCZGUtdYKUALKs2WsSCBL23YkcclbFQ8M=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAu6MAjifdGJ1lxU8Fe+mDy5datvzy5HCjmn0SFgKRLJCLU4lQ+9ERonrb2p4YhS/LOPOWoxtnsqa7cf6vHCkleBBd6L6jKemZ93kZCIvJzk7yZkPyQ6PtsPEdy6c6I50g==",
+        "icono": "https://i.ibb.co/RNpLj4w/Dise-o-sin-t-tulo-8.png"
+      },
+      {
+        "name": "FOX Sports 3 MX",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlC0Hh2/YjYmdo46As80zbo5t41fBffd6wyPniVceURzEIunaQleh7DXPGd3HKCrQA0ltlhuzRJhh5wewGM7K3Qw=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMxxHL61hvVQM8vDU6N2zLnD/q6viq8SEA3sXQT/vopW7U+wHqewEkRohbefA9OlouzLgETMS+YLcgL+1qITkytKPjEN2B4GbJ7v0FMUSbB6CJhyksa9ikYl36Ho9wFLMw==",
+        "icono": "https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png"
+      }
+    ]
+  },
+  {
+    "name": "🟣 DEPORTE SKY SPORTS (⚽)",
+    "samples": [
+      {
+        "name": "SKY Bundesliga",
+        "url": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9pWZHiqjzHvWdlYx9K96TmUFjfBoTVUzRW9TM7xyRunAK7OHy50iCio8r4pjfESODs=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1M672VFNh10f8AwmCtlrTjjtQP0IpTJwFlurgO7aGhW6bq+LiBkbzAXh8tBeCdt8KBlpeg3FrhUT3X3ob7Oh1fQ2+WAzAkrqJjGLqDOVKafr6lHMdnX/YhLWKVCOvp+Q==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Evento 1",
+        "url": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5tnRuZSBgNsvCa8lS3TLyBU5POlV2/ARocuEVkGOGy6/dTeLOuaw1tUCBGYFI70QVc=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN+YqbMh36I+AVUYJBOL8cE7BCQf5PJp1+LUik4yqvtKrHu0YNaGfToSX/D4OVUJIe1rFSEw8M5wH+LZNDhNQBGUdyKA9IFBGcV1m505pW6n8AJOqeF613gM/YAE6ITgXQ==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Formula 1",
+        "url": "U9niqMx5IcnAZe8thwbVnK18fLXsAApTQMdUsBKkMgmfYHa1VnQCXx4a10WoSXHXaEnkV7LLkCZjCUwXyPJAN5RgGSBR6+7NLD1u67DaGCM=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJGILHD4E8llBJc23tT47cicS7S5FaKPsq1pNYzVK2/nhYZ6gPKSjuVVl+XiuN20zRWwwSE1hDPrs3guRJRs+yBHAU06hhvFy9jJKaxDXTOMwPkZroCTYot2VbMDZ8CRZg==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY La Liga",
+        "url": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi5WZHiqjzHvWdlYx9K96TmUGMPLOPPd7vlB/3pzD1m+/q7OHy50iCio8r4pjfESODs=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCf8Gut7Efeiztn2jhcTPtwfaKeKpCYnT/+g8IYSYySMnGRyR7757EDbtj9nllMY1zbObgK+79srLctSOJn2qr0tmJae+G2DMhmi2St44ioV0timyu9icVu5o6c3DOa/jw==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Padel",
+        "url": "ZJhJgBubWYyfWp957FaK1/zvAriHreTkrOiTfWzQAG96Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck30P7+ZJe7g84BxhXHa0Fa0HOYdCQf7jabjhcSTWl2OqomAnarDJKSyG+LlIRRL9/N2AZMQT5coNo77U8IvzE8QiYCdqsMkpLIb4uUhFEv3825r1Km4R8msQ0Gn4G7RCwt2BTmYAa0QSE7BwaoYKp1A",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN/BIOpyKBXjcfIVhq7Y9Ktv1TzLzJ086YtxrdC6KXhPJ5Xs+gIH7LkaR0Md3eo6xKWSFy3wgcII3OMDvUj2G4F30v+vNHbuTe9skX8WfhTqabgy5Pi3qZYIw5F+E9C88w==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Primera Liga",
+        "url": "UPR0Wwso74F47ChCcvKXQb7d4eKPIM1pdoOVoNA+3Aa3cJW61FZ3zbVe0HXpm5dfOAbd9eoh5+qA0YSx2fwtnQZD8Snp0thoQHnR078vmJ7PLxhrZ8N0ol4oP9VEQSH+",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJGILHD4E8llBJc23tT47cicS7S5FaKPsq1pNYzVK2/nhYZ6gPKSjuVVl+XiuN20zRWwwSE1hDPrs3guRJRs+yBHAU06hhvFy9jJKaxDXTOMwPkZroCTYot2VbMDZ8CRZg==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Sports",
+        "url": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm5WZHiqjzHvWdlYx9K96TmUdAdz2s9vxMgbwaL9C55j3cupEZ2KkCZ1VQRhLPzv7Sc=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO31r8UKAJvsd0wr+E66ZbDBi/Z11REJOVm2fbtbqBzlmgJj4aI3MV4H5TTuE5+CC/c2jNNtCU002qOVbAIKYzJBCZrSmGf2kLOJHQBvbKlonwXqvGcB02NlNd8JjrleeQ==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY Sports 2",
+        "url": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm5WZHiqjzHvWdlYx9K96TmUxLMzarmYGW0CKqCTbUGbWa7OHy50iCio8r4pjfESODs=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBMGnkEhShhZRKoIMJeMnOVEdoGCyb6pextIW1wW1zc/hmshWn3P6MDCOzg5mfbXVhNMVnrxS92gi4YZv2ZWUByEYnPs+L3DCMm9JiAgq3LhueiLb5gmFo57xqeIioeQEA==",
+        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🟣 DEPORTE VARIADOS (⚽)",
+    "samples": [
+      {
+        "name": "Rally TV",
+        "url": "wTAhfsmajK0JtMCNqgcjfxau7Z9hDBjaChJimaABER6aabh43ERbvWppZtaaus+toSqJyP49/oH6cQBUwQTHGERZLzmYeT3OBfME8HUczo9xYv5xBSpCJIulqy+S7l/UHKd0Px0yf9j6xRtDyvo4MYVgVTKQ5nyIOxlOeB7M0/5p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "NBA",
+        "url": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdcjygA6XHFAjErIwr0SbjitOhEmhKSWPrRrsBR527DkWR2uAlCyRSS+wIbiutWApHlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw==",
+        "icono": "https://i.postimg.cc/BvVTn2k2/download-2.png"
+      },
+      {
+        "name": "Golf",
+        "url": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5t6yhZYgaACJQADQFF1WVBkV1UWppXhX5HV/n5b8H4bMq7OHy50iCio8r4pjfESODs=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEvTmU0+whAlcxLqcq1HMK+ZaVHfug0li2xOwT08nY2K62n53mPYeMmK2H7IR5ozoU6mtOi4rp8YHVfmkaL3VRQ2UrrTY7AXcD0554jn2gbUoAA1pb0v1bXSld8vaHH32w==",
+        "icono": "https://i.postimg.cc/bw6bmQz4/download-3.png"
+      },
+      {
+        "name": "Bein Sports Ñ",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEgxuzSBbiouTWnfdbI8H7wfBawJQmHytfKo+e0bZsT8NqY42conWXDtckno2CX3E1UiE98oXZdic35SrWuDNoQX",
+        "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
+      },
+      {
+        "name": "Bein Sports Extra Ñ",
+        "url": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeWk2AFnwOjgYdMxY4VlqXJIZJxtYu9RS/ogqXdCYGjSV+Y3aXJo0PUrRZfPbAe7lcotOLYWJeHHTGmhUAlHuBwbKFXwCgZHPs7l0FrvzkVK4op8/KlawGSaarGB1xJudF7f9PrNzqvJl/uUwKiJVrU4=",
+        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
+      },
+      {
+        "name": "Win Sports",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhnv8BOcQatRR7ypcXCf+c8U8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffXl1p7twnRUashzhZ2TuGxk=",
+        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
+      },
+      {
+        "name": "Win Sports +",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhlg9v41Wgl79/p7CEAKyySU8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffelDUzLg+0FspLK8aoCYz8s=",
+        "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
+      },
+      {
+        "name": "Claro Sports",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhP9I5+rcpT+emzWZ52daakbJqzC/4IY3z7YlSCPLcN8YBzdb3lYARgvA+MVZLZVsZZzS51kKvJ7RFQ43PVeits",
+        "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
+      },
+      {
+        "name": "Cdo Premium",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjxC1L+Z+zdAXltysmQvJxNZldKedis+VuYxR6/m9/a+l5a+TjclcsN+EPmO7iO0O2Uf9dpsztkrHkV1aLKSBbG",
+        "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
+      }
+    ]
+  },
+  {
+    "name": "🟣 DEPORTE DAZN (🏁)",
+    "samples": [
+      {
+        "name": "DAZN Fast (Premier y La Liga)",
+        "url": "jtlCrvncU0La3bEtBBOmPTFaNRvffuA1uYJxgEOB9IDlTVBVZKBrLswSP2gkViojiLa/VA0nocT+jYyWe2iAo8aqTTo/PEawFAn+62SMNgw=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFMpPAOFAn22EOtYCMo1nJEHC5GT8mDlfbCZ0u8tzkVJYClI27hvWP3VJqcs832UiQvEiQlJ9/o0I/29dtqXP7+4hYnGVQgMEagHfhfaNU8/ceawU0xrV65Kn/B+oM/beQ==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
         }
+      },
+      {
+        "name": "DAZN 1",
+        "url": "oqyzk7pCEsWxpz4Blgv2MdqQsM52zkzh6U7mEG/kQ+KFvwLuTE/uhM9Q9MACtkPKdMFzS1XH/IKmnj8+o+vijMHNaa5qVd5DWtCk/6fjXVU=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
+        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "DAZN F1 (ts1)",
+        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX73GF6FtEq8k24aeaQ63rtckfViDdHDcf6s4kpIRcUeDg==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+      },
+      {
+        "name": "DAZN F1 (ts2)",
+        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX7qPXABOjsY8eWWejHR1f8Sx4WTbVw40ZAS091sHU4BMg==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
       }
     ]
   },
@@ -1044,323 +1313,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
         "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
-      }
-    ]
-  },
-  {
-    "name": "🟣 JUEGOS PANAMERICANOS ASUNCION 2025 (🤾🚴🏊‍♀️)",
-    "samples": [
-      {
-        "name": "Boleibol",
-        "url": "E2wd1Nh8KFFsT2UzJ4XGYnzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Ciclismo",
-        "url": "RMqXl3AELyKNFKLOtSq9anzY0W6fPexNaCdVdY/2XhsTrKkykmMBfxoC6F1o7+S1oLlpLO3SRNngkVrycahKeVKCkhicyu8+4vxQgPpp2yB2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Hockey",
-        "url": "kDN8yOzxk29ybkRaqNW4SXzY0W6fPexNaCdVdY/2XhsGqM5ZdN6cxWP/2/HhdO5/lVsZbNbVG92ATqbeM1n7Z1ilr1aJ//IbFXtDh+leqzV2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Natacion",
-        "url": "fn5nQcj2Z8428qCq/P4ae3zY0W6fPexNaCdVdY/2Xhs3jgTucQaZi6V1Yotp3ZBywBpxoix8hKZBhN1dULHLGpnmUdj5psN81PzSd4mUuVh2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Ping Pong",
-        "url": "wZKRazi0V9CUb1ZRFtd/73zY0W6fPexNaCdVdY/2XhuVZ9XLctwbpCyUNPLxD3rOepBOiOvrSSyQCXaYo8VR97hNweDM8xE64j1lHS/UP0h2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Voley",
-        "url": "oKeQnP/OAnsopnzbiQjk93zY0W6fPexNaCdVdY/2Xhs4vkR3kfINEBT/9/gje6M9FoTE7FhDBpbLewKVIaG6VF1ALXV8IWadoRAEBzFwMWN2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      },
-      {
-        "name": "Voley 2",
-        "url": "HWDbdpLI9UPYJyabV7H+GHzY0W6fPexNaCdVdY/2XhvOs75u6imqTH2ut/EhHQ6JzJcWH6yJK1Ag/1NlwjfALYw3g4tkioJziABfQXpbU3R2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/PANAME.png?raw=true"
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTES TyC SPORTS PLAY (⚽)",
-    "samples": [
-      {
-        "name": "TyC Sports Play (PLAY 1)",
-        "url": "2tmIY+7QStxx7bW1kBGkp3zY0W6fPexNaCdVdY/2Xhu1CGy6wd3yrvW13PgQV4y4qXshcE/qyVwice8Z/a9qsdRZu5isuRC+bTzu8IFXbfV2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TyC Sports Play (PLAY 2)",
-        "url": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TyC Sports Play (PLAY 3)",
-        "url": "9+AOB2I6M5lX6GW/+qSDaXzY0W6fPexNaCdVdY/2XhseyDla/6APCVN4tuTIk+9VWkyV75fwzrmipKfkm9Viu0FMOPr/5YXMGnkIG1vvU6h2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TyC Sports Play (PLAY 4)",
-        "url": "njEX2xu6xnULHEHcGyAzG3zY0W6fPexNaCdVdY/2Xhvhy4r1IgW+37q6CM90RtDXTcqjoAIQe0K08GTh1K3MMqMRi0xPRoFoJvlLnRfVHaC2jTjmvPfDU1HYb5HsuE4s",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      },
-      {
-        "name": "TyC Sports Play (PLAY 5)",
-        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+Uqx3JOwsOoFb3rqgn4iDaGJ2BTmYAa0QSE7BwaoYKp1A",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTE FOX SPORTS (🇲🇽)",
-    "samples": [
-      {
-        "name": "FOX Sports Premium",
-        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlLPyOBQXN0B0h2i9q+fpR1VePqrl6zKhk3kX/a7Z0JOm5/L11bEy1KaxFLrXVANl57j9s+aqg5/i+j70eiExkNE=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw==",
-        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
-      },
-      {
-        "name": "FOX Sports 1 MX",
-        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlKubzreld8NrTVVGTYy7mYav90sNuxykqT7DDyl9cBoxDXyphriivzUj010Vewm48pT7M1RR3KMd+NJ6wrdELtE=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOzSoB7t23q+MKICItfoaWcRZVmbZGijjsDOR3ikUGdlsgaSRrbgNgwBBhfPgsNTkpJWWGciTDcxXsz7q1314/RVILFC4epXiEuY8gjgPe1qf5O36tj2n0R04Dfbu3Eo+A==",
-        "icono": "https://i.ibb.co/n8fh45XB/fox-sports-mexico-official-logo-1-by-carwashdumpsterboy-diul2ao-fullview.png"
-      },
-      {
-        "name": "FOX Sports 2 MX",
-        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlA4lTljC3r3ZcpNLcx8xaSndF71gLdyfkxNvNkabUsiKLlWVQgZAefuCZGUtdYKUALKs2WsSCBL23YkcclbFQ8M=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAu6MAjifdGJ1lxU8Fe+mDy5datvzy5HCjmn0SFgKRLJCLU4lQ+9ERonrb2p4YhS/LOPOWoxtnsqa7cf6vHCkleBBd6L6jKemZ93kZCIvJzk7yZkPyQ6PtsPEdy6c6I50g==",
-        "icono": "https://i.ibb.co/RNpLj4w/Dise-o-sin-t-tulo-8.png"
-      },
-      {
-        "name": "FOX Sports 3 MX",
-        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlC0Hh2/YjYmdo46As80zbo5t41fBffd6wyPniVceURzEIunaQleh7DXPGd3HKCrQA0ltlhuzRJhh5wewGM7K3Qw=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMxxHL61hvVQM8vDU6N2zLnD/q6viq8SEA3sXQT/vopW7U+wHqewEkRohbefA9OlouzLgETMS+YLcgL+1qITkytKPjEN2B4GbJ7v0FMUSbB6CJhyksa9ikYl36Ho9wFLMw==",
-        "icono": "https://i.ibb.co/f0KqfQY/Dise-o-sin-t-tulo-9.png"
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTE SKY SPORTS (⚽)",
-    "samples": [
-      {
-        "name": "SKY Bundesliga",
-        "url": "e107LCLbimd9+C3RBUcIRVIjIa42gUGl9LPOYmAEP9pWZHiqjzHvWdlYx9K96TmUFjfBoTVUzRW9TM7xyRunAK7OHy50iCio8r4pjfESODs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1M672VFNh10f8AwmCtlrTjjtQP0IpTJwFlurgO7aGhW6bq+LiBkbzAXh8tBeCdt8KBlpeg3FrhUT3X3ob7Oh1fQ2+WAzAkrqJjGLqDOVKafr6lHMdnX/YhLWKVCOvp+Q==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Evento 1",
-        "url": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5tnRuZSBgNsvCa8lS3TLyBU5POlV2/ARocuEVkGOGy6/dTeLOuaw1tUCBGYFI70QVc=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN+YqbMh36I+AVUYJBOL8cE7BCQf5PJp1+LUik4yqvtKrHu0YNaGfToSX/D4OVUJIe1rFSEw8M5wH+LZNDhNQBGUdyKA9IFBGcV1m505pW6n8AJOqeF613gM/YAE6ITgXQ==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Formula 1",
-        "url": "U9niqMx5IcnAZe8thwbVnK18fLXsAApTQMdUsBKkMgmfYHa1VnQCXx4a10WoSXHXaEnkV7LLkCZjCUwXyPJAN5RgGSBR6+7NLD1u67DaGCM=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJGILHD4E8llBJc23tT47cicS7S5FaKPsq1pNYzVK2/nhYZ6gPKSjuVVl+XiuN20zRWwwSE1hDPrs3guRJRs+yBHAU06hhvFy9jJKaxDXTOMwPkZroCTYot2VbMDZ8CRZg==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY La Liga",
-        "url": "e107LCLbimd9+C3RBUcIRYjtXOsKpMUTlTO3DfvmQi5WZHiqjzHvWdlYx9K96TmUGMPLOPPd7vlB/3pzD1m+/q7OHy50iCio8r4pjfESODs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCf8Gut7Efeiztn2jhcTPtwfaKeKpCYnT/+g8IYSYySMnGRyR7757EDbtj9nllMY1zbObgK+79srLctSOJn2qr0tmJae+G2DMhmi2St44ioV0timyu9icVu5o6c3DOa/jw==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Padel",
-        "url": "ZJhJgBubWYyfWp957FaK1/zvAriHreTkrOiTfWzQAG96Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck30P7+ZJe7g84BxhXHa0Fa0HOYdCQf7jabjhcSTWl2OqomAnarDJKSyG+LlIRRL9/N2AZMQT5coNo77U8IvzE8QiYCdqsMkpLIb4uUhFEv3825r1Km4R8msQ0Gn4G7RCwt2BTmYAa0QSE7BwaoYKp1A",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN/BIOpyKBXjcfIVhq7Y9Ktv1TzLzJ086YtxrdC6KXhPJ5Xs+gIH7LkaR0Md3eo6xKWSFy3wgcII3OMDvUj2G4F30v+vNHbuTe9skX8WfhTqabgy5Pi3qZYIw5F+E9C88w==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Primera Liga",
-        "url": "UPR0Wwso74F47ChCcvKXQb7d4eKPIM1pdoOVoNA+3Aa3cJW61FZ3zbVe0HXpm5dfOAbd9eoh5+qA0YSx2fwtnQZD8Snp0thoQHnR078vmJ7PLxhrZ8N0ol4oP9VEQSH+",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJGILHD4E8llBJc23tT47cicS7S5FaKPsq1pNYzVK2/nhYZ6gPKSjuVVl+XiuN20zRWwwSE1hDPrs3guRJRs+yBHAU06hhvFy9jJKaxDXTOMwPkZroCTYot2VbMDZ8CRZg==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Sports",
-        "url": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm5WZHiqjzHvWdlYx9K96TmUdAdz2s9vxMgbwaL9C55j3cupEZ2KkCZ1VQRhLPzv7Sc=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO31r8UKAJvsd0wr+E66ZbDBi/Z11REJOVm2fbtbqBzlmgJj4aI3MV4H5TTuE5+CC/c2jNNtCU002qOVbAIKYzJBCZrSmGf2kLOJHQBvbKlonwXqvGcB02NlNd8JjrleeQ==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      },
-      {
-        "name": "SKY Sports 2",
-        "url": "e107LCLbimd9+C3RBUcIRW3cOpdAJ7W+8RLr/3xrkm5WZHiqjzHvWdlYx9K96TmUxLMzarmYGW0CKqCTbUGbWa7OHy50iCio8r4pjfESODs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBMGnkEhShhZRKoIMJeMnOVEdoGCyb6pextIW1wW1zc/hmshWn3P6MDCOzg5mfbXVhNMVnrxS92gi4YZv2ZWUByEYnPs+L3DCMm9JiAgq3LhueiLb5gmFo57xqeIioeQEA==",
-        "icono": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTE VARIADOS (⚽)",
-    "samples": [
-      {
-        "name": "Rally TV",
-        "url": "wTAhfsmajK0JtMCNqgcjfxau7Z9hDBjaChJimaABER6aabh43ERbvWppZtaaus+toSqJyP49/oH6cQBUwQTHGERZLzmYeT3OBfME8HUczo9xYv5xBSpCJIulqy+S7l/UHKd0Px0yf9j6xRtDyvo4MYVgVTKQ5nyIOxlOeB7M0/5p45ALkHccw+E8WuN7aDnp",
-        "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
-        "type": "HLS"
-      },
-      {
-        "name": "NBA",
-        "url": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdcjygA6XHFAjErIwr0SbjitOhEmhKSWPrRrsBR527DkWR2uAlCyRSS+wIbiutWApHlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzie3zYowT6E1XA751Ur/5nw==",
-        "icono": "https://i.postimg.cc/BvVTn2k2/download-2.png"
-      },
-      {
-        "name": "Golf",
-        "url": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5t6yhZYgaACJQADQFF1WVBkV1UWppXhX5HV/n5b8H4bMq7OHy50iCio8r4pjfESODs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEvTmU0+whAlcxLqcq1HMK+ZaVHfug0li2xOwT08nY2K62n53mPYeMmK2H7IR5ozoU6mtOi4rp8YHVfmkaL3VRQ2UrrTY7AXcD0554jn2gbUoAA1pb0v1bXSld8vaHH32w==",
-        "icono": "https://i.postimg.cc/bw6bmQz4/download-3.png"
-      },
-      {
-        "name": "Bein Sports Ñ",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEgxuzSBbiouTWnfdbI8H7wfBawJQmHytfKo+e0bZsT8NqY42conWXDtckno2CX3E1UiE98oXZdic35SrWuDNoQX",
-        "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Bein Sports Extra Ñ",
-        "url": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeWk2AFnwOjgYdMxY4VlqXJIZJxtYu9RS/ogqXdCYGjSV+Y3aXJo0PUrRZfPbAe7lcotOLYWJeHHTGmhUAlHuBwbKFXwCgZHPs7l0FrvzkVK4op8/KlawGSaarGB1xJudF7f9PrNzqvJl/uUwKiJVrU4=",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-      },
-      {
-        "name": "Win Sports",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhnv8BOcQatRR7ypcXCf+c8U8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffXl1p7twnRUashzhZ2TuGxk=",
-        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Win Sports +",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhlg9v41Wgl79/p7CEAKyySU8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffelDUzLg+0FspLK8aoCYz8s=",
-        "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Claro Sports",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhP9I5+rcpT+emzWZ52daakbJqzC/4IY3z7YlSCPLcN8YBzdb3lYARgvA+MVZLZVsZZzS51kKvJ7RFQ43PVeits",
-        "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Cdo Premium",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjxC1L+Z+zdAXltysmQvJxNZldKedis+VuYxR6/m9/a+l5a+TjclcsN+EPmO7iO0O2Uf9dpsztkrHkV1aLKSBbG",
-        "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTE DAZN (🏁)",
-    "samples": [
-      {
-        "name": "DAZN Fast (Premier y La Liga)",
-        "url": "jtlCrvncU0La3bEtBBOmPTFaNRvffuA1uYJxgEOB9IDlTVBVZKBrLswSP2gkViojiLa/VA0nocT+jYyWe2iAo8aqTTo/PEawFAn+62SMNgw=",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFMpPAOFAn22EOtYCMo1nJEHC5GT8mDlfbCZ0u8tzkVJYClI27hvWP3VJqcs832UiQvEiQlJ9/o0I/29dtqXP7+4hYnGVQgMEagHfhfaNU8/ceawU0xrV65Kn/B+oM/beQ==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
-        }
-      },
-      {
-        "name": "DAZN 1",
-        "url": "oqyzk7pCEsWxpz4Blgv2MdqQsM52zkzh6U7mEG/kQ+KFvwLuTE/uhM9Q9MACtkPKdMFzS1XH/IKmnj8+o+vijMHNaa5qVd5DWtCk/6fjXVU=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "DAZN F1 (ts1)",
-        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX73GF6FtEq8k24aeaQ63rtckfViDdHDcf6s4kpIRcUeDg==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
-      },
-      {
-        "name": "DAZN F1 (ts2)",
-        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX7qPXABOjsY8eWWejHR1f8Sx4WTbVw40ZAS091sHU4BMg==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
       }
     ]
   },
