@@ -792,6 +792,54 @@
     ]
   },
   {
+    "name": "​🇵🇾 TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)⚽",
+    "samples": [
+      {
+        "name": "TIGO test 🇵🇾",
+        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
+        "name": "Tigo Sports 1",
+        "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA=="
+      },
+      {
+        "name": "Tigo Sports 2",
+        "url": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
+        "type": "CLEARKEY",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZkZjioKs2LFT3z+uWn1mk2FpMrEI2KHtjFuJfKmbzLysh52cXla7ZJ9d1t605NUgbvd1hujBZLVZegdsxuMm0sAxK6FY7sEpZa8AZduK7QJH0SNVrQcY+NhNYGmPx5LrQ==",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "headers": {
+          "Origin": "h0MlQ5xM7sWNsMyIyHf4mfMv5HhvkP/l1Sp2R6PKEPI=",
+          "Referer": "h0MlQ5xM7sWNsMyIyHf4mYyZk4QaeuqBaXTTcUhuvAQ=",
+          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
+        }
+      },
+      {
+        "name": "Tigo Sports 3",
+        "url": "gB9PS4+bZVwwmGQVnF6KSn2uWKh10+U/4LpzzviPIskDZitNsdWj80cstFktl6oq40XKg5HgPDe76/uKQvRNtg==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
+        "name": "TIGO COPA PY",
+        "url": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyRpvgjTwtiCUuBgYP9i8kzG",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
+        "name": "TIGO INTERMEDIAS",
+        "url": "9n6KnizKL2gZ97Ny4tQWcGI/KmJbHo6xpp3k83MpxQAXUhzPr4Pp6vvn/YBblJKw",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      }
+    ]
+  },
+  {
     "name": "🟣 DEPORTE FOX SPORTS (🇲🇽)",
     "samples": [
       {
@@ -1027,52 +1075,10 @@
     ]
   },
   {
-    "name": "​🇵🇾 TIGO SPORTS PARAGUAY",
-    "samples": [
-      {
-        "name": "Tigo Sports 1",
-        "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA=="
-      },
-      {
-        "name": "Tigo Sports 2",
-        "url": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZkZjioKs2LFT3z+uWn1mk2FpMrEI2KHtjFuJfKmbzLysh52cXla7ZJ9d1t605NUgbvd1hujBZLVZegdsxuMm0sAxK6FY7sEpZa8AZduK7QJH0SNVrQcY+NhNYGmPx5LrQ==",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true",
-        "headers": {
-          "Origin": "h0MlQ5xM7sWNsMyIyHf4mfMv5HhvkP/l1Sp2R6PKEPI=",
-          "Referer": "h0MlQ5xM7sWNsMyIyHf4mYyZk4QaeuqBaXTTcUhuvAQ=",
-          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
-        }
-      },
-      {
-        "name": "Tigo Sports 3",
-        "url": "gB9PS4+bZVwwmGQVnF6KSn2uWKh10+U/4LpzzviPIskDZitNsdWj80cstFktl6oq40XKg5HgPDe76/uKQvRNtg==",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
-      },
-      {
-        "name": "TIGO COPA PY",
-        "url": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyRpvgjTwtiCUuBgYP9i8kzG",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
-      },
-      {
-        "name": "TIGO INTERMEDIAS",
-        "url": "9n6KnizKL2gZ97Ny4tQWcGI/KmJbHo6xpp3k83MpxQAXUhzPr4Pp6vvn/YBblJKw",
-        "type": "HLS",
-        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
-      }
-    ]
-  },
-  {
     "name": "🇧🇷 DEPORTE BRASIL",
     "samples": [
       {
-            "name": "CAZÉ TV",
+        "name": "CAZÉ TV",
         "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRtKnabK1oInLqQkIunlqNlKJ7wdEef1lNrwBYaxDYXQ+xtzGb/SVtXDapdOckNXSkv7ygsfQzUNfBvMCXyKTWx8s/bR/My91yOIYvSUAo7rU=",
         "type": "CLEARKEY",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNieshfYjOdDLw7Bne1JP8lJJRBD4ILAlEbMaSgNjxH9ZVK46oExX0uXqFpO2bAtOMhlxozsMUN3MiyR4Lpk35jGra1ftRp7saMYKoEYIztX6cIveN/jmbOtvH57dwWvPw==",
@@ -2991,132 +2997,6 @@
         "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpLLdAn9a7thCWykRbZhYx1UgAiOFE2Nmzr+sNXqfmQD1qe1Mq1gOHZUAbI9/EiZsFA==",
         "type": "HLS",
         "icono": "https://i.imgur.com/3YlJsCL.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      }
-    ]
-  },
-  {
-    "name": "🟣 DEPORTE BRASIL (🇧🇷)",
-    "samples": [
-      {
-        "name": "Premiere 1",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpD0C8XQXHLLNoA4xYgFZzb2pD40Ht7Xv6jqNAYK8NqdEyX172aKf2FCKXuWBJJhsgQ==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 2",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpF5UoSX7ZMwLFWYsefc10XURnc11b5gCPCz05fjyzWzz2oB0eiNiSNt4qtuehtVWKA==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 3",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpDNTP+C0w/EWloszjs3ulBcw6O5KBYK/mFwjA1jGEtRb83B1KsL3240+S2/1UTOkgA==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 4",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpF7PknnuUCs/be6rU7GpGihqzyQchiIV8UoSCqhpw553g7uhCJbrqpHciejMVBaI8w==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 5",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpE1U1Wt7Dd8KFQy8hnKUGYLMGgFPL0jYKwWllwGpODF6NRhncyyodrWVNQ4O6vo/oQ==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 6",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpMnjxSkxU7LqhgNkvrgM61z5QROtFeI6l5lcOgbUSXHE+Em9Qun7bAWMbuWJDWmnxg==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 7",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpJt92lB9dr8hINYDRpLedQGWFQuXCLkonljGgSS6Ydh+WUEhN3IAPKoB+WyX8umzOw==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Premiere 8",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpDjrsaLPRvFUAMDbAamnHKd53QC6CQwmzBMPDi3MPXdRTWX2IBA3khFxrZz7kFFnRA==",
-        "type": "HLS",
-        "icono": "https://reidoscanais.life/img/premiere.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Sport tv 1",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpGYNIvP1XbadTwXaB7pLDgiK1JaowFe1REyZ+Cj/214hB3s3cBDQkcjMsvC26ooRfA==",
-        "type": "HLS",
-        "icono": "https://i.imgur.com/eHJ8Vm3.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Sport tv 2",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpIutDKdqoD6OmiENNafyI/orfN7tEBSNwFbHb4VgAZ6hVB0oR8cUrI+DI15NP98SyA==",
-        "type": "HLS",
-        "icono": "https://i.imgur.com/eHJ8Vm3.png",
-        "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
-          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
-        }
-      },
-      {
-        "name": "Sport tv 3",
-        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpEIhUcSXIHq9vAt9+CICA1IsqkFk3TIIwySQygBET2knZ0OnH9nrKmSq8FWOOczjRg==",
-        "type": "HLS",
-        "icono": "https://i.imgur.com/eHJ8Vm3.png",
         "headers": {
           "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
           "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
