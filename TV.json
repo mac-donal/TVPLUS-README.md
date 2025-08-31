@@ -752,7 +752,8 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-      }}
+        }
+      }
     ]
   },
   {
@@ -1026,7 +1027,7 @@
     ]
   },
   {
-    "name": "​🟣 TIGO SPORTS PARAGUAY (🇵🇾)",
+    "name": "​🇵🇾 TIGO SPORTS PARAGUAY",
     "samples": [
       {
         "name": "Tigo Sports 1",
@@ -1068,7 +1069,84 @@
     ]
   },
   {
-    "name": "🟣 CANALES DE PARAGUAY (🇵🇾)",
+    "name": "🇧🇷 DEPORTE BRASIL",
+    "samples": [
+      {
+        "name": "CAZÉ TV",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRtKnabK1oInLqQkIunlqNlKJ7wdEef1lNrwBYaxDYXQ+xtzGb/SVtXDapdOckNXSkv7ygsfQzUNfBvMCXyKTWx8s/bR/My91yOIYvSUAo7rU=",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNieshfYjOdDLw7Bne1JP8lJJRBD4ILAlEbMaSgNjxH9ZVK46oExX0uXqFpO2bAtOMhlxozsMUN3MiyR4Lpk35jGra1ftRp7saMYKoEYIztX6cIveN/jmbOtvH57dwWvPw==",
+        "icono": "https://th.bing.com/th/id/R.5c7dd2578e8c6c0fea2800581ac834a9?rik=7hKZA46V1ufGSg&pid=ImgRaw&r=0",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "SPORTV",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRsIEaabpwAewg971HbDvooE7tov2neLuvmAVStNhNlEjYPEo+kQStM7bbTs4VOnGAFCkc28BJChMcWjY17w3coCr6lcaO4fL/ls++79ljfMI=",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64ain9JiqWlDXrlyddIc6tPbQD7gcgrA4KtGDbJVvA0qNlGNkPhn3vTe12BjK4P4I9w1s9d4+/Rs1uLbm5hKKtCxqsDOPEJHajHzrp/x90+15aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "SPORTV 2",
+        "url": "GGdWt+LZT1BER1Ph+qdMJAXrWIrDy9C9tY4bSP9AM+ARBrw6vbkJG2i3PVRPdGNhipH/LhfCkOdBpNmKYIjd9gQaAYAv9T9n6lsDCEBS7CMWqqTDlnOPT82yptPh3nYhcdYllvLLwZUL2ynRKf8wqMiywTwsk9uqbHSrdg2wWOdNA/iBvQ85uriGB1Xrn1Fa",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64ain9JiqWlDXrlyddIc6tPbQD7gcgrA4KtGDbJVvA0qNlGNkPhn3vTe12BjK4P4I9w1s9d4+/Rs1uLbm5hKKtCxqsDOPEJHajHzrp/x90+15aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv79a6jGwReS9U/L7YUkJFBQKy4gZXQBFMzPZWmn7Gn9/ePmthn9ntY6LCxIwx/iIhONoYyxexvM5efwfkC52StAUI5Frn67ZJlB5f2YU2VjaeOQC5B3HMPhPFrje2g56Q=="
+        }
+      },
+      {
+        "name": "SPORTV 3",
+        "url": "deqG7QASk761JjAqUjbpBIbON0BxpF0c1r10KKAFGOMNE85EtRJqzEQ2NQJmwsM/81UtlJ/CcT9wCnws5ZKA2m0GAGT0k8AgaQtuNwOUxL2VkfTeDgO3EsF4CrSeBT4exKZhFiatDiDw0pmYeHckxhfmv0KAkLngon4q9CnsXsuMJsskEhpTV72EG6tsMNNB",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEmMKRJQ7PCayLw+b4jSMgHAJj6Cf5+lxRQUJLoA+sJS53Uox9eHM/bO65cPz7j+Y0JQOU5+l+l2MPbBZFmpnT0hwCHfgYCCQxcIISt5GA19YaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv79a6jGwReS9U/L7YUkJFBQKy4gZXQBFMzPZWmn7Gn9/ePmthn9ntY6LCxIwx/iIhONoYyxexvM5efwfkC52StAUI5Frn67ZJlB5f2YU2VjaeOQC5B3HMPhPFrje2g56Q=="
+        }
+      },
+      {
+        "name": "BAND",
+        "url": "JT/aW0J7YtCkoXzpNjNxeot/dMPoCk2exhR5cdgThdQ=",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4RmP9D00/band.png"
+      },
+      {
+        "name": "PREMIERE 1",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlDDSw8dOg+hJ1QvaYce+VJwjHkgWN86XkpmxA1vxQaYXtGxw7kM8AB8CTfaK4qzz7+lAACdhdwSJAuF50WDr72o=",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAiL9Flsx8pqvwV3qVvSx4y1kY9PgQ451wP+CTi4GlFhSLq8k1bFlvGycOlgD9Q1MUxfqjr6qyhdgEV8im5iAGG4IizjE6MNJC/2RpoiaIcSzaF//abVWYTKAM0VQT16NA==",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv79a6jGwReS9U/L7YUkJFBQKy4gZXQBFMzPZWmn7Gn9/ePmthn9ntY6LCxIwx/iIhONoYyxexvM5efwfkC52StAUI5Frn67ZJlB5f2YU2VjaeOQC5B3HMPhPFrje2g56Q=="
+        }
+      },
+      {
+        "name": "PREMIERE 2",
+        "url": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfBnLYeC6eO+wTDHToE/W0gtKnabK1oInLqQkIunlqNlIR0d+NInIooWsH8sbmoLPdc0XMzM3poMjYZJJof7g3Zs+8uQenWaxVSdzvj/18XlH3xZGv9NaEWLzLtET3KHXs=",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYRYcCX4CjduqpwRuffUHW0sbGXapRs1FOXn1yeu33h5zAekXLOSvLuzi2bGKCSbTG9haoO+hI9F4Mg/zm8OMNF/otqZr8qm81v5Cj2tn9ONrCH+YorYsEF7MM5iFCExA==",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv79a6jGwReS9U/L7YUkJFBQKy4gZXQBFMzPZWmn7Gn9/ePmthn9ntY6LCxIwx/iIhONoYyxexvM5efwfkC52StAUI5Frn67ZJlB5f2YU2VjaeOQC5B3HMPhPFrje2g56Q=="
+        }
+      }
+    ]
+  },
+  {
+    "name": "🇵🇾 CANALES DE PARAGUAY",
     "samples": [
       {
         "name": "SNT",
@@ -1313,6 +1391,88 @@
         "type": "CLEARKEY",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
         "icono": "https://mediosenparaguay.com/gallery_gen/cae134f3e8f4e494d2759fd7fc84854c_300x300_fill.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🇧🇷 CANALES DE BRASIL",
+    "samples": [
+      {
+        "name": "Globo Sao Paulo",
+        "url": "09Aa2ZSDUkTfVBBCmQs8CQpm7aIkIHYP3HvxXkkzBW/GUS/YnOWvGkTFJcBiEmpS",
+        "type": "HLS",
+        "icono": "https://reidoscanais.life/img/tvglobo.png",
+        "headers": {
+          "Origin": "IgyHZU6DWE/pgI4gJkbxgePlCfyKUxO01o0LWHQxqt4=",
+          "Referer": "IgyHZU6DWE/pgI4gJkbxgZnkaQO5ehvLFW+QBy/S2bw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "Globo News",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpMEviZ2XW/quo9yxtr0dALR3mGNxIMPJbhCXxp3IZ7dcYRfQ6Yf288rHRq81i2I4fg==",
+        "type": "HLS",
+        "icono": "https://i.imgur.com/3yZyaCm.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "SBT",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpCIXfrbnSy5HG4NGR53zCTE1GY1/L3X7DWFQmOx7Rh9/vj3cY6CTgGOZj+yUlnhvRg==",
+        "type": "HLS",
+        "icono": "https://reidoscanais.life/img/sbt.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "Band",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpLSAraTG2aERsDDuou1Tr3vet3OVzBDBxYCjeoN3nfiToQN542JAAG4NSpUBba/K/w==",
+        "type": "HLS",
+        "icono": "https://reidoscanais.life/img/band.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "Band Sports",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpB3iwIbyd6u5V5h33mlkHL9O8Vk+N7dh3yuc34tD84IKZttHnqJoLYing+TwrBJLRQ==",
+        "type": "HLS",
+        "icono": "https://i.imgur.com/EuPvzJe.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "Rede TV",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpAZsoHDoIqN4TnMdI/F4rEPmKLl0OEJRyxf+xMRBkoSqiBBmHAftfnH7IQOXBB8Zww==",
+        "type": "HLS",
+        "icono": "https://embedtv.digital/assets/images/record.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "Band News",
+        "url": "yAIOiZpFdGXK0plWf8Zc1ETRUFMYwIcYo8NIFrcQ3KEMw0p88TrsthfzxIlu1+sDojYxxgL8OygigDpm5DNMpLLdAn9a7thCWykRbZhYx1UgAiOFE2Nmzr+sNXqfmQD1qe1Mq1gOHZUAbI9/EiZsFA==",
+        "type": "HLS",
+        "icono": "https://i.imgur.com/3YlJsCL.png",
+        "headers": {
+          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
+          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       }
     ]
   },
