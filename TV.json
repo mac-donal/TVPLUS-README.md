@@ -1063,16 +1063,15 @@
       {
         "name": "FORMULA 1  PRO",
         "url": "nainWZNQ8Iqu28VsYRPIFhUmnirrgSg2MoJBh/plmpWUYBkgUevuzSw9buuw2hgj",
-        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
         "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "X-Hash": "9oufBLIjzKUDU5Hrs1o7BSudmX13i09NO-GGRvbNVL7f5wfLv2RErxDFc5sCwzFT2THKaZC0NQ8aMRMxg6Xck6ZcKnrZKVkYjRNWy-NiFPOS4bGfTbptH6ScwZrSWpb3Pz0HRFdPaAVbj1tAgyCKHvYknDfSkkj9u7kVSJaaUruLOsuAM1_59LkWG5hvpm_CfQrUThuu2jKb1ynq0PEUFYVW_6E8M0Js1DNG2JQ-PmmU0u4NCHvdXVPQTQzTNAogIa37ImQb1DWudI3zkl0TD9C6J3n1mldavExYsPoVs-DjY97t1zi7wdPx9hFrjJbU2qL2eG9bAZfrru63MGMPcfNANWy7EoSB8vgTtfKbgE98tsKsr2h8EMBXefgz3-QxJvc8lWAF2L9y-tLDMIq8zwGhHP0PIEYHbqBbkGEbLm30WJgvhjZAQBnCH2y4KRRGDlpnFyC5A07otzHAPV4AVAVF01QIayAkF4oAwhEIRvKfYcWs0mGk80A4oe6jCA6S",
+          "X-Hash": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU=",
+          "X-Did": "704b97090ad1fb5e",
+          "X-Version": "Ncu4vcomqyGNp+losTV5cg==",
           "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
+        }
       },
       {
         "name": "DAZN F1 (ts2)",
