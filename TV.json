@@ -1,6 +1,6 @@
 [
   {
-    "name": "🟣 CANALES DE ARGENTINA (🇦🇷)PY",
+    "name": "🟣 CANALES DE ARGENTINA (🇦🇷)",
     "samples": [
       {
         "name": "America TV",
@@ -1890,6 +1890,351 @@
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
         }
+      }
+    ]
+  },
+  {
+    "name": "CINE 24/7",
+    "samples": [
+      {
+        "name": "CINE ACCIÓN",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusF46BVDp+Cdvnx8lT10a1CDOB4WjBDIl+uxcJ6Dsc/XQHhsEDyTcObw7sgdFRwQdIorBbmcNZSKKlQS7PcHXUxR+4Qp7UGcKy/KFnxbdQVvhQXsKAm7WpGT0+zlL19VjUQ=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE FANTASÍA",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusHt5cXvGsoFhX+UxzytaTvXOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDlSfbJrbM8yA7MwDC+JedYA=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE ACCIÓN SAGAS",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusGLqAtf5Zij1twpNl5VUaPNOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDrP6Q4JK/8vtampJYiEm8p8=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "MARVEL ACCIÓN",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusEE9M3/f0m/+FGO5pER58sQOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDo2jQ9gfosaL+jVDjk4xZTM=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE INFANTIL",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusHJUvoPNyc9oqKlAecKDptuOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDgs0Xx/r6+gkJZkJzi8cgbg=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE ROMANCE",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusGYEio+yKA4j7ZRxWoD8d2mOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDtr7DkvUEMUI33SrvUGJtLo=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE ZOMBIES",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusHYME8lHu6g01ZLkuPZ2MdyOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDt8LfGJ+0DFx+4+JQNJ84Fw=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE NAVIDEÑO",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusFQ2AzpCDbmy5oy4zL6dIcYQH5gEloaZAzJb/LWP5hynEJF6ldCg6CjcsoM6fiSQTL3WEb8r5tTpiGZYSPT7UvuvfWp33KC2GrtUVXtChNZ/9j7QtwM2hbVK7APbkjlJq4=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE TERROR",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusGGpYHrhbnpWwF42mA+wB4GOB4WjBDIl+uxcJ6Dsc/XQDJ1lQ6VBmkU17/rgzCMZIyxZjugphmfIfXFzugzRqatfOl3hpuzKTrdzQRu4cIuDmSksUdbj1+ROwMw7cBSobo=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE COMEDIA 2",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiMNbENn5LMb5fmzVD7ucLTjGPzFS1BSBYPXa56PewwAsRFiASnlLqQocvxcdUsxwh3Wduov6gpIIDgyOXB12Dn/01TRyvKgbsoXNJQ7Gyu8q0Si2SPxlulgu5Xe1cXnu8=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE INFANTIL SAGAS",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhlIgBkCpKsESu+SlbKJGWhjGPzFS1BSBYPXa56PewwAsRFiASnlLqQocvxcdUsxwh3Wduov6gpIIDgyOXB12Dn/01TRyvKgbsoXNJQ7Gyu8qFa3lCgLFAfSmE1MIhq6fA=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "TERROR 24/7",
+        "url": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8MrFmnYMHJHYv4Zi6WeSr1/lGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "CINE FICCIÓN",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEix7gqLprB6FP/VD6SG81E/jGPzFS1BSBYPXa56PewwAsRFiASnlLqQocvxcdUsxwh3Wduov6gpIIDgyOXB12Dn/01TRyvKgbsoXNJQ7Gyu8u0nlesh0O7NwodXvsO0X9Q=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CINE COMEDIA",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiHPC+XHYba10AQZGPQMLUljGPzFS1BSBYPXa56PewwAsRFiASnlLqQocvxcdUsxwh3Wduov6gpIIDgyOXB12DnhygW0SBL5RQZ4LA6ZETmfOgdf2v7dHAuhs6FGR9f+rQ=",
+        "icono": "https://thumbs.dreamstime.com/b/el-cine-se-opone-el-cubo-de-las-palomitas-y-el-rollo-de-pel%C3%ADcula-retro-del-estilo-87425315.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      }
+    ]
+  },
+  {
+    "name": "CANALES 24/7 🔄",
+    "samples": [
+      {
+        "name": "DRAGON BALL SUPER",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEivF1HQ/8vj0dAdP5iZwM4ejGPzFS1BSBYPXa56PewwAuYETQYD95LcSLF4N/YALkVVA/q+TShage3UG3ixztHnRkEsD2Bhv6fIpPJsby8KKdkM3t1BMIdYX6EUTYr1tPI=",
+        "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiLWvgXZ+pe2ZCFJQgTCqFVAjJFDi5JVrs0t72jWbT6Z+/TvJDqulJtow8MphkmdVZY4SsyqQLh1OiKQ4+9zTIzEJJ8AfUSPjdefOFGQvPBipJj2C/vQFDyGFPqk+x9MXQ=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CHESPIRITO",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjEdQHw8Qoa4ZYum2EbcJ0qAjJFDi5JVrs0t72jWbT6Z+/TvJDqulJtow8MphkmdVZY4SsyqQLh1OiKQ4+9zTIzEJJ8AfUSPjdefOFGQvPBiu842H5hcipETPVSLWKEVwc=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "EL CHAVO DEL 8",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhr/qxa/oQuWb0dz5vWCygMAjJFDi5JVrs0t72jWbT6Z+/TvJDqulJtow8MphkmdVZY4SsyqQLh1OiKQ4+9zTIzt5AEu1cRDx2jHJirRi5hHQQpWkrIaH2AWIYgvkZBqiw=",
+        "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "ALF",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjOP2y6w+tFQrqtAYIJK2roH2/8PxZyqZ+7CvZXJL3MGcPVqjFUTKFBTLsUb7LAwaX6yu4/0Btcm5sU7Y+VKxt5/6WqGa4WUhwTe0S62TL5A7aNOOa898NTUdhvkey4Tiw=",
+        "icono": "https://i.ibb.co/xtbHtrr6/R-5.png",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "NARUTO",
+        "url": "kkV39QA++u5LAnS3kj7MzreqZu6Gj5lRMdVDar1gusH6nO8KgPVA1uDfr3KXLq8lOB4WjBDIl+uxcJ6Dsc/XQHhsEDyTcObw7sgdFRwQdIorBbmcNZSKKlQS7PcHXUxR+4Qp7UGcKy/KFnxbdQVvhf0mCXuoalxRtwri+yuXNQw=",
+        "icono": "https://wallpapers.com/images/hd/naruto-profile-pictures-sa1tekghfajrr928.jpg",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CANTINFLA",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRP55DCWAPkaIKimQKFRrjRw2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://thumbs.dreamstime.com/b/24-7-s%C3%ADmbolo-14240865.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "THE WALKING DEAD",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPElQ3fm3G0eJwJQpH45e+aWnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "EL PRINCIPE DEL RAP",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPiavDvvpwOvVneyEhlC6BzmnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://media.vogue.mx/photos/5f32e680e4fa9324a3c51aa6/master/pass/_will-smith-El-principe-del-rap.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "LOS PICAPIEDRAS",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPD5wDm70/bYncsURYl4/NrmnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn31f6UC9bVQOad-gfNfnpbEGQbzYHSqtPWQ&s",
+        "type": "HLS"
+      },
+      {
+        "name": "LA PANTERA ROSA",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPlSRleQPAQ8vSSnycPucTkWnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://images.justwatch.com/poster/321842414/s332/temporada-3",
+        "type": "HLS"
+      },
+      {
+        "name": "BOB ESPONJA",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPMfd66+D5eXHIKeNZARm80mnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://es.web.img2.acsta.net/c_310_420/pictures/14/02/14/13/28/226531.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "PAJARO LOCO",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRP6JFoL30f8lLRBgysmAhxZ2njkAuQdxzD4Txa43toOek=",
+        "icono": "https://data.pixiz.com/output/user/frame/preview/400x400/3/6/7/6/1936763_0cd2c.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "LOS SIMPSON",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPn7kDbZBA6+rPiuatfooFHWnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://media.todojujuy.com/p/fedfa3c069f58f13878ba01c6b91a50f/adjuntos/227/imagenes/000/207/0000207826/los-simpson.jpg",
+        "type": "HLS"
       }
     ]
   },
