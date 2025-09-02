@@ -1,360 +1,97 @@
 [
   {
-    "name": "🔞 ADULTOS",
+    "name": "🔞 CANALES +186",
     "samples": [
       {
         "name": "PLAYBOY",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2VCsyqZvfN1AYRCosxQmtDqvVgLRsaKSmXsBul6W6d2P2PJneMWLIpiK7xRo5n1xp45ALkHccw+E8WuN7aDnp",
         "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGUEJPUYH82RihHcXhN8CHsGMZM49N4n8Egl3iALBjgmU1HmT09WigGPiDsn6DTGCtRv1YJxCKTWnB53zPIs5zbuPuXnGVi+UwMb24GbkO7D2JMpx+oReVYbclNK6YhoHg==",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
         "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/guia-de-tv",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
         }
       },
       {
         "name": "PLAYBOY OPC 2",
-        "url": "https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd",
+        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87CKBl2ulGjHPL1ZWSYOW5u+jjtULnOXEwJRch+4Uc403cupEZ2KkCZ1VQRhLPzv7Sc=",
         "type": "CLEARKEY",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f51160ad68cb411abbae2b7e51e20ad4&key=3015d76327dcd38f19037e5af639ebb2",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCVvAo+rNCr+c8w5xQpiAo3G0JHnuS1+EPS3vvzrJANlk7SrvMBXPbZyYtZ6Ry7aqh7zm8vnfE0HZmS5+0bzdntOjdLFp+cRCH6WVX77p9S4FoMF2w541dF7JDsWZjW+Rw==",
         "headers": {
-          "Referer": "https://player.sensa.com.ar/",
-          "webtoken": "1.0",
-          "Origin": "https://player.sensa.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "webtoken": "+iIHLhifnL33WunO8InC7w==",
+          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
-        "name": "PLAYBOY OPC 3",
-        "url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8",
+        "name": "PLAYBOY 3",
+        "url": "S9f0HB/K2ZVTdnlk8ZFiP9/iTPTu40LHC97TMwCJiZIy0Zw12mep/KGfhRQFx0fgmwq4sQA1e/WOProYJbmIng==",
         "type": "CLEARKEY",
-        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpgg",
-        "drm_license_uri": "",
+        "drm_license_uri": "aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
         "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/guia-de-tv",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "aeOQC5B3HMPhPFrje2g56Q==",
+          "Referer": "aeOQC5B3HMPhPFrje2g56Q==",
+          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
         }
       },
       {
         "name": "VENUS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKj+IqPjsw0zQ0glHLlGoKmHXzdiUgkZ17bpH50KOHdlCzwW8VhppHEgUmmEW40jJk=",
         "type": "CLEARKEY",
-        "icono": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHb8fPdMuQsNmdX2yvjsQSVe6bmvQM2bUofak6fc2GEbXV9MTIpKdkmy0AisRb7tJx6j4OvhUfQ1vfAnonXyCM61uzsP1RInK7D45+9i5ccPRRyO9wkYwt0ea7LtVjVolQ==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
         "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/guia-de-tv",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
         "name": "Sextreme",
-        "url": "http://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKj+IqPjsw0zQ0glHLlGoKmHXzdiUgkZ17bpH50KOHdlCzwW8VhppHEgUmmEW40jJk=",
         "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGwOva+5ORT9swKCoBz3ZORunSZilmSN3DYYoHVfNa1GctRvzDkq6PMiCYP6FUYw5EydE86QBt/whqU8Zzu/akan4iex/PGkWGqe3ART9/U5MESFQDBJFybL/91IAmO8RQ==",
         "icono": "https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434",
         "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/guia-de-tv",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
         "name": "Hustler Maturet",
-        "url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIyll+54+Rf4A03MMc6IlzGHNaCEdka4GbJqlluqlIt6nqqifg8hG8kt47Z90eHJQM=",
         "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEe1oe2GfTNbsauDN9oRlU3Ni8mcYfo0PpvvsX5ewWEL1bIvMoJuJm5D8471yZZl7UFtYrh7BS4X5HYOLS8qgGXcAUyLbeQ6Htv4MuMHvmCtFoMF2w541dF7JDsWZjW+Rw==",
         "icono": "https://i.ibb.co/BZLz3DM/Hustler-Mature.png",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cf37db556be5ee1ecd1ee1f1bcf39390&key=cb2d8390f9c6c39311939fb51ba42ab2",
         "headers": {
-          "Origin": "https://web.app.flow.com.py",
-          "Referer": "https://web.app.flow.com.py/guia-de-tv",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
         "name": "Penthouse Gold",
-        "url": "http://108.160.144.230:1234/stream/pruebas/prueba2/stream.m3u8?uid=3652893391&u=tv_online&p=3e6dc62f220c57f4e44e3dd541c175b3a4fd22986bafa16d47ce3d4c2b224ac8",
-        "type": "CLEARKEY",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5sYi4-GENOmWW9dkgFbNL8Luh0ZYj35MoA&s",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolAY4QDGl4vYFagtDrR6/LQAeQ+i3u4BApHXxBl0PW0p9cj5ZfBsrymSbZH72qwZAuw9Cgj9SXZ25QeUhQLAmDrUFsB8qZ/cqCX4LPDleH0WqGJF8SWYVJd+cbiO6BMvR2PBiWTeWJrKlyYzG9oc0L9hVEffZE4WkDjeD4oqaTeDpw==",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
       },
       {
-        "name": "Anal Total",
-        "url": "http://cdn.adultiptv.net/anal.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
+        "name": "nal Total",
+        "url": "x8PKB2q3mMKurxq1afhjS8naaSE30JCqK+p2EivlUxEiE98oXZdic35SrWuDNoQX",
+        "type": "HLS",
+        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
       },
       {
         "name": "Arab Girls",
-        "url": "http://live.mycamtv.com/arab.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Asian",
-        "url": "http://cdn.adultiptv.net/asian.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Asian Girls",
-        "url": "http://live.mycamtv.com/asian.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Big Culos",
-        "url": "http://cdn.adultiptv.net/bigass.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Big Ass Girls",
-        "url": "http://live.mycamtv.com/bigass.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Big Dick",
-        "url": "http://cdn.adultiptv.net/bigdick.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Big Boobs",
-        "url": "http://cdn.adultiptv.net/bigtits.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Big Tits Girls",
-        "url": "http://live.mycamtv.com/bigtits.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Blonde",
-        "url": "http://cdn.adultiptv.net/blonde.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Blonde Girls",
-        "url": "http://live.mycamtv.com/blonde.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Blowjob",
-        "url": "http://live.mycamtv.com/blowjob.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Blowjob",
-        "url": "http://cdn.adultiptv.net/blowjob.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Brunette",
-        "url": "http://cdn.adultiptv.net/brunette.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Brunette Girls",
-        "url": "http://live.mycamtv.com/brunette.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Compilation",
-        "url": "http://cdn.adultiptv.net/compilation.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Cuckold",
-        "url": "http://cdn.adultiptv.net/cuckold.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Ebony Girls",
-        "url": "http://live.mycamtv.com/ebony.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Fetish",
-        "url": "http://cdn.adultiptv.net/fetish.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Gangbang",
-        "url": "http://cdn.adultiptv.net/gangbang.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Gay",
-        "url": "http://cdn.adultiptv.net/gay.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Girls Squirt",
-        "url": "http://live.mycamtv.com/squirt.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Hardcore",
-        "url": "http://cdn.adultiptv.net/hardcore.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Interracial",
-        "url": "http://cdn.adultiptv.net/interracial.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Latina",
-        "url": "http://cdn.adultiptv.net/latina.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Latina Girls",
-        "url": "http://live.mycamtv.com/latina.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Lesbian",
-        "url": "http://cdn.adultiptv.net/lesbian.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Live Cams",
-        "url": "http://cdn.adultiptv.net/livecams.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Mature",
-        "url": "http://live.mycamtv.com/bigtits.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Medium Girls",
-        "url": "http://live.mycamtv.com/medium.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "MILF",
-        "url": "http://live.mycamtv.com/milf.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "MILF",
-        "url": "http://cdn.adultiptv.net/milf.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Pornstar",
-        "url": "http://cdn.adultiptv.net/pornstar.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "POV",
-        "url": "http://cdn.adultiptv.net/pov.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Rough",
-        "url": "http://cdn.adultiptv.net/rough.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Russian",
-        "url": "http://cdn.adultiptv.net/russian.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Skinny Girls",
-        "url": "http://live.mycamtv.com/skinny.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Teen",
-        "url": "http://cdn.adultiptv.net/teen.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Teen Girls",
-        "url": "http://live.mycamtv.com/teen.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Threesome",
-        "url": "http://cdn.adultiptv.net/threesome.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "White Girls",
-        "url": "http://live.mycamtv.com/white.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "Young Girls",
-        "url": "http://live.mycamtv.com/young.m3u8",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY=",
-        "type": "HLS"
-      },
-      {
-        "name": "AdultIPTV.net Anal (720p)",
-        "url": "http://cdn.adultiptv.net/anal.m3u8",
+        "url": "p3uEQ1bmxSMIrR/70EM5p0TFwXhIpuIOLbS5lGxGZNGDQEVaEFpm2y1HhTJoBy2v",
         "type": "HLS",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yqVD8QG-uXr1h1TWYlemdNULFdc6V_WxWg&s"
-      },
-      {
-        "name": "MYCAM1",
-        "url": "https://cdn.adultiptv.net/anal.m3u8",
-        "type": "HLS",
-        "icono": "https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png"
-      },
-      {
-        "name": "MYCAM2",
-        "url": "https://cdn.adultiptv.net/bigass.m3u8",
-        "type": "HLS",
-        "icono": "https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png"
+        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
       }
     ]
   }
