@@ -1,91 +1,176 @@
 [
-    {
-        "name": "🔞 CANALES +18",
-        "samples": [
-            {
-                "name": "MyCamTV 1",
-                "url": "http://live.mycamtv.com/anal.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 2",
-                "url": "http://live.mycamtv.com/arab.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 3 (Asia)",
-                "url": "http://cdn.adultiptv.net/asian.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 4",
-                "url": "http://cdn.adultiptv.net/bigass.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 5",
-                "url": "http://live.mycamtv.com/bigass.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 6",
-                "url": "http://cdn.adultiptv.net/bigdick.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 7",
-                "url": "http://cdn.adultiptv.net/bigtits.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 8",
-                "url": "http://live.mycamtv.com/bigtits.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 9",
-                "url": "http://cdn.adultiptv.net/blonde.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 10",
-                "url": "http://live.mycamtv.com/blonde.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 11",
-                "url": "http://cdn.adultiptv.net/brunette.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 12",
-                "url": "http://live.mycamtv.com/brunette.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 13",
-                "url": "http://cdn.adultiptv.net/compilation.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            },
-            {
-                "name": "MyCamTV 14",
-                "url": "http://cdn.adultiptv.net/cuckold.m3u8",
-                "type": "HLS",
-                "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
-            }
-        ]
-    }
+  {
+    "name": "🔞 CANALES +18",
+    "samples": [
+      {
+        "name": "PLAYBOY",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2VCsyqZvfN1AYRCosxQmtDqvVgLRsaKSmXsBul6W6d2P2PJneMWLIpiK7xRo5n1xp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGUEJPUYH82RihHcXhN8CHsGMZM49N4n8Egl3iALBjgmU1HmT09WigGPiDsn6DTGCtRv1YJxCKTWnB53zPIs5zbuPuXnGVi+UwMb24GbkO7D2JMpx+oReVYbclNK6YhoHg==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
+        }
+      },
+      {
+        "name": "PLAYBOY OPC 2",
+        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87CKBl2ulGjHPL1ZWSYOW5u+jjtULnOXEwJRch+4Uc403cupEZ2KkCZ1VQRhLPzv7Sc=",
+        "type": "CLEARKEY",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCVvAo+rNCr+c8w5xQpiAo3G0JHnuS1+EPS3vvzrJANlk7SrvMBXPbZyYtZ6Ry7aqh7zm8vnfE0HZmS5+0bzdntOjdLFp+cRCH6WVX77p9S4FoMF2w541dF7JDsWZjW+Rw==",
+        "headers": {
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "webtoken": "+iIHLhifnL33WunO8InC7w==",
+          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "PLAYBOY 3",
+        "url": "S9f0HB/K2ZVTdnlk8ZFiP9/iTPTu40LHC97TMwCJiZIy0Zw12mep/KGfhRQFx0fgmwq4sQA1e/WOProYJbmIng==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "aeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "headers": {
+          "Origin": "aeOQC5B3HMPhPFrje2g56Q==",
+          "Referer": "aeOQC5B3HMPhPFrje2g56Q==",
+          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
+        }
+      },
+      {
+        "name": "VENUS",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKj+IqPjsw0zQ0glHLlGoKmHXzdiUgkZ17bpH50KOHdlCzwW8VhppHEgUmmEW40jJk=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHb8fPdMuQsNmdX2yvjsQSVe6bmvQM2bUofak6fc2GEbXV9MTIpKdkmy0AisRb7tJx6j4OvhUfQ1vfAnonXyCM61uzsP1RInK7D45+9i5ccPRRyO9wkYwt0ea7LtVjVolQ==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Sextreme",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKj+IqPjsw0zQ0glHLlGoKmHXzdiUgkZ17bpH50KOHdlCzwW8VhppHEgUmmEW40jJk=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGwOva+5ORT9swKCoBz3ZORunSZilmSN3DYYoHVfNa1GctRvzDkq6PMiCYP6FUYw5EydE86QBt/whqU8Zzu/akan4iex/PGkWGqe3ART9/U5MESFQDBJFybL/91IAmO8RQ==",
+        "icono": "https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Hustler Maturet",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIyll+54+Rf4A03MMc6IlzGHNaCEdka4GbJqlluqlIt6nqqifg8hG8kt47Z90eHJQM=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEe1oe2GfTNbsauDN9oRlU3Ni8mcYfo0PpvvsX5ewWEL1bIvMoJuJm5D8471yZZl7UFtYrh7BS4X5HYOLS8qgGXcAUyLbeQ6Htv4MuMHvmCtFoMF2w541dF7JDsWZjW+Rw==",
+        "icono": "https://i.ibb.co/BZLz3DM/Hustler-Mature.png",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Penthouse Gold",
+        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolAY4QDGl4vYFagtDrR6/LQAeQ+i3u4BApHXxBl0PW0p9cj5ZfBsrymSbZH72qwZAuw9Cgj9SXZ25QeUhQLAmDrUFsB8qZ/cqCX4LPDleH0WqGJF8SWYVJd+cbiO6BMvR2PBiWTeWJrKlyYzG9oc0L9hVEffZE4WkDjeD4oqaTeDpw==",
+        "type": "HLS",
+        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
+      },
+      {
+        "name": "Penthouse Gold",
+        "url": "6lwwR5gd8purBy/vlcsAUoCej6UwiYp4RK+/61oPhFkB3uwx4QdkIawiXW05QnokQa2T6qauTADSwGuPiqrMlt7O4ReamfxSGI1NvOm9H6Pj2TDUNr4fghVFpsXXGDZ/hnPrnAWoEyAERZJ46d3qU0OycLj0pYK3WkzuQ9d/2qQYe7/EfAFzsF/d5OJxosqSilJoyXyYMUh4B5V6SL4g+0BcUmBdYKv8O07zzqXvjD2UQbc8Kg3z/B1rkXT2l1dUwiQCRSTuKYdEtqBsYKQM+toeftNnsl868JI4wiWIr9Y=",
+        "type": "MPD",
+        "icono": "https://github.com/luisoddone/femon/blob/main/oso1.png?raw=true"
+      },
+      {
+        "name": "MyCamTV 1",
+        "url": "p3uEQ1bmxSMIrR/70EM5pwZF3GaSekfNjiD6TeFJ2dWDQEVaEFpm2y1HhTJoBy2v",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 2",
+        "url": "p3uEQ1bmxSMIrR/70EM5p0TFwXhIpuIOLbS5lGxGZNGDQEVaEFpm2y1HhTJoBy2v",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 3 (Asia)",
+        "url": "x8PKB2q3mMKurxq1afhjS8ePsVcYh0PzxlQKb6YycE92BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 4",
+        "url": "x8PKB2q3mMKurxq1afhjS3+uFvIUIQJHl8FWmqEzXymUYBkgUevuzSw9buuw2hgj",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 5",
+        "url": "p3uEQ1bmxSMIrR/70EM5p/bzZAJ2FrJsbDNKf9vz/nF2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 6",
+        "url": "x8PKB2q3mMKurxq1afhjS2+j3Ts1rUDKB+gDC/YofuO2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 7",
+        "url": "x8PKB2q3mMKurxq1afhjS+0Rb70JhWm7iZN8VbQkxSe2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 8",
+        "url": "p3uEQ1bmxSMIrR/70EM5p8wvxBt01ONKt5PlxZSjfjaUYBkgUevuzSw9buuw2hgj",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 9",
+        "url": "x8PKB2q3mMKurxq1afhjSx4cfn8yU/eIMwlvQT2P5g2UYBkgUevuzSw9buuw2hgj",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 10",
+        "url": "p3uEQ1bmxSMIrR/70EM5p6hKqIIGflzUmNmvj/nV5c52BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 11",
+        "url": "x8PKB2q3mMKurxq1afhjSyeMu6vCvTvbP/VtoW73q40KLqgtmx34lZuL2aa6nPVK",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 12",
+        "url": "p3uEQ1bmxSMIrR/70EM5p4fTQY8yORmUuXVj+tV51Yq2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 13",
+        "url": "x8PKB2q3mMKurxq1afhjS1fp6iwLjAuKyYjhqEVlQJXOMNz99Ed/juk73pL33QIY",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      },
+      {
+        "name": "MyCamTV 14",
+        "url": "x8PKB2q3mMKurxq1afhjSyqpdaLSL13OIKjqOGIetwm2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://previews.123rf.com/images/branche/branche1402/branche140200038/26333333-xxx-icon-adults-only.jpg"
+      }
+    ]
+  }
 ]
