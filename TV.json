@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA14",
+    "name": "🇦🇷 CANALES DE ARGENTINA15",
     "samples": [
       {
         "name": "El Destape",
@@ -1120,34 +1120,114 @@
         }
       },
       {
-        "name": "TyC Sports Play (PLAY 1)",
-        "url": "2tmIY+7QStxx7bW1kBGkp3zY0W6fPexNaCdVdY/2Xhu1CGy6wd3yrvW13PgQV4y4qXshcE/qyVwice8Z/a9qsdRZu5isuRC+bTzu8IFXbfV2BTmYAa0QSE7BwaoYKp1A",
+        "name": "TYC SPORT (PLAY 1)",
+        "url": "wZKRazi0V9CUb1ZRFtd/73zY0W6fPexNaCdVdY/2XhuVZ9XLctwbpCyUNPLxD3rOepBOiOvrSSyQCXaYo8VR95B1Nnk78FfCJiVJaBdnrIvQUDtBQUoj9VVJU2nsPh8w",
         "type": "HLS",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       },
       {
-        "name": "TyC Sports Play (PLAY 2)",
+        "name": "TYC SPORT (PLAY 2)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsGqM5ZdN6cxWP/2/HhdO5/lVsZbNbVG92ATqbeM1n7Z1ilr1aJ//IbFXtDh+leqzV2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+UtUXsGM1Cr69h9gekI2IXkO2jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy52z5Pjb0oYp+ltJPGpzDgRo62jTjmvPfDU1HYb5HsuE4s",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
         "url": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
         "type": "HLS",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       },
       {
-        "name": "TyC Sports Play (PLAY 3)",
-        "url": "9+AOB2I6M5lX6GW/+qSDaXzY0W6fPexNaCdVdY/2XhseyDla/6APCVN4tuTIk+9VWkyV75fwzrmipKfkm9Viu0FMOPr/5YXMGnkIG1vvU6h2BTmYAa0QSE7BwaoYKp1A",
+        "name": "TYC SPORT (PLAY 6)",
+        "url": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
         "type": "HLS",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       },
       {
-        "name": "TyC Sports Play (PLAY 4)",
-        "url": "njEX2xu6xnULHEHcGyAzG3zY0W6fPexNaCdVdY/2Xhvhy4r1IgW+37q6CM90RtDXTcqjoAIQe0K08GTh1K3MMqMRi0xPRoFoJvlLnRfVHaC2jTjmvPfDU1HYb5HsuE4s",
+        "name": "TYC SPORT (PLAY 7)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsTrKkykmMBfxoC6F1o7+S1oLlpLO3SRNngkVrycahKeVKCkhicyu8+4vxQgPpp2yB2BTmYAa0QSE7BwaoYKp1A",
         "type": "HLS",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       },
       {
-        "name": "TyC Sports Play (PLAY 5)",
-        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+Uqx3JOwsOoFb3rqgn4iDaGJ2BTmYAa0QSE7BwaoYKp1A",
+        "name": "TYC SPORT (PLAY 8)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhu1CGy6wd3yrvW13PgQV4y4qXshcE/qyVwice8Z/a9qsdRZu5isuRC+bTzu8IFXbfV2BTmYAa0QSE7BwaoYKp1A",
         "type": "HLS",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "TYC SPORT (PLAY 9)",
+        "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
+      },
+      {
+        "name": "TYC SPORT (PLAY 10)",
+        "url": "HEy/sjKA3+35ACwnh3Ia9R/HJ9HY1qpIaB+bzHM05hle9JFwpwBlXmyHU/bQsLErxouBRWp0SxDkRG2Kohm10XdXOrjUA7Bkn4luF30FUsHbMe9kA/luNy3Ed2lOPrKU",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
+        }
       }
     ]
   },
