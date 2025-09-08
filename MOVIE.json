@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+                "name": "El conjuro 4: los ultimos ritos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/2084ECD8F87D46E784283899D129E1BE_media.ts",
+                "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+                "iconoHorizontal": "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2025/09/cinesprogreso-05f841c4-820x391.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+                "descripcion": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "2h 15m",
+                "type": "PELICULA"
+            },
+            {
                 "name": "Happy gilmore 2",
                 "url": "http://ptccloud.lsdwedsfsc.site/vod/621E9D7172044BCFBA496A44E43D0C29_media.ts",
                 "icono": "https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
@@ -139,6 +151,18 @@
     {
         "name": "ESTRENO",
         "samples": [
+            {
+                "name": "El conjuro 4: los ultimos ritos",
+                "url": "http://ptccloud.lsdwedsfsc.site/vod/2084ECD8F87D46E784283899D129E1BE_media.ts",
+                "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+                "iconoHorizontal": "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2025/09/cinesprogreso-05f841c4-820x391.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
+                "descripcion": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+                "anio": "2025",
+                "genero": "Terror",
+                "duracion": "2h 15m",
+                "type": "PELICULA"
+            },
             {
                 "name": "Lazareth",
                 "url": "http://ptccloud.lsdwedsfsc.site/vod/8BD10D0316984A66A2581B39B458959D_media.mp4",
