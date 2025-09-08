@@ -3499,6 +3499,18 @@
         }
       },
       {
+        "name": "TV CIUDAD",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ8QeC39kHiyZSxvX5u4/Lk5rJlCoAe9VAyd9g8emUkCjI1uGGoQGxBWXfYxKOKL1TLqRGdipAmdVUEYSz87+0n",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNKHudkYqYFbp2TDM7zxwLT461fOoumdvTcgnX0RFwRVpLrHP20dfyq89ls85jOwVrBLBb9wex/CQBLxxGpkZzMSRx0vUMbS0W7U7YEQA8Psw7xsnimFWJxZzXom4VXfZw==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7saJnKGVyGTde9kSxOUotnI=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "CANAL 4",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xKuX8pEcX2LBuRi02X4aDh7JYcMEM1i03IU+Vk6RK5Ds/c6ItDSN+j46GPPboVtWXTkUuA4t2bIkxFrwVytIQd2",
         "type": "CLEARKEY",
@@ -3520,31 +3532,6 @@
           "Origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
           "Referer": "/HXjH/A35K6km7Dp/0va7saJnKGVyGTde9kSxOUotnI=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "TV CIUDAD",
-        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ8QeC39kHiyZSxvX5u4/Lk5rJlCoAe9VAyd9g8emUkCjI1uGGoQGxBWXfYxKOKL1TLqRGdipAmdVUEYSz87+0n",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNKHudkYqYFbp2TDM7zxwLT461fOoumdvTcgnX0RFwRVpLrHP20dfyq89ls85jOwVrBLBb9wex/CQBLxxGpkZzMSRx0vUMbS0W7U7YEQA8Psw7xsnimFWJxZzXom4VXfZw==",
-        "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-          "Referer": "/HXjH/A35K6km7Dp/0va7saJnKGVyGTde9kSxOUotnI=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "CANAL 10",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEgtPUyEfocxge6fNHdumXBobJqzC/4IY3z7YlSCPLcN8TxyhaWIVjSJe0Z28qPHbsVF6S/c5aI9M9+7OKC5+mbh",
-        "icono": "https://i.ibb.co/zhDLbxd9/LowlfG2.png",
-        "headers": {
-          "X-Hash": "zaUUqLSkjLWfI4wdqk6VXotNOrtNXIeo/PwtQD76g6d03YkV7X23PTgdoiMMn0xsny2rUdM7FAEEOfN9r0zCHps/x5TMtg0dhiEDUsW/k5oNTRfCWSwu+j8YJ0L7gVoHEjmBnkGQB1iJNJZzFsIeXhyGut2XlCTF5dIxAUtCQzubH8DdGePZsiB2SvfVZDvdy2QLSfrzm4sFBbkan3ITgZv6rTlPfKxnSw36g+D+xS3pJE+Oz9PtpGgAx3Hz0nxEJTh75kgPmAl6TYLDrF5I08uXGQowM0bmoHgfpEPwWmk=",
-          "X-Did": "syFPJf1MxaTNVZoVbf2xh2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "Ncu4vcomqyGNp+losTV5cg==",
-          "User-Agent": "z4EycgpPDRx/d+W643x6Hw==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
       },
       {
