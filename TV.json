@@ -3410,46 +3410,8 @@
         }
       },
       {
-        "name": "VTV PRO",
-        "url": "nainWZNQ8Iqu28VsYRPIFsohFCoeSY+wQxVi7UTcDwa2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
-        "headers": {
-          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
-          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
-      {
         "name": "VTV+ PLUS",
-        "url": "mxOxFdVmTTM0hyPyuj628c36fYRA+Ru2gf1z8PX7cmJwDF8jRG/e7fPU1PotnoSa+LVY1b2wGlk00EsTH+mhSu7/PxABRoz+S9oJgQhIACQ=",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFbIXodTyoNAbg8LfuXapt/NloTLDvPnXZbNfSiZDW+RV3H4YLZwTqot8iZWh8QWu24LXqd5mXSMdNyjwJxIz7R+e5DJOOIQnpNwRvm8ctI/qsS5kWZsuIgWLDLpUrTfIg==",
-        "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-          "Referer": "/HXjH/A35K6km7Dp/0va7saJnKGVyGTde9kSxOUotnI=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "VTV+ PLUS",
-        "url": "nainWZNQ8Iqu28VsYRPIFszXUkNj1wkk9cgwrZisAFa2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
-        "headers": {
-          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
-          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
-      {
-        "name": "VTV+ PLUS",
-        "url": "mxOxFdVmTTM0hyPyuj628c36fYRA+Ru2gf1z8PX7cmJwDF8jRG/e7fPU1PotnoSa+LVY1b2wGlk00EsTH+mhSu7/PxABRoz+S9oJgQhIACQ=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ8QeC39kHiyZSxvX5u4/Lk5rJlCoAe9VAyd9g8emUkCjI1uGGoQGxBWXfYxKOKL1TLqRGdipAmdVUEYSz87+0n",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFbIXodTyoNAbg8LfuXapt/NloTLDvPnXZbNfSiZDW+RV3H4YLZwTqot8iZWh8QWu24LXqd5mXSMdNyjwJxIz7R+e5DJOOIQnpNwRvm8ctI/qsS5kWZsuIgWLDLpUrTfIg==",
@@ -3533,11 +3495,6 @@
         }
       },
       {
-        "name": "TV FLORIDA",
-        "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
-        "url": "tYYjUFRaK5cihOvLTKgY+JXrP9gyWziinr1Z3m8ZnvhK/2jzNDLd950wYRHS+lrIdgU5mAGtEEhOwcGqGCqdQA=="
-      },
-      {
         "name": "VIVO TV",
         "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
         "url": "alcWkE3u7BQi0b04tGemYetFgnPNO9AudY16eaFepqwGMj/RGAChwjP7Q1+cb+RM"
@@ -3546,11 +3503,6 @@
         "name": "UCL",
         "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
         "url": "+pZvFSsTmXMULNfpYf/gmxu6vVYamgmC8SX4S4f52hQN+aPrCzjFj8mLV0UvlOooo/yCQaPDRgG/2OJFDnDnaw=="
-      },
-      {
-        "name": "TV FLORIDA",
-        "icono": "https://i.ibb.co/5hT93gX5/ORjoLdw.png",
-        "url": "tYYjUFRaK5cihOvLTKgY+JXrP9gyWziinr1Z3m8ZnvhK/2jzNDLd950wYRHS+lrIdgU5mAGtEEhOwcGqGCqdQA=="
       },
       {
         "name": "VIVO TV",
@@ -3576,18 +3528,6 @@
       {
         "name": "Gol TV",
         "url": "BB9Kx6kQ8ZdeJJmkRWTIXo/qySiYYUz53x1mGWjuBTKinsiYF7bFrQv4lLsusAi7rlowT0xZM2ZNfVXg9Po5Bg==",
-        "type": "HLS",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
-      },
-      {
-        "name": "AUF TV",
-        "url": "g/LpyvRyd7BfLLbsZ+B/Dp5DZEDnTz612g0ndaULEQ7hFMP29kjp9lT7Augm0owIrNx4B7R+LWVAy2zxuc1m3A==",
-        "type": "HLS",
-        "icono": "https://pbs.twimg.com/profile_images/1389297875469877250/_Rgj0-YU_400x400.jpg"
-      },
-      {
-        "name": "Gol TV Lat",
-        "url": "uEhgLxj2dZ/dPeLBMnLGDGYy8tLGDaSbJdSncBmQWJ1KpgOTuCnm9Dsa9XWeBkXNWkJZF1qiAull8LYAUxtFX2njkAuQdxzD4Txa43toOek=",
         "type": "HLS",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv_0rMgZ6OxQ2zGi_bJPpXaqLw7IdwJ25IA&s"
       }
