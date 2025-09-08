@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA16",
+    "name": "🇦🇷 CANALES DE ARGENTINA17",
     "samples": [
       {
         "name": "El Destape",
@@ -4392,13 +4392,10 @@
         "url": "http://magisvideo.com/plpro/1142.m3u8",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
         "headers": {
-          "X-App": "ps",
-          "X-Version": "8/4.0.7",
           "X-Hash": "9oufBLIjzKUDU5Hrs1o7BSudmX13i09NO-GGRvbNVL7f5wfLv2RErxDFc5sCwzFT2THKaZC0NQ8aMRMxg6Xck6ZcKnrZKVkYjRNWy-NiFPOS4bGfTbptH6ScwZrSWpb3Pz0HRFdPaAVbj1tAgyCKHvYknDfSkkj9u7kVSJaaUruLOsuAM1_59LkWG5hvpm_CfQrUThuu2jKb1ynq0PEUFYVW_6E8M0Js1DNG2JQ-PmmU0u4NCHvdXVPQTQzTNAogIa37ImQb1DWudI3zkl0TD9C6J3n1mldavExYsPoVs-DjY97t1zi7wdPx9hFrjJbU2qL2eG9bAZfrru63MGMPcfNANWy7EoSB8vgTtfKbgE98tsKsr2h8EMBXefgz3-QxJvc8lWAF2L9y-tLDMIq8zwGhHP0PIEYHbqBbkGEbLm30WJgvhjZAQBnCH2y4KRRGDlpnFyC5A07otzHAPV4AVAVF01QIayAkF4oAwhEIRvKfYcWs0mGk80A4oe6jCA6S",
           "X-Did": "41c193ad43d937ca",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
+          "X-Version": "8/4.0.7",
+          "User-Agent": "PLPro/8"
         }
       }
     ]
