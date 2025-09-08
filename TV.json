@@ -3540,32 +3540,6 @@
         "url": "alcWkE3u7BQi0b04tGemYetFgnPNO9AudY16eaFepqwGMj/RGAChwjP7Q1+cb+RM"
       },
       {
-        "name": "UCL",
-        "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
-        "url": "+pZvFSsTmXMULNfpYf/gmxu6vVYamgmC8SX4S4f52hQN+aPrCzjFj8mLV0UvlOooo/yCQaPDRgG/2OJFDnDnaw=="
-      },
-      {
-        "name": "VIVO TV",
-        "icono": "https://i.ibb.co/cSLGCS4T/Logo-white.png",
-        "url": "alcWkE3u7BQi0b04tGemYetFgnPNO9AudY16eaFepqwGMj/RGAChwjP7Q1+cb+RM"
-      },
-      {
-        "name": "UCL",
-        "icono": "https://i.ibb.co/c2ddPKW/ucl-24.jpg",
-        "url": "+pZvFSsTmXMULNfpYf/gmxu6vVYamgmC8SX4S4f52hQN+aPrCzjFj8mLV0UvlOooo/yCQaPDRgG/2OJFDnDnaw=="
-      },
-      {
-        "name": "Ve Plus",
-        "url": "VyKlA4zeg3i8B0DYgpIlXGo4uU2H/yq98M5/9bB3BGkX4Ic7YiprlBF+/F4K7jpb7h7Czm0Fkgzw/72yqD6tKQ==",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ve_Plus_TV.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOYgt/pZywpDz3ghw+uyGMNAofAxu7i8nzX/nz8FiXbvs62Xxufd/Lqzmfl7pO3lgGQT38atGpHnK3L/MSZH9bBZtgDVF0eCyCQsBj1Hv6hh7/M+0HqK+C4P2T2y17VppQ==",
-        "headers": {
-          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-          "webtoken": "+iIHLhifnL33WunO8InC7w=="
-        }
-      },
-      {
         "name": "Gol TV",
         "url": "BB9Kx6kQ8ZdeJJmkRWTIXo/qySiYYUz53x1mGWjuBTKinsiYF7bFrQv4lLsusAi7rlowT0xZM2ZNfVXg9Po5Bg==",
         "type": "HLS",
