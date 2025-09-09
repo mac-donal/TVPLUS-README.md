@@ -1220,7 +1220,7 @@
       },
       {
         "name": "TYC SPORT (PLAY 10)",
-        "url": "HEy/sjKA3+35ACwnh3Ia9R/HJ9HY1qpIaB+bzHM05hle9JFwpwBlXmyHU/bQsLErxouBRWp0SxDkRG2Kohm10XdXOrjUA7Bkn4luF30FUsHbMe9kA/luNy3Ed2lOPrKU",
+        "url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "headers": {
@@ -1313,12 +1313,6 @@
       },
       {
         "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
-        "url": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
-        "type": "HLS"
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
         "url": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
         "type": "HLS"
