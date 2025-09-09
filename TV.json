@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA23",
+    "name": "🇦🇷 CANALES DE ARGENTINA24",
     "samples": [
       {
         "name": "El Destape",
@@ -4377,24 +4377,11 @@
         }
       },
       {
-        "name": "VTV+ PLUS",
-        "url": "http://magisvideo.com/plpro/1142.m3u8",
-        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
-        "headers": {
-          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
-          "X-Did": "41c193ad43d937ca",
-          "X-Version": "8/4.0.7",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
         "name": "VTV+ PLUS 2",
-        "url": "nainWZNQ8Iqu28VsYRPIFn/yDy3d4Q9BKl+Bn01mTDW2jTjmvPfDU1HYb5HsuE4s",
+        "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
         "headers": {
-          "X-Hash": "Szt2c8rVLD3d7Q/Ooenzr+o9PiKZA+vv0ohVk6CB8ARhTcP5tBIb8FyLYQyR2FerEhQS995RgA2sEBCHVPWIgg6R+p396b0iYlvEmZXNO7tXmUqnqxFiEC34aM97qs0CnaP+1fMaW0S5j0sf/BkJJmZsqw0u02jKFhxyZL0CsULluOuiPJk2uRcIcMXqOVXutlpcATlR+cXPW6ttAGFcLEAvmiEbOtOIXy0awlcBZn4I72bAqJLBfIeUkfZeu7BqwmZo8Wo3pfJQ8ChBdLiDatoeTPaps/4tYtxTXzOXXsLZnuaAc56lCrjVnNau0vFZVu8Zojs0pGrTim0fssDNMFa0rJtv6VUe/4yvNiVt6VM2C2W6TRENFkaUO4jE9V1Nv8kp9TaMxdmRtWAssxhAsXZk6oLgJLPpwgAoPCm7Q+qRlG16hE4fY6nOBvAmdBJZ3E/Z3rhsCDNXH2OYg2w1ALrttcYcSpaRCUxtKtIdSJ/iWcCPqLmzzA5K7s4u71t2MI/5uEgsram9nj0kKYdCp3RiTXZvnG/+EMqFrCoakkyZrf/ChMHpWYyKo2ll5kBqLYX8mdJHUpkxUYZ1Oe+NR9xhJdEVWdREO9uGX4Y8lo34Pu7+QPtGKaWLncK+dWw6LegMqFcW63BMo1Ui+a9z1JSgYgZDRf+rwgTpckivnVdp45ALkHccw+E8WuN7aDnp",
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
           "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
           "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
           "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
@@ -4403,15 +4390,14 @@
         }
       },
       {
-        "name": "🇵🇪 Gol Peru",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WHJbJ0i5dki+lVoROz47lNmOqIL2tdg4OAQYvr67n48vwYr62rMM/uYU+61MffsdnUKIrAzxcaltOSL06r8jciQPFMMQralp25mYM3Nldj0PDuvfqyMBLOv9cDXbVmVFjYNARVoQWmbbLUeFMmgHLa8=",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/Mx30xYbz/Gol-Per-2019-svg.png",
+	     "name": "VTV+ PLUS",
+        "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
         "headers": {
-          "X-Hash": "zaUUqLSkjLWfI4wdqk6VXotNOrtNXIeo/PwtQD76g6d03YkV7X23PTgdoiMMn0xsny2rUdM7FAEEOfN9r0zCHps/x5TMtg0dhiEDUsW/k5oNTRfCWSwu+j8YJ0L7gVoHEjmBnkGQB1iJNJZzFsIeXhyGut2XlCTF5dIxAUtCQzubH8DdGePZsiB2SvfVZDvdy2QLSfrzm4sFBbkan3ITgZv6rTlPfKxnSw36g+D+xS3pJE+Oz9PtpGgAx3Hz0nxEJTh75kgPmAl6TYLDrF5I08uXGQowM0bmoHgfpEPwWmk=",
-          "X-Did": "syFPJf1MxaTNVZoVbf2xh2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "Ncu4vcomqyGNp+losTV5cg==",
-          "User-Agent": "z4EycgpPDRx/d+W643x6Hw==",
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
