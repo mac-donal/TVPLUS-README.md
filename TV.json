@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA19",
+    "name": "🇦🇷 CANALES DE ARGENTINA21",
     "samples": [
       {
         "name": "El Destape",
@@ -4377,15 +4377,27 @@
         }
       },
       {
-        "name": "EVENTOS URUGUAY OPC 1 🇺🇾",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WHJbJ0i5dki+lVoROz47lNn3tTexNsnfSp9qVIxyhL48wYr62rMM/uYU+61MffsdnTRytAx1Ja3VV5PKKv/JTgDKCZMDup9Eho37kV3ZTXyEDuvfqyMBLOv9cDXbVmVFjYNARVoQWmbbLUeFMmgHLa8=",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "name": "VTV+ PLUS",
+        "url": "https://plpro.org/stream/secure/ZKjmZwE8ZGxjYwR3AF40ZF43ZUjkAmH1ZwZ0BQLlAwR3sQDkLmR5Z2SxAQAxBGZ3L2S8ZUjjsREuoUMcnl8lYwRhZPNbGTyhqKt7VSH7VRShMUWinJDtZGH7VQVmZGNjHx44ZxjtDaIcoTDiDINmDF4lAQN5ZQHhZQR1YxRlXD/1072.m3u8",
+        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
         "headers": {
-          "X-Hash": "OAvfFs7NYkjLyX78VtXiXA86WDablgBkk9c23DKTxuHdKGCeyrDS/V9wjt6irtMT5I3lkvm5I35kT43G3UbS50cQ3YdwtVDyNQa2pXTQTbRpInCAxzqlLne+BGqNw6J4biDxUxHOvxclQWNr/amGrUiEjGghSOYbJh0LaMRXW4Rh1BtW3YrzAAAeHqAxzuNBDUvc1d36PKxRG4L5FOsKP/6fik3+g8eI8zjHEo3Y0iQzlMfJEDat7sDjZeHWcj+dwRQfv7/ZfiWO1wZXTyKLKBOl9Afh+2FC9QS5xYblZfxhDezwOF66QaKmEW0+3JEUE46f+SqOwXJ1U9sa9EiXBu3VFjkmHRPWgin+g30I72N63t4IiJuW7VT3SIN3VBR+fL3BW41PYwDM9qIEQCu1Dv2FCnV3ivlUYJpoK6MrCFY8pR1ejdHLgSOn8r4hvj5a2DR69pL7SKq5T+C2bFP3wrgqLlitU0YQKcicgQ7wbWy+sap4GJp0dOyYU3fxcLwSMWGQ0DzbjzrE6zZpRzOsXOn1hxtmaKT5Pq66PJ/PfN+irBlU+k0Kayd1BoJNTRAmzOMPYE7+4a05yJeGe1iKcSEqHKZVbbBcoo1JourgOxu22QQ8XMymSlaYpQ8OTbzmRV4M4NTVQLLYCRWMEUx0jiEk4t3yvTYwrbbhm+6kDLcnEDJF247ZEEoWTA9mkfGosqXF9cHabVxDvzS6FEpdAS3KXdRsC8/vtwnrhkOWyenIvnBpyo4DNI65e5i/uRyKQIXQPTjp6XJbXrmZi87cymgqNVcaoWe2kDNHjKssLNw=",
-          "X-Did": "syFPJf1MxaTNVZoVbf2xh2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "z+dyxXcPQSaKXK01GlPI6mnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "z4EycgpPDRx/d+W643x6Hw==",
+          "X-Hash": "MBUE3lcJrg3hxkSrhayUEAUr0xyY-DDRjST_3GWOZ2Hyb2ER2Msy1N4tAUtin6ta8g0vYS2efcQxFRt2uffp2y--ooi6AgN2NG2iuv3v3WisnIVi85PDDX32jGRcZDJ7lTjEG5kg8oV1xq1uasjur1Rckj-bHF9Jx56IHPEtD-Bl0opCU5574IxVzMR5aimnUOBdwoR2_5ZLzpzq7k4qd6J0snw0wBvZakwIlXS_xKd33jXqTeJ43Dquouj8a9Jlo8HCtCfmI0OTGi1KarqORQ41td2vZoD214DBIzzFfaLyCD5qejkXPMHZptjPDsybli-GuLm-p5xZd589an10qD6s13gv-l2JMpCIVRwJ-wHjEPrUYzzTTkxXV5gaJU37UaZHY4bZx4_e4LpCwDXtIfZi-dKhhrqtPLKnVdRHpz5Y-TedKKS7rm3qiB5107KHzfFuHVy_SaK3hKoPSsn0Zt9nvHV60V6CW2kYD1WxqAY3JKEQeMHFHMVo2Sj4yidp",
+          "X-Did": "41c193ad43d937ca",
+          "X-Version": "8/4.0.7",
+          "User-Agent": "PLPro/8",
+          "Accept-Encoding": "gzip",
+          "Connection": "Keep-Alive"
+        }
+      },
+      {
+        "name": "VTV+ PLUS 2",
+        "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
