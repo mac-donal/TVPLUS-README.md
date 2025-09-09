@@ -1285,6 +1285,47 @@
     ]
   },
   {
+    "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
+    "samples": [
+      {
+        "name": "MSL",
+        "url": "BQcz5LYWPUWiSJDEQP4cF8mxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzAOcIcKqBaUZT0U7jYos3RHYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "headers": {
+          "Origin": "NsDp/2hV56qfMqcMzkdPZs+cYiG4Wt8mU25Pt+vM4Ak=",
+          "Referer": "NsDp/2hV56qfMqcMzkdPZgxyLzbAMz3rvhFNEBNhnaQ=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 1  🇺🇾",
+        "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "url": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
+        "type": "HLS"
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "url": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
+        "type": "HLS"
+      }
+    ]
+  },
+  {
     "name": "​🇵🇾 TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
@@ -4378,19 +4419,6 @@
       },
       {
         "name": "VTV+ PLUS 2",
-        "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
-        "headers": {
-          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
-          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
-      {
-	     "name": "VTV+ PLUS",
         "url": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5qhD0Ry8wGMxoBsC+dZq+HUfcZylfgl2njLoVN9OBmrJKOHMKE5NSqFQDnal/YM2jjzNOfErH5SyWQk2SqtrDqb9K+0el+npvLGSsvl3khI8kUvm9+wNAxSPQirCymonz3gN+KOF5/E8BITENP8oN3ijXObUurowQutLoEOvJqpfKI30J6nPbjYJS+RY7BGg9cj0/oXN/T4/7ZDKhXm4tn+9TLRQyuJTPVgxKTnXPow2pRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://i.ibb.co/5XFLRVY41c193ad43d937ca0/TUDN-LOGO-COLOR.png",
         "headers": {
