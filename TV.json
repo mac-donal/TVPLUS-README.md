@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA1",
     "samples": [
       {
         "name": "El Destape",
@@ -1219,14 +1219,50 @@
         }
       },
       {
+      "name": "TYC SPORT (PLAY 9) ENCRIPTADA",
+      "url": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
+      "type": "HLS",
+      "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+      "headers": {
+      "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+      "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+      "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+      "sec-ch-ua": "kDloDIWVpT1HoMPl7obtRgTVqCjV58O3WAb7Dx92/h5Fs6d21Tdybl1N0lDoC1p0Fgl3ZPbPvpTeAu5YViQP6pWRAoAZ2YPfItYE4yaKSA4=",
+      "sec-ch-ua-mobile": "h9maDiJ5LNmCiM4Wrbz5EA==",
+      "sec-ch-ua-platform": "UEq3k9/ihmC8nbcF7CRD3Q==",
+      "sec-fetch-dest": "tu983hS49Ck02BG3y6/IDA==",
+      "sec-fetch-mode": "pHBCxeOfsaq0WNGaGDvz1w==",
+      "sec-fetch-site": "olIbStbqgIs9DBUnqruc8Q==",
+      "priority": "7x1j6m+eyjWcqp1QXUquWg=="
+       }
+      },
+      {
+      "name": "TYC SPORT (PLAY 9) SIN ENCRIPTAR",
+      "url": "https://ch12-04-11-tyc.vodgc.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8",
+      "type": "HLS",
+      "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+      "headers": {
+      "Referer": "https://play.tycsports.com/",
+      "Origin": "https://play.tycsports.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "cross-site",
+      "priority": "u=1, i"
+        }
+      },
+      {
         "name": "TYC SPORT (PLAY 10)",
-        "url": "HEy/sjKA3+35ACwnh3Ia9R/HJ9HY1qpIaB+bzHM05hle9JFwpwBlXmyHU/bQsLErxouBRWp0SxDkRG2Kohm10XdXOrjUA7Bkn4luF30FUsHbMe9kA/luNy3Ed2lOPrKU",
+        "url": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
         "headers": {
-          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
-          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://play.tycsports.com",
+          "Referer": "https://play.tycsports.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
         }
       }
     ]
