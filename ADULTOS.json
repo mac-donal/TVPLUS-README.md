@@ -15,6 +15,18 @@
         }
       },
       {
+        "name": "PLAYBOY",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2VCsyqZvfN1AYRCosxQmtDqvVgLRsaKSmXsBul6W6d2P2PJneMWLIpiK7xRo5n1xp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGUEJPUYH82RihHcXhN8CHsGMZM49N4n8Egl3iALBjgmU1HmT09WigGPiDsn6DTGCtRv1YJxCKTWnB53zPIs5zbuPuXnGVi+UwMb24GbkO7D2JMpx+oReVYbclNK6YhoHg==",
+        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "Referer": "/HXjH/A35K6km7Dp/0va7jLz9TotGQUYqIWac0AKyV4=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "Penthouse Gold",
         "url": "http://108.160.144.230:1234/stream/pruebas/prueba2/stream.m3u8?uid=3652893391&u=tv_online&p=3e6dc62f220c57f4e44e3dd541c175b3a4fd22986bafa16d47ce3d4c2b224ac8",
         "type": "HLS",
