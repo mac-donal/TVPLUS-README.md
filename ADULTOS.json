@@ -16,14 +16,14 @@
       },
       {
         "name": "PLAYBOY",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2VCsyqZvfN1AYRCosxQmtDqvVgLRsaKSmXsBul6W6d2P2PJneMWLIpiK7xRo5n1xp45ALkHccw+E8WuN7aDnp",
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGUEJPUYH82RihHcXhN8CHsGMZM49N4n8Egl3iALBjgmU1HmT09WigGPiDsn6DTGCtRv1YJxCKTWnB53zPIs5zbuPuXnGVi+UwMb24GbkO7D2JMpx+oReVYbclNK6YhoHg==",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
         "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
-          "Referer": "/HXjH/A35K6km7Dp/0va7jLz9TotGQUYqIWac0AKyV4=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://web.app.flow.com.py/guia-de-tv",
+          "Referer": "https://web.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
