@@ -5,78 +5,75 @@
       {
         "name": "PLAYBOY",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "type": "CLEARKEY",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
-        "headers": [
-          {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-       }]
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/guia-de-tv",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "PLAYBOY OPC 2",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
         "url": "https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd",
         "type": "CLEARKEY",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f51160ad68cb411abbae2b7e51e20ad4&key=3015d76327dcd38f19037e5af639ebb2",
-        "headers": [
-          {
-            "Referer": "https://player.sensa.com.ar/",
-            "webtoken": "1.0",
-            "Origin": "https://player.sensa.com.ar",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-         }]
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f51160ad68cb411abbae2b7e51e20ad4&key=3015d76327dcd38f19037e5af639ebb2",
+        "headers": {
+          "Referer": "https://player.sensa.com.ar/",
+          "Origin": "https://player.sensa.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+          "webtoken": "1.0"
+        }
       },
       {
         "name": "PLAYBOY 3",
         "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
-        "url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8"
+        "url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8",
+        "type": "HLS"
       },
       {
         "name": "VENUS",
         "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
         "type": "CLEARKEY",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
-        "headers": [
-          {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-          }]
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/guia-de-tv",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Sextreme",
         "icono": "https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",
         "url": "http://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
         "type": "CLEARKEY",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434",
-        "headers": [
-          {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }]
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/guia-de-tv",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Hustler Maturet",
         "icono": "https://i.ibb.co/BZLz3DM/Hustler-Mature.png",
         "url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd",
         "type": "CLEARKEY",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cf37db556be5ee1ecd1ee1f1bcf39390&key=cb2d8390f9c6c39311939fb51ba42ab2",
-        "headers": [
-          {
-            "Origin": "https://web.app.flow.com.py",
-            "Referer": "https://web.app.flow.com.py/guia-de-tv",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-         }]
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cf37db556be5ee1ecd1ee1f1bcf39390&key=cb2d8390f9c6c39311939fb51ba42ab2",
+        "headers": {
+          "Origin": "https://web.app.flow.com.py",
+          "Referer": "https://web.app.flow.com.py/guia-de-tv",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Penthouse Gold",
         "url": "http://108.160.144.230:1234/stream/pruebas/prueba2/stream.m3u8?uid=3652893391&u=tv_online&p=3e6dc62f220c57f4e44e3dd541c175b3a4fd22986bafa16d47ce3d4c2b224ac8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5sYi4-GENOmWW9dkgFbNL8Luh0ZYj35MoA&s"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh5sYi4-GENOmWW9dkgFbNL8Luh0ZYj35MoA&s",
+        "type": "HLS"
       },
       {
         "name": "Anal",
