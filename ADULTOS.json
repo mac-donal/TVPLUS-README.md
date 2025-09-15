@@ -176,7 +176,17 @@
         "url": "http://cdn.adultiptv.net/bigtits.m3u8",
         "type": "HLS",
         "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      }
+      },
+      {
+	    "name": "TYC SPORT (PLAY)",
+        "url": "https://5gfnzu27q.s3.eu-west-1.amazonaws.com/hls/stream3/index.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+        "Origin": "https://play.tycsports.com/",
+        "Referer": "https://play.tycsports.com/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+      }}
     ]
   }
 ]
