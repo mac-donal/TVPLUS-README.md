@@ -4824,12 +4824,17 @@
         "url": "Rlrz5EmABdWeMAUl+QVIcmQIvR5WOVptOY0q0faaiv24WAhO7aWYBdWIWf2vDpeK",
         "type": "HLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
-        },
-       {
+      },
+      {
         "name": "TEST2",
         "url": "z+YcwE2BV7eaS0XBA0Tx/Bzb8oCEAgbRPUr2ilxyOE5bpCbWaRgLhu2TiurNhaKprhL7JP++/Mvn7mpTWn24CQ==",
         "type": "WEBVIEW",
-        "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png"
+        "icono": "https://i.postimg.cc/jjWWdTvp/directv-sports-logo-6-F86-DBD521-seeklogo-com.png",
+        "headers": {
+          "Origin": "z+YcwE2BV7eaS0XBA0Tx/LSDJRCSgs1u3HJ7fDG2lCg=",
+          "Referer": "z+YcwE2BV7eaS0XBA0Tx/MkVJz1j6r6Ns4d6pP0crLw=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
       }
     ]
   }
