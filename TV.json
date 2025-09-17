@@ -4786,13 +4786,8 @@
       {
         "name": "FM Cordoba (🇦🇷)",
         "url": "9D6OyrAepli+g6sXFysAj46Yzf/CJ3Lf01tmNlaZB41WOZVsYHLn6EsIcfwwa+NG",
-        "type": "HLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/FM_C%C3%B3rdoba_91.9.jpg",
-        "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-          "Referer": "/HXjH/A35K6km7Dp/0va7saJnKGVyGTde9kSxOUotnI=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "type": "HLS"
       },
       {
         "name": "AM 910",
