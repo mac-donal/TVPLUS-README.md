@@ -1183,6 +1183,17 @@
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
         }
+      },
+      {
+        "name": "TYC SPORT (PLAY)",
+        "url": "oKeQnP/OAnsopnzbiQjk93zY0W6fPexNaCdVdY/2Xhs4vkR3kfINEBT/9/gje6M9FoTE7FhDBpbLewKVIaG6VF1ALXV8IWadoRAEBzFwMWN2BTmYAa0QSE7BwaoYKp1A",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
       }
     ]
   },
@@ -4567,7 +4578,7 @@
           "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-       }
+        }
       }
     ]
   },
