@@ -1090,6 +1090,17 @@
     "name": "⚽ (TYC PLAY) 🇦🇷",
     "samples": [
       {
+        "name": "TYC SPORT (WEB)",
+        "url": "A2+DcqLMwjW/b6O51kBOZKLOSeba4jDzRftw47Lyy+Mao2jQhRsLx7zOP+UgEapr4mGtgTh2uSlgXrwyFFH+CA==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "headers": {
+          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
+          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "TYC SPORT (PLAY 1)",
         "url": "E2wd1Nh8KFFsT2UzJ4XGYnzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
         "type": "HLS",
