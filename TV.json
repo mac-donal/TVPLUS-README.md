@@ -4679,6 +4679,190 @@
     ]
   },
   {
+    "name": "MUSICA TV 🎼",
+    "samples": [
+      {
+        "name": "UN POCO DE RUIDO",
+        "url": "rXhGLjEsMy0JgFbOPVA4QOv7oeu51XlsfxBXivHT6IsOsUqXrxsFTW4Lef9n8wOxg07fGPrsK2OuJi+w+X6EQ7PkVQVFCxGE9h146g2cmH6LzilV/KJlayf/KAJy007PedaxOToeTcAIjY16eF/L/oNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://i.postimg.cc/GpgKjY5b/unpocoderuido.png",
+        "type": "HLS"
+      },
+      {
+        "name": "MTV",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1opKzFs06wahSPay1OmcYeMV+KYG3iriMkd5Aq1RciYiXG0l7q4xFnXwWfTk/p1t2E=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM8UYfLx0gXluIZEZ0LefZD51sPHhrbnyKkWuamatQAKu8Df6++pYbM7ZAOj9xIZDQ1oxgpBCo1HY6qH2ur9SMFWbG2WhtJMgn3RVcGe+++/n4lRacEI6uR8Hnx9lhuNtA==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "MTV Hits",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qlAD1nB9/2YpbWtlfuDLTeKfRGfx8145jABGMZZQICPM8HGZFkioATzkD9ucNRrNE=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Allegro",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1pWy7645Se/x7ESfQO70oznJYcMEM1i03IU+Vk6RK5Ds4zERZ/YUlcx4v5r4kPK8EI=",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/ts85rN6/allegro.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGcFTXLjN7/GiKnKBqakgcRmY6DbrmXrUT18vF39MbmUn/g8ix1E6tbA2/cwFJDMOsVCMQ70DGeqs4FOwS79Lz84NMSLK7RMVj8/I/vjtoc2Qs+pzu3VDlFWll4BD++QDg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "CM",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1orQA71hqw13yMFGrpqJapMU+Ng28KYLLjljznZRh/w/mnjkAuQdxzD4Txa43toOek=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "MTV 00s",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1rbD/Ycu8q6jdBLq1aAIKUMd9ZI3W2vLYtu0K1iKBHkGRk1KFYV9ZAsMx7GlvoHO+Q=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDKiNrnAzaqIhpaMN4ICQRxzToOl487g3NDsmGbrSSl8HOzceuOxpqydobddA8APJFwxUI+d4koCP83gRAJZydhxKkK68oGyqtI7Fk2ei6pyX1jWjnVEP1a2Kzn1+hv0ZA==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Nick Music",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1pjT8igeP6Iq5OB6Z7MkT/3JYcMEM1i03IU+Vk6RK5Dszm5TwHZQBOmmoDdPa9ws4pp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvISZooc/tDJwAMhsjRbxaxo3bEZBY2NmNvfP0UrN+JOh962pRTdFtHYuOM09OqzuxHMXWqB1n0PbhGJ03wwvbnaODm4rWx/chojQ7pV8Hzx4cvV0a+qLPXHDunsQo9WG0g==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Now 80s",
+        "url": "yko+LevQEU4U56OgWj+KugXHi9J3U4cf5whw9iSr25MVH9ArTtVJMP7kIj+vWgNx+/fNBIYZeO3AaS44sWmCpQ==",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
+      },
+      {
+        "name": "Quiero Musica",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qrDtVNNMK260NUATATmgRQJYcMEM1i03IU+Vk6RK5Dsy8uvtH2v24X/AnEuA0EI/4=",
+        "type": "CLEARKEY",
+        "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Quiero Musica 2",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xL4BOGu7SinqNEIv+IK9X2eKfRGfx8145jABGMZZQICPBmJaDovRUCdFoLQ5dSke1I=",
+        "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
+        }
+      },
+      {
+        "name": "TeleHit Música Plus",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3pSyIqMx/XlJdS/0slhLpBSDklG76I/bunI2jrDfcpdk8HNaa5qVd5DWtCk/6fjXVU=",
+        "type": "CLEARKEY",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest?cb=20201011144730",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFYIXJdhDn/wVx79dyc1WFlokYBodnuJGYR9xUMJyf+GLdepL0AcJCQ72/cN+dNA08wQIV2ORGEwPtjwD61lCiIM9D0JOq5fB+VtEs6RvU0aLa3XwsBb5FyRBv0gtw/cgA==",
+        "headers": {
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "webtoken": "+iIHLhifnL33WunO8InC7w=="
+        }
+      },
+      {
+        "name": "Teleritmo",
+        "url": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPnlUOdnmkrnEzR2XLlATy1mnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xCz_5XcQprPKJOdKwwJeNabLghOwx9mnUA&s",
+        "type": "HLS"
+      },
+      {
+        "name": "En Alta",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qrDtVNNMK260NUATATmgRQJYcMEM1i03IU+Vk6RK5Dsy8uvtH2v24X/AnEuA0EI/4=",
+        "type": "CLEARKEY",
+        "icono": "https://www.qmusica.tv/img/programas/logo/xagd598m.jpg",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "HTV",
+        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1o5SdKiWcpPdBTX3fdVX7GGTe/qS+oC0md2DHjvu5i048HNaa5qVd5DWtCk/6fjXVU=",
+        "type": "CLEARKEY",
+        "icono": "https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMXJWSaX/XJPst+fvd3o+WlZplwi6y65qazcBM4lkkyvfo6mIfgQ1tiSs/ER4BJ4im48DWAvxD9Hb+I3ZyXP3wMeXO7g0VyPSPLx/WSkFr4C2Pisou7jrmgACh9J/wl1ig==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
+        }
+      },
+      {
+        "name": "VEVO POP LATINO",
+        "url": "1tCJc4Fy+D1ejsayRKd2K3FA8HOhgrpLc37IE63xvnZ6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck1Fmcn9+EW62Ki/iB8bZtfhRUhngNHR+SWhY2e5PPU3HrJ6YL6TKL+gUWvb7AX1Zsw=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "LA BOCINA LATINA",
+        "url": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXxPWgeIV/9zXG70xmI6fZcsRNSMbKytp8oOOfBGY/cjPLaNOOa898NTUdhvkey4Tiw=",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
+      },
+      {
+        "name": "TRACE LATINA",
+        "url": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXyBdGX7uAzNFpvidXbd4uP4YqEdMyrWIMwOKlOhwP2sGZRgGSBR6+7NLD1u67DaGCM=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png"
+      },
+      {
+        "name": "TRACE BRASIL",
+        "url": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXwp/UqustlRjqwEeCz23l54kOb8CvDQ65twHDJueeUX0baNOOa898NTUdhvkey4Tiw=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG"
+      },
+      {
+        "name": "TRACE URBAN",
+        "url": "xLOgpGXCDjOjgkBZs/Gv+Wbx1JuJWhSp0VE7Nd3Y8oJ6Tl1SbJYJQ1fSJddRAKxgO2caNdJ+5ajs+2qSgC0qlSi2DrI7Yst+20nzb45kcXwAisCA9AMiGu7xMZF/4u5G6aHqMEPRHEoGOZh+0QRW6nYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png"
+      }
+    ]
+  },
+  {
     "name": "RADIOS 📻",
     "samples": [
       {
