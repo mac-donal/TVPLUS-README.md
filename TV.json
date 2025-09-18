@@ -4679,41 +4679,11 @@
     ]
   },
   {
-    "name": "MUSICA TV 🎼",
+"name": "MUSICA 🎼",
     "samples": [
       {
-        "name": "UN POCO DE RUIDO",
-        "url": "rXhGLjEsMy0JgFbOPVA4QOv7oeu51XlsfxBXivHT6IsOsUqXrxsFTW4Lef9n8wOxg07fGPrsK2OuJi+w+X6EQ7PkVQVFCxGE9h146g2cmH6LzilV/KJlayf/KAJy007PedaxOToeTcAIjY16eF/L/oNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.postimg.cc/GpgKjY5b/unpocoderuido.png",
-        "type": "HLS"
-      },
-      {
-        "name": "MTV",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1opKzFs06wahSPay1OmcYeMV+KYG3iriMkd5Aq1RciYiXG0l7q4xFnXwWfTk/p1t2E=",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM8UYfLx0gXluIZEZ0LefZD51sPHhrbnyKkWuamatQAKu8Df6++pYbM7ZAOj9xIZDQ1oxgpBCo1HY6qH2ur9SMFWbG2WhtJMgn3RVcGe+++/n4lRacEI6uR8Hnx9lhuNtA==",
-        "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
-          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "MTV Hits",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qlAD1nB9/2YpbWtlfuDLTeKfRGfx8145jABGMZZQICPM8HGZFkioATzkD9ucNRrNE=",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
-        "headers": {
-          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
-          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
         "name": "Allegro",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1pWy7645Se/x7ESfQO70oznJYcMEM1i03IU+Vk6RK5Ds4zERZ/YUlcx4v5r4kPK8EI=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLa2Pr7umoOb5OR3xoRwGm6KfRGfx8145jABGMZZQICPCmQijmVfMEHK7bUntlxx1g=",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/ts85rN6/allegro.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGcFTXLjN7/GiKnKBqakgcRmY6DbrmXrUT18vF39MbmUn/g8ix1E6tbA2/cwFJDMOsVCMQ70DGeqs4FOwS79Lz84NMSLK7RMVj8/I/vjtoc2Qs+pzu3VDlFWll4BD++QDg==",
@@ -4725,7 +4695,7 @@
       },
       {
         "name": "CM",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1orQA71hqw13yMFGrpqJapMU+Ng28KYLLjljznZRh/w/mnjkAuQdxzD4Txa43toOek=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI9Mfymbx2NIPZ/VRTasR9FJBEA0tpz/rpZndJw7fbkZw==",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
@@ -4736,8 +4706,20 @@
         }
       },
       {
+        "name": "MTV",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLwBKGpjYlacuZz02xfrzMld9ZI3W2vLYtu0K1iKBHkGQ24804x5Qp5+cb6mU6iMaY=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvM8UYfLx0gXluIZEZ0LefZD51sPHhrbnyKkWuamatQAKu8Df6++pYbM7ZAOj9xIZDQ1oxgpBCo1HY6qH2ur9SMFWbG2WhtJMgn3RVcGe+++/n4lRacEI6uR8Hnx9lhuNtA==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "MTV 00s",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1rbD/Ycu8q6jdBLq1aAIKUMd9ZI3W2vLYtu0K1iKBHkGRk1KFYV9ZAsMx7GlvoHO+Q=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xITNkbd8gmld+ROh/AJyobajAMyf46nKcs9G/PnklffLgksl2y/13tF0w1y78n02gw=",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDKiNrnAzaqIhpaMN4ICQRxzToOl487g3NDsmGbrSSl8HOzceuOxpqydobddA8APJFwxUI+d4koCP83gRAJZydhxKkK68oGyqtI7Fk2ei6pyX1jWjnVEP1a2Kzn1+hv0ZA==",
@@ -4748,8 +4730,20 @@
         }
       },
       {
+        "name": "MTV Hits",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLC1/CQqISpnJqynVfZ9BfuanYhZkc1fIQUN9cgBFdHB4sA85Educ+BAf1ku6w/OQg=",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
+        "headers": {
+          "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
+          "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJQawsoH/d28ENWY3V0gdA3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "Nick Music",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1pjT8igeP6Iq5OB6Z7MkT/3JYcMEM1i03IU+Vk6RK5Dszm5TwHZQBOmmoDdPa9ws4pp45ALkHccw+E8WuN7aDnp",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIA7RZIpxh+RtqVQ4tvUvvlZW9k3vaB6ggHQtDQpYrDm0APM6CwJQZmkwrod/kjCIE=",
         "type": "CLEARKEY",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDidZNjBwX2nHyg8Y7q8FUiMmvErMRJVxam373Tv-xChbpXhy5WEj8KquqRPR6M_iIIyJjf6RKpr_HFrYdHLA8m1Y-x3c8U442_uuusZlvKYBAiYtmRejZVdYk0JnkPXUjjXYJ3nU0MA/s1600/nickmusic.jpg",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvISZooc/tDJwAMhsjRbxaxo3bEZBY2NmNvfP0UrN+JOh962pRTdFtHYuOM09OqzuxHMXWqB1n0PbhGJ03wwvbnaODm4rWx/chojQ7pV8Hzx4cvV0a+qLPXHDunsQo9WG0g==",
@@ -4767,7 +4761,7 @@
       },
       {
         "name": "Quiero Musica",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qrDtVNNMK260NUATATmgRQJYcMEM1i03IU+Vk6RK5Dsy8uvtH2v24X/AnEuA0EI/4=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xL4BOGu7SinqNEIv+IK9X2eKfRGfx8145jABGMZZQICPBmJaDovRUCdFoLQ5dSke1I=",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
@@ -4808,7 +4802,7 @@
       },
       {
         "name": "En Alta",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1qrDtVNNMK260NUATATmgRQJYcMEM1i03IU+Vk6RK5Dsy8uvtH2v24X/AnEuA0EI/4=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xL4BOGu7SinqNEIv+IK9X2eKfRGfx8145jABGMZZQICPBmJaDovRUCdFoLQ5dSke1I=",
         "type": "CLEARKEY",
         "icono": "https://www.qmusica.tv/img/programas/logo/xagd598m.jpg",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
@@ -4820,7 +4814,7 @@
       },
       {
         "name": "HTV",
-        "url": "x/xWkNrovMYmGeIV76G4pHnnxOtfalT3a6ze4EANC1o5SdKiWcpPdBTX3fdVX7GGTe/qS+oC0md2DHjvu5i048HNaa5qVd5DWtCk/6fjXVU=",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIVHoZ0vki/IxWGSaNzi9+CkM9rLAjVkvzhZkaciTUiFuRS4Di3ZsiTEWvBXK0hB3Y=",
         "type": "CLEARKEY",
         "icono": "https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMXJWSaX/XJPst+fvd3o+WlZplwi6y65qazcBM4lkkyvfo6mIfgQ1tiSs/ER4BJ4im48DWAvxD9Hb+I3ZyXP3wMeXO7g0VyPSPLx/WSkFr4C2Pisou7jrmgACh9J/wl1ig==",
