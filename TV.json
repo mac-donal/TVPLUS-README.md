@@ -1473,6 +1473,12 @@
         "icono": "https://i.postimg.cc/BvVTn2k2/download-2.png"
       },
       {
+        "name": "PADEL",
+        "url": "ZJhJgBubWYyfWp957FaK1/zvAriHreTkrOiTfWzQAG96Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck30P7+ZJe7g84BxhXHa0Fa0HOYdCQf7jabjhcSTWl2OqomAnarDJKSyG+LlIRRL9/N2AZMQT5coNo77U8IvzE8QiYCdqsMkpLIb4uUhFEv3825r1Km4R8msQ0Gn4G7RCwt2BTmYAa0QSE7BwaoYKp1A",
+        "icono": "https://i.postimg.cc/NMysP03v/padel.png",
+        "type": "HLS"
+      },
+      {
         "name": "Golf",
         "url": "e107LCLbimd9+C3RBUcIRQESI3C8ta/tUMTZUpLZk5t6yhZYgaACJQADQFF1WVBkV1UWppXhX5HV/n5b8H4bMq7OHy50iCio8r4pjfESODs=",
         "type": "CLEARKEY",
