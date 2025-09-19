@@ -2999,6 +2999,19 @@
         }
       },
       {
+        "name": "LOVE NATURE ESPAÑOL",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJsoWxDFPH/+Ivx9RxmnpXJnRHndsFBd3pRJVt/zc3bKYwaZniLiFD3SDaO5yPZU63A==",
+        "type": "CLEARKEY",
+        "icono": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/02/LoveNature_logo.jpg",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRHd/4iIjWo3tCHvAM3/zgKATm//SkK5r/SPMnYgKGXN/GmlXIdxaxQsmr7G8QyGjvikui7KHcWT+Dh7Vt/Gxl5G0uEC4wc5IE8rZ0oVFZC+sFMguF9xc+N/8waF77XeQh4hkF0qQOO+gNGnd8LuKkc=",
+        "headers": {
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "webtoken": "+iIHLhifnL33WunO8InC7w==",
+          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "HOLA TV",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLFRCQBdGSD4nv8IlGlffQksA6i1pFMH5HcRNqeYkCh+FwpBoqWSESFps+VOEo3/bA=",
         "type": "CLEARKEY",
@@ -4694,10 +4707,10 @@
     "name": "MUSICA 🎼",
     "samples": [
       {
-        "name": "Un Poco de Ruido (🇦🇷)",
-        "url": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
-        "type": "HLS",
-        "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png"
+        "name": "UN POCO DE RUIDO",
+        "url": "rXhGLjEsMy0JgFbOPVA4QOv7oeu51XlsfxBXivHT6IsOsUqXrxsFTW4Lef9n8wOxg07fGPrsK2OuJi+w+X6EQ7PkVQVFCxGE9h146g2cmH6LzilV/KJlayf/KAJy007PedaxOToeTcAIjY16eF/L/oNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://i.postimg.cc/GpgKjY5b/unpocoderuido.png",
+        "type": "HLS"
       },
       {
         "name": "MTV",
@@ -4877,6 +4890,12 @@
   {
     "name": "RADIOS 📻",
     "samples": [
+      {
+        "name": "Un Poco de Ruido (🇦🇷)",
+        "url": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
+        "type": "HLS",
+        "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png"
+      },
       {
         "name": "LA 100 (🇦🇷)",
         "url": "C4sHdSUhk5Gh0RSCXScKH/x5VvHOh7gfhUd+I2RYFeyr5AE/Xq5rAuaXL+FV1lOtmRqNYSEzGz3DJRIlC23teHRkTiqbvGQIn+wrdBIVAFo=",
