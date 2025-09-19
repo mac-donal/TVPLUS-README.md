@@ -1,154 +1,5 @@
 [
     {
-        "name": "RECOMENDADOS",
-        "samples": [
-            {
-                "name": "El conjuro 4: los ultimos ritos12",
-                "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDt3pwf/jULliNBWwPLcklmU5O5VwHRPDYetZ4g9j7RmLlQmZxSPeoSOVh99q3xUcA=",
-                "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-                "iconoHorizontal": "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2025/09/cinesprogreso-05f841c4-820x391.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-                "descripcion": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
-                "anio": "2025",
-                "genero": "Terror",
-                "duracion": "2h 15m",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Happy gilmore 2",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/621E9D7172044BCFBA496A44E43D0C29_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/m7vBHmPQSokvN4hMQDxdJBdqAtJ.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/5DguNrKy6unRrCTiJ6Xjs8vzaaM.png",
-                "descripcion": "Happy, ya retirado del golf profesional, regresa al circuito no por gloria sino para financiar la escuela de danza de su hija, Viena.",
-                "anio": "2025",
-                "genero": "Comedia",
-                "duracion": "114 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mis 84 m²",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/D8814A56A29649849ABCBA878A650E28_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/wUdyz4lYoyCR906SRJoL7GeN2rc.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1cQ2ApmIOvvfqT8rrsa5XlUWaMr.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/hfopRfdzGJHOiR446yCLSspVF60.png",
-                "descripcion": "Woo-seong, un hombre que ha invertido todos los ahorros de su vida en un apartamento, descubre que sus paredes ocultan ruidos molestos, vecinos hostiles y secretos estremecedores.",
-                "anio": "2025",
-                "genero": "Suspense, Drama",
-                "duracion": "118 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Mi año en Oxford",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/F65B57A5DF7C4F76A3DC7ABF0BA9F451_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/iKT49ApsXGKYY3wdZ0THYhhgOBe.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/aTlIRMdElHSe2d4WAPsHsD6HUfn.png",
-                "descripcion": "La historia sigue a Anna, una joven estadounidense ambiciosa que, después de partir hacia la Universidad de Oxford para cumplir un sueño de infancia, tiene su vida completamente encaminada hasta que conoce a un lugareño encantador e inteligente que altera profundamente la vida de ambos.",
-                "anio": "2025",
-                "genero": "Romance, Comedia, Drama",
-                "duracion": "112 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "El muro negro",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/02141F7665DF4DA2943AADDB02B85E0C_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/hPgEmkYgPXCxz98Q189FfrmdBVX.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/dtVPAwz7cWabgItXvduJAgkWrrr.png",
-                "descripcion": "Cuando un misterioso muro de ladrillo aparece inesperadamente en su edificio, Tim y Olivia deberán colaborar con sus vecinos para encontrar una salida.",
-                "anio": "2025",
-                "genero": "Ciencia ficción, Suspense",
-                "duracion": "99 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Almost Cops",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/56E58D3BA16642FA9637C26D461B23CA_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/upzsNh9Ue3DmFlGnUlxwXtnEpQc.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/n2oQbAiaPwfhceeQuQmfH6WsNND.png",
-                "descripcion": "Un entregado policía municipal y un exagente temerario se ven obligados a colaborar. Juntos desatarán el caos por las calles de Róterdam.",
-                "anio": "2025",
-                "genero": "Acción, Comedia, Crimen, Misterio",
-                "duracion": "95 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "M3GAN 2.0",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/134E937567AE46B0A36E2F8165804805_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/w8llBJfNIJoQY9UV8p1eOBTyEjP.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4Wzn1bm9tjEa1xmTu9zz04wQdSb.png",
-                "descripcion": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
-                "anio": "2025",
-                "genero": "Acción, Ciencia ficción, Suspense",
-                "duracion": "120 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Exterminio: La evolucion (28 años despues)",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/D25E58E6A2384E7E8B31AD9B95B3BBA4_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/wnHUip9oKvDJEJUEk62L4rFSYGa.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tR9M3kLyQmWyyyhLhZPftaiwcPq.png",
-                "descripcion": "Años transcurridos tras los sucesos de \"28 semanas después\", el virus de la ira ha regresado y un grupo de supervivientes debe sobrevivir en un mundo asolado por hordas de infectados. Realizada con un iPhone 15 Pro Max y con la ayuda de numerosos accesorios especializados.",
-                "anio": "2025",
-                "genero": "Terror, Suspense, Ciencia ficción",
-                "duracion": "115 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La guerra de los mundos: Revival",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/245D4B441F5249AEB3E22236A140FF02_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/4U3NQ3KvqjofySTwoDbffawb00h.png",
-                "descripcion": "Will Radford, un destacado analista de ciberseguridad, pasa sus días rastreando posibles amenazas a la seguridad nacional a través de un programa de vigilancia masiva. Un ataque de una entidad desconocida le lleva a cuestionarse si el gobierno le está ocultando algo a él... y al resto del mundo.",
-                "anio": "2025",
-                "genero": "Ciencia ficción, Suspense",
-                "duracion": "90 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Jurassic World: El renacer",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/098DC1A9CD9840788183B9DE364BED00_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/Aw1FSO4gWk2Zjr2sfuyQ4lnK3Gc.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/bMathNQ0Gnpra5Ac7IKIS9b2czm.png",
-                "descripcion": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
-                "anio": "2025",
-                "genero": "Ciencia ficción, Aventura, Acción",
-                "duracion": "133 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Pitufos",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/0A0A38D3DE1D412BB45067DA016F5229_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/tPVrpSoD3asR8S4a9OW6ec3nOWQ.png",
-                "descripcion": "Película musical de animación centrada en las icónicas creaciones de Peyo. Cuando Papá Pitufo es secuestrado de forma misteriosa por los malvados brujos Razamel y Gargamel, Pitufina lleva a los Pitufos a una misión al mundo real para salvarle. Con la ayuda de nuevos amigos, los Pitufos deberán descubrir qué define su destino para salvar el universo.",
-                "anio": "2025",
-                "genero": "Animación, Familia, Fantasía",
-                "duracion": "89 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Superman",
-                "url": "http://ptccloud.lsdwedsfsc.site/vod/85B838A76EAB48C5B51D8129558E7275_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/lfMKNOaaS2jGT3QKUaiFA8cO7DC.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/eIKEofxCydtDaMNlARWjUmlWus9.png",
-                "descripcion": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor.",
-                "anio": "2025",
-                "genero": "Ciencia ficción, Aventura, Acción",
-                "duracion": "129 min",
-                "type": "PELICULA"
-            }
-        ]
-    },
-    {
         "name": "ESTRENO",
         "samples": [
             {
@@ -161,6 +12,18 @@
                 "anio": "2025",
                 "genero": "Terror",
                 "duracion": "2h 15m",
+                "type": "PELICULA"
+          },
+            {
+                "name": "Together Juntos Hasta La Muerte (2025) ",
+                "url": "https://rumble.com/hls-vod/6x00e4/playlist.m3u8?key=2pAYr3T1CHafnea_Ra7UvecZ-pBU5QPFEp-BPPW92xdrtF5H7bn9xA&u=0&b=0",
+                "icono": "https://m.media-amazon.com/images/M/MV5BZWNiNDdkOGQtNDFlYy00NDljLWIxNDItODBkN2IzMjc1MWE1XkEyXkFqcGc@._V1_FMjpg_UX750_.jpg",
+                "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BZWNiNDdkOGQtNDFlYy00NDljLWIxNDItODBkN2IzMjc1MWE1XkEyXkFqcGc@._V1_FMjpg_UX750_.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/5DguNrKy6unRrCTiJ6Xjs8vzaaM.png",
+                "descripcion": "Una mudanza al campo desata fuerzas sobrenaturales que transforman la relación de una pareja, su realidad y sus cuerpos.",
+                "anio": "2025",
+                "genero": "Comedia",
+                "duracion": "1h 42min",
                 "type": "PELICULA"
             },
             {
