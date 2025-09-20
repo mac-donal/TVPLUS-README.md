@@ -4867,6 +4867,19 @@
         }
       },
       {
+        "name": "DPORTS 2",
+        "url": "Sqej/5oUmzQhppaLhc73YpgnfXhHsXrTv54Y8p+SOb6Cq8HQSJs/j36QYjom9CPvQbc59IagRuGtTO+MiDESZyEaXAoGA4lwRIHv1c+2cNRp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOiRmX8TlWz37KcHA+FLoOt5irhudCbwzPNXFvEguuVvdQZ0DlaPMVGedcO2BcRFqNbbbawykyYsz6Dr2TXc+CxLa/ohPsqUV5OJv51+LDpkliBL+MX3wpn/35BmT3NmSg==",
+        "headers": {
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ==",
+          "Cookie": "5QFu45N9LB2Gl9SI8uUpEljTqVOOuCWgBruoKcUwl6FOMdfs6y1rWupxnmjYsU5xB1m18aXnHhSu5sZxB0V6iQF2+u1cQAb6e6xN2Y0U8qk9oK0b7sC6n0e6X0eR6l2m3fTzO2m8qHk1D1k2F5c1yO9b7vKp0rJ1Vf4o0N0r8j1Zx2sL5mYjP2v6s7b3c1d9e2f7g5h3j8m1n2p4r6t8v9x0zaLbO1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8taxa+JcgXZ8CeTMhnshfQV1NfIr/bxxdaP8niMZzYFmR77uRyhdVKclPWjk/aQ=="
+        }
+      },
+      {
         "name": "VEVO POP LATINO",
         "url": "1tCJc4Fy+D1ejsayRKd2K3FA8HOhgrpLc37IE63xvnZ6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck1Fmcn9+EW62Ki/iB8bZtfhRUhngNHR+SWhY2e5PPU3HrJ6YL6TKL+gUWvb7AX1Zsw=",
         "type": "HLS",
