@@ -4856,6 +4856,19 @@
         }
       },
       {
+        "name": "prueba  chota ",
+        "url": "IidxOujmsCxfyiYYX3VmXN6esgXoMACeMubIE6LdzZLnVIgJMY/U9Nn+EnDDG2kuvsh8SG3gxjqNS6AgJpKuSG0cN5vkAJHzCnY+h7o0xUJoFf/ws4U4mSY7mXMn2YoS3SfzsYhadjAVJQSaXSvx1J7RJOj0FasnB9pwiv+B2mFFX71DI7wfcV2mIJt3fIjqcA8dMIdpxPMFkEB3BUoeOVgQc4WvkU+ELgH+CZVv1Q/IQR3N0Hqh7jjd+F01cG5DvC8zFaqfdwt63os/Zq3d1XOOKQ9vjqVoENmPiKoLL8cs0DjllhLNS/puEs2zzINydVJNPJFLddFUoJzw8xo6vqwEUqxIg53yd2ZQyvUFUMKcuWnCiRpMyS/9MR42PDXRHqSpfIA8n1dbBK2su5r8cQ7Dfyzf2WYjgojwUGGVTv7DwmR+6gmJ8D41WqqQFIdU6GTEmRkw4rI6fUBdNXXHs3juK+1mdIhxF2KNFZZAdIBr7e7g50abGOQU04kMm1zjOe85E/j4UGQvSvDkOZdAHMmz/G7WlkgX+OdRg6nQLZ0=",
+        "type": "CLEARKEY",
+        "icono": "https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEs9KogK/4o0gjahAyxkFpsSzo7D5Av2P4PJBMCWuJ+pGKOvn4fHLwWc4iw1s7HQspdpVgg6LaPgbEfqP/H8W/ajO6EP7mgzHnH9J1FfxWIkZBgfJdCxP9V8b+exn88uzg==",
+        "Autorizathion": "U0JiKAoJx282CrLVi+MzCauzxJ8ZQzs/Chppx+eO4vRp45ALkHccw+E8WuN7aDnp",
+        "headers": {
+          "Origin": "fI7xnVUwjFMC9zLTCl1WV0la4d06/ndDKHvMc+1Ohh4=",
+          "Referer": "fI7xnVUwjFMC9zLTCl1WV0la4d06/ndDKHvMc+1Ohh4=",
+          "User-Agent": "3TiHfDJS00Bddtpq17iAX4FZcVLLfUrPEgnCGsQiIDGiKcCc5NkkY/RUJ439fGCuAzbyL89IWI2xRPpHg+fqzLL4IUmYRjAtlSNuGSUrUWA="
+        }
+      },
+      {
         "name": "VEVO POP LATINO",
         "url": "1tCJc4Fy+D1ejsayRKd2K3FA8HOhgrpLc37IE63xvnZ6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck1Fmcn9+EW62Ki/iB8bZtfhRUhngNHR+SWhY2e5PPU3HrJ6YL6TKL+gUWvb7AX1Zsw=",
         "type": "HLS",
