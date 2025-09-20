@@ -1,5 +1,46 @@
 [
   {
+    "name": "TEST DSPORTS",
+    "samples": [
+      {
+        "name": "DSPORTS",
+        "url": "AGBcwfz2Ey+agK2kAkDGKZgnfXhHsXrTv54Y8p+SOb4/EJiWIZgLcG8v0Bmw6PdL5osonzn16CtyMYcKjgpn+dtmGMSS3fHGWfa68nuRUV9p45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMMHS5gSVQ2/x4V+MR6/idt9ZAnpzto0BQX1rWy/3q30yi+ZK9xiMyHghPy/ErzXSaJYFveQoNGrWfV5RMj9MwsA2z4TQFV5++tOhcBg81Gg90axxL4bVGjksXUCJUindQ==",
+        "headers": {
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+	          "name": "DPORTS 2",
+        "url": "Sqej/5oUmzQhppaLhc73YpgnfXhHsXrTv54Y8p+SOb6Cq8HQSJs/j36QYjom9CPvQbc59IagRuGtTO+MiDESZyEaXAoGA4lwRIHv1c+2cNRp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOiRmX8TlWz37KcHA+FLoOt5irhudCbwzPNXFvEguuVvdQZ0DlaPMVGedcO2BcRFqNbbbawykyYsz6Dr2TXc+CxLa/ohPsqUV5OJv51+LDpkliBL+MX3wpn/35BmT3NmSg==",
+        "headers": {
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+	          "name": "DPORTS 3",
+        "url": "WYvslgI5D5ujiqG2uGWS5pgnfXhHsXrTv54Y8p+SOb7PXMtnEmIsbbW1pA5WzPeVsFUo4y5z9xxLoAEhWBiaQM4mD2rEweJRK8YjNRTF4mNp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNVq7fvoMGU/GiNSe+sdd/5VEn/tclkHU+daRD81CZeW/j7U+ZgRe0Lo/+ivtxq1xJWXlJiXivLBAIRtghb+WgFWjOGaDRzH1+4tdV2+1SimpgafMbHBS7/mwbRwnlE19g==",
+        "headers": {
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      }
+    ]
+  },
+  {
     "name": "🇦🇷 CANALES DE ARGENTINA PLUS3",
     "samples": [
       {
@@ -4853,30 +4894,6 @@
           "Origin": "/HXjH/A35K6km7Dp/0va7mSL8sS9U1lNhzauhSGqZzE=",
           "Referer": "/HXjH/A35K6km7Dp/0va7iz+ze6ZpjlJyvd4qRU1gWh9+kHjZAuQxgDq97D4EZ0c",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
-        }
-      },
-      {
-        "name": "DPORTS 2",
-        "url": "Sqej/5oUmzQhppaLhc73YpgnfXhHsXrTv54Y8p+SOb6Cq8HQSJs/j36QYjom9CPvQbc59IagRuGtTO+MiDESZyEaXAoGA4lwRIHv1c+2cNRp45ALkHccw+E8WuN7aDnp",
-        "type": "CLEARKEY",
-        "icono": "https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOiRmX8TlWz37KcHA+FLoOt5irhudCbwzPNXFvEguuVvdQZ0DlaPMVGedcO2BcRFqNbbbawykyYsz6Dr2TXc+CxLa/ohPsqUV5OJv51+LDpkliBL+MX3wpn/35BmT3NmSg==",
-        "headers": {
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "DPORTS 2",
-        "url": "Sqej/5oUmzQhppaLhc73YpgnfXhHsXrTv54Y8p+SOb6Cq8HQSJs/j36QYjom9CPvQbc59IagRuGtTO+MiDESZyEaXAoGA4lwRIHv1c+2cNRp45ALkHccw+E8WuN7aDnp",
-        "type": "CLEARKEY",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOiRmX8TlWz37KcHA+FLoOt5irhudCbwzPNXFvEguuVvdQZ0DlaPMVGedcO2BcRFqNbbbawykyYsz6Dr2TXc+CxLa/ohPsqUV5OJv51+LDpkliBL+MX3wpn/35BmT3NmSg==",
-        "headers": {
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ==",
-          "Cookie": "5QFu45N9LB2Gl9SI8uUpEljTqVOOuCWgBruoKcUwl6FOMdfs6y1rWupxnmjYsU5xB1m18aXnHhSu5sZxB0V6iQF2+u1cQAb6e6xN2Y0U8qk9oK0b7sC6n0e6X0eR6l2m3fTzO2m8qHk1D1k2F5c1yO9b7vKp0rJ1Vf4o0N0r8j1Zx2sL5mYjP2v6s7b3c1d9e2f7g5h3j8m1n2p4r6t8v9x0zaLbO1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8taxa+JcgXZ8CeTMhnshfQV1NfIr/bxxdaP8niMZzYFmR77uRyhdVKclPWjk/aQ=="
         }
       },
       {
