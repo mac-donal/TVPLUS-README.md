@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA1",
     "samples": [
       {
         "name": "El Destape",
@@ -1680,6 +1680,17 @@
         "url": "JT/aW0J7YtCkoXzpNjNxeot/dMPoCk2exhR5cdgThdQ=",
         "icono": "https://i.ibb.co/4RmP9D00/band.png",
         "type": "HLS"
+      },
+      {
+        "name": "PREMIERE",
+        "url": "bMavg9CfVcAD6DR2d9YKutGtMyWAffdCnZC00TtaQLtJUAcjk/cdVPlr/szAKp25EGjdhGGUvW+xr8drw6KfUXptAGzVFPFhChtaWlI2kODu5P7m4ywyFp2H/UcTuSj/06ciPMGoiPhK+EkGG18WRoKXwuTwyHYb3p/mpLoiFLU=",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "headers": {
+          "Referer": "It8kOav8H1FBIsH6DwqMfrsYhfe2hrerztk5kkAkST0=",
+          "Origin": "It8kOav8H1FBIsH6DwqMfuBh6MbKP6EM79eV1YTBGl4=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
+        }
       }
     ]
   },
