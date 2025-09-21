@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "El Destape",
@@ -787,6 +787,45 @@
     "name": "🇦🇷 DEPORTE ARGENTINO",
     "samples": [
       {
+        "name": "DPORTS",
+        "url": "AGBcwfz2Ey+agK2kAkDGKZgnfXhHsXrTv54Y8p+SOb4/EJiWIZgLcG8v0Bmw6PdL5osonzn16CtyMYcKjgpn+dtmGMSS3fHGWfa68nuRUV9p45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMMHS5gSVQ2/x4V+MR6/idt9ZAnpzto0BQX1rWy/3q30yi+ZK9xiMyHghPy/ErzXSaJYFveQoNGrWfV5RMj9MwsA2z4TQFV5++tOhcBg81Gg90axxL4bVGjksXUCJUindQ==",
+        "headers": {
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "Cookie": "kos8COwLbmB5246ZGNhkUuI+t+eMnBW0wVVAG8TudPwbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaUFyUeE2MxEASeDcHNj7LakX8ev+GeSQL+Es4DQ8vlyRWyp4tjgI9Q5HqFprbRpSBbn60ECyH6Qlgf6f9GdIbHKQkzDEeljen594j8SfytZ4Q=="
+        }
+      },
+      {
+        "name": "DPORTS 2",
+        "url": "Sqej/5oUmzQhppaLhc73YpgnfXhHsXrTv54Y8p+SOb6Cq8HQSJs/j36QYjom9CPvQbc59IagRuGtTO+MiDESZyEaXAoGA4lwRIHv1c+2cNRp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOiRmX8TlWz37KcHA+FLoOt5irhudCbwzPNXFvEguuVvdQZ0DlaPMVGedcO2BcRFqNbbbawykyYsz6Dr2TXc+CxLa/ohPsqUV5OJv51+LDpkliBL+MX3wpn/35BmT3NmSg==",
+        "headers": {
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "Cookie": "kos8COwLbmB5246ZGNhkUuI+t+eMnBW0wVVAG8TudPwbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaUFyUeE2MxEASeDcHNj7LakX8ev+GeSQL+Es4DQ8vlyRWyp4tjgI9Q5HqFprbRpSBbn60ECyH6Qlgf6f9GdIbHKQkzDEeljen594j8SfytZ4Q=="
+        }
+      },
+      {
+        "name": "DPORTS 3",
+        "url": "WYvslgI5D5ujiqG2uGWS5pgnfXhHsXrTv54Y8p+SOb7PXMtnEmIsbbW1pA5WzPeVsFUo4y5z9xxLoAEhWBiaQM4mD2rEweJRK8YjNRTF4mNp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNVq7fvoMGU/GiNSe+sdd/5VEn/tclkHU+daRD81CZeW/j7U+ZgRe0Lo/+ivtxq1xJWXlJiXivLBAIRtghb+WgFWjOGaDRzH1+4tdV2+1SimpgafMbHBS7/mwbRwnlE19g==",
+        "headers": {
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
+          "Cookie": "kos8COwLbmB5246ZGNhkUuI+t+eMnBW0wVVAG8TudPwbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaUFyUeE2MxEASeDcHNj7LakX8ev+GeSQL+Es4DQ8vlyRWyp4tjgI9Q5HqFprbRpSBbn60ECyH6Qlgf6f9GdIbHKQkzDEeljen594j8SfytZ4Q=="
+        }
+      },
+      {
         "name": "TNT Sports",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ1pQjEn/saNYyNPAUtQBXztemFwy4+KUXOhcVuzmtwebq+qvLLSYTLI0p1BhhBg8z/X3YlT9O2aqNnt/SFCAYS",
         "type": "CLEARKEY",
@@ -1475,7 +1514,7 @@
       {
         "name": "PADEL",
         "url": "ZJhJgBubWYyfWp957FaK1/zvAriHreTkrOiTfWzQAG96Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck30P7+ZJe7g84BxhXHa0Fa0HOYdCQf7jabjhcSTWl2OqomAnarDJKSyG+LlIRRL9/N2AZMQT5coNo77U8IvzE8QiYCdqsMkpLIb4uUhFEv3825r1Km4R8msQ0Gn4G7RCwt2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.postimg.cc/NMysP03v/padel.png",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj417b4MjuABXlfYvnQT7VQ0mCbO-7VrIA1A&s",
         "type": "HLS"
       },
       {
@@ -4694,12 +4733,6 @@
     "name": "MUSICA 🎼",
     "samples": [
       {
-        "name": "UN POCO DE RUIDO",
-        "url": "rXhGLjEsMy0JgFbOPVA4QOv7oeu51XlsfxBXivHT6IsOsUqXrxsFTW4Lef9n8wOxg07fGPrsK2OuJi+w+X6EQ7PkVQVFCxGE9h146g2cmH6LzilV/KJlayf/KAJy007PedaxOToeTcAIjY16eF/L/oNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.postimg.cc/GpgKjY5b/unpocoderuido.png",
-        "type": "HLS"
-      },
-      {
         "name": "MTV",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLwBKGpjYlacuZz02xfrzMld9ZI3W2vLYtu0K1iKBHkGQ24804x5Qp5+cb6mU6iMaY=",
         "type": "CLEARKEY",
@@ -4877,6 +4910,18 @@
   {
     "name": "RADIOS 📻",
     "samples": [
+      {
+        "name": "Un Poco de Ruido (🇦🇷)",
+        "url": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
+        "type": "HLS",
+        "icono": "https://fbi.cults3d.com/uploaders/26619154/illustration-file/65b99d89-950b-4fd0-887d-cf5511055ab3/un-poco-de-ruido.png"
+      },
+      {
+        "name": "RADIO SAN GENARO (🇦🇷)",
+        "url": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KzfB2WsIdGh/TXxSpvRFlX+",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/G437L9Pd/page-background.jpg"
+      },
       {
         "name": "LA 100 (🇦🇷)",
         "url": "C4sHdSUhk5Gh0RSCXScKH/x5VvHOh7gfhUd+I2RYFeyr5AE/Xq5rAuaXL+FV1lOtmRqNYSEzGz3DJRIlC23teHRkTiqbvGQIn+wrdBIVAFo=",
