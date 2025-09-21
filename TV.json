@@ -4756,12 +4756,6 @@
     "name": "MUSICA 🎼",
     "samples": [
       {
-        "name": "UN POCO DE RUIDO",
-        "url": "rXhGLjEsMy0JgFbOPVA4QOv7oeu51XlsfxBXivHT6IsOsUqXrxsFTW4Lef9n8wOxg07fGPrsK2OuJi+w+X6EQ7PkVQVFCxGE9h146g2cmH6LzilV/KJlayf/KAJy007PedaxOToeTcAIjY16eF/L/oNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://i.postimg.cc/GpgKjY5b/unpocoderuido.png",
-        "type": "HLS"
-      },
-      {
         "name": "MTV",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLwBKGpjYlacuZz02xfrzMld9ZI3W2vLYtu0K1iKBHkGQ24804x5Qp5+cb6mU6iMaY=",
         "type": "CLEARKEY",
