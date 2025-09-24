@@ -27,6 +27,18 @@
         "type": "PELICULA"
       },
       {
+        "name": "Gatillero",
+        "url": "t66mQIL0al4QGguoSjH6BkvVwOqGVgINnyqFwn+QtaPiX60jlsud6QIyYbHHN52kBj/sbLo/1zeHfHgb9WRWzXJWKZR/E+UQ2Pfsj/aEfJ4UfAGdikpd7vJmlYvyLScJF4SVJre2xc0jP9FStILm7A==",
+        "icono": "https://images2.imgbox.com/4c/a8/B6Dm2PQv_o.jpg",
+        "iconoHorizontal": "https://indiehoy.com/wp-content/uploads/2025/04/gatillero.jpg",
+        "iconpng": "https://indiehoy.com/wp-content/uploads/2025/04/gatillero.jpg",
+        "type": "PELICULA",
+        "descripcion": "Un thriller en tiempo real filmado en una toma continua. En las calles de Isla Maciel, Buenos Aires, se desarrolla una cruda historia de tragedia y redención que mantiene al espectador al filo del asiento.",
+        "anio": "2025",
+        "genero": " thriller",
+        "duracion": "1h 19min"
+      },
+      {
         "name": "Lazareth",
         "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBVvxmHPsXtwjzPQbR0YlwMXXvjtGZWFROLO3zquLfUYEemPncnYw8IgJWuMqd7hkU=",
         "icono": "https://image.tmdb.org/t/p/original/36o8ancoKDKW1sstzMi0YYkQkpU.jpg",
