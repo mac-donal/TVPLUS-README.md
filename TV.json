@@ -530,6 +530,12 @@
     "name": "🇦🇷 CANALES DEL INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "San Luis+(🇦🇷)",
+        "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp"
+      },
+      {
         "name": "Canal 3 Rosario",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJn0OF5Ru/lCFGYxlDrrRVq2PN8cGwT23f1t8b8/scIHW4aakiGMlDsJow/8+fuHMoyXdGAkAbxW8sQFc6v2CeK",
         "type": "CLEARKEY",
@@ -4970,12 +4976,6 @@
   {
     "name": "RADIOS 📻",
     "samples": [
-      {
-        "name": "San Luis+(🇦🇷)",
-        "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
-        "type": "HLS",
-        "icono": "https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp"
-      },
       {
         "name": "Un Poco de Ruido (🇦🇷)",
         "url": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
