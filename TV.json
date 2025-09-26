@@ -4971,6 +4971,12 @@
     "name": "RADIOS 📻",
     "samples": [
       {
+        "name": "San Luis+(🇦🇷)",
+        "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp"
+      },
+      {
         "name": "Un Poco de Ruido (🇦🇷)",
         "url": "KnRU31DTAK+217fXWAkWQO9DrHwOqLd4qS6yRFUf1LDppmLiJM0gbZzAgzUKUCvDySYxlzR5q9cxsW7r1emYXyIT3yhdl2JzflKta4M2hBc=",
         "type": "HLS",
