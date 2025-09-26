@@ -3,6 +3,18 @@
     "name": "ESTRENO",
     "samples": [
       {
+        "name": "The Ritual",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5NAzlkG4h2eSBhTfM6LVAuS4fp6ULuJs0U43jdps+5l",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMzgxM2Q3ZGYtOTAzMy00NjZhLTk2OWMtYWUyMjY3NGU1YmRkXkEyXkFqcGc@._V1_FMjpg_UY3921_.jpg",
+        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNWRmZDJkZmUtYzMyMS00YWNjLTkwN2UtMDg5OGFjZGY1Y2UzXkEyXkFqcGc@._V1_FMjpg_UX1600_.jpg",
+        "iconpng": "https://images2.imgbox.com/97/6d/DAvxCbUO_o.jpg",
+        "descripcion": "Dos sacerdotes, uno que se cuestiona su fe y otro que se enfrenta a un pasado turbulento, deben dejar a un lado sus diferencias para salvar a una joven poseída a través de una difícil y peligrosa serie de exorcismos.",
+        "anio": "2025",
+        "genero": "Terror",
+        "duracion": "1h 38min",
+        "type": "PELICULA"
+      },
+      {
         "name": "El conjuro 4: los ultimos ritos",
         "url": "t66mQIL0al4QGguoSjH6BqdxWjaDNf7dWvWO2fapc7WN+tg+VUsW5L9YHQsk1AheioDkka2va13lvkro3MDuLWFmRcsEoReFvggKsZccSgbyQm+ceY9y5nEHArZfFATCh799DXFLBVss/tUNezaPPZ55MAJon6lOaoZOR8mhMec=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
