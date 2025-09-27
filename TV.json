@@ -1336,21 +1336,16 @@
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "MLS",
-        "url": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZgnDJ/dX8KqEZScWKfZd3rW1P+6rq8bGYsbsYzqTqrVqYNARVoQWmbbLUeFMmgHLa8=",
-        "type": "HLS",
+        "name": "MSL",
+        "uri": "k+ghjutsRDKiqJFK52Sly0AusyR4KLHdoRnZBUikh1owLglUjJrHJQ9+02CGEC5/dc1n3TK9oJqIMa2IOOWZc3YFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "headers": {
-          "Origin": "NsDp/2hV56qfMqcMzkdPZs+cYiG4Wt8mU25Pt+vM4Ak=",
-          "Referer": "0hgGKpQCkMDuEwWwHLiEXO2/ffh1j5+ulYMwx56Sq68=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
-        "name": "MLS",
+        "name": "MSL",
+        "uri": "k+ghjutsRDKiqJFK52Sly0AusyR4KLHdoRnZBUikh1owLglUjJrHJQ9+02CGEC5/dc1n3TK9oJqIMa2IOOWZc3YFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "url": "t9Cl7rWEGhHsjduyUoprrlj9jz1gVo/ndzkjvdAY42Rxz7VQ3dxBTkvjWdXMIuPQx4WTbVw40ZAS091sHU4BMg==",
-        "type": "HLS"
+          "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
         "name": "EVENTOS URUGUAY OPC 1  🇺🇾",
