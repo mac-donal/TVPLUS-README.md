@@ -3967,67 +3967,67 @@
       },
       {
         "name": "Globo News",
-        "url": "bMavg9CfVcAD6DR2d9YKukjgq52HUov40MRB9+9kyqZMWC7Y4YjVjoNKQCdGTIotEGjdhGGUvW+xr8drw6KfUXptAGzVFPFhChtaWlI2kOB7RQU5//88A20xrp+oqgm24QcCRzrCMtwmvC5xn6/r1N4MhQHyMuVO7lBAp1N8Se8=",
+        "url": "dKCLFrS4QA24IowGwM90k6Wv0GuRynXYy9VEfal0Hs4TazbwPp3yHHGoIMzc8m4Wz+Wwa/U6wOHBC1n8bTjEug==",
         "type": "HLS",
         "icono": "https://i.imgur.com/3yZyaCm.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       },
       {
         "name": "SBT",
-        "url": "4aV2JjrTI2h5vABW4Y4CCxB0UiFd0sQmB61cGz5CLzmubnoJkM/sI0+aH/GTE4K08AwXh2NNjYkLLYNZRT1guMUOCW6jznsyuzm86okH3jR+KFFb+jcFH9IGH5mhE3jZCPzNf05FxMWN7FpNc+3vQv/mGT7N6QEbJ6Cq7IUo7KE=",
+        "url": "dKCLFrS4QA24IowGwM90k/gvPd8MZErLpa7ZeYJFxKtqxu0XorMgwksx/u3dPX5zjX8pAW88QN82+arl5c1WXQ==",
         "type": "HLS",
         "icono": "https://reidoscanais.life/img/sbt.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       },
       {
         "name": "Band",
-        "url": "4aV2JjrTI2h5vABW4Y4CCxB0UiFd0sQmB61cGz5CLzmubnoJkM/sI0+aH/GTE4K08AwXh2NNjYkLLYNZRT1guACb1xV/ZK/lh8VavWPOUrS0a0pRN4BOxXcuNElhFkvjxAJE06578K8HCSUZwjRSPWrAQznDFBPaOwFuuc7ZWRs=",
+        "url": "JT/aW0J7YtCkoXzpNjNxeot/dMPoCk2exhR5cdgThdQ=",
         "type": "HLS",
         "icono": "https://reidoscanais.life/img/band.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       },
       {
         "name": "Band Sports",
-        "url": "4aV2JjrTI2h5vABW4Y4CCxB0UiFd0sQmB61cGz5CLzmubnoJkM/sI0+aH/GTE4K08AwXh2NNjYkLLYNZRT1guE5m5FFVqZTpO/6cB2eCzet3/fMr/CH+vFjwFbvskrw+LXO1IT5phtv6VgCEsaAaMuFRJV/u8GdsccBMNOLLUiQ=",
+        "url": "dKCLFrS4QA24IowGwM90k9GQARoQzugpDzIgdlX7nq6t+AZwLe9Bc3CD1XZUlRiXv9RHMIB/CKeokmwqb4EVsA==",
         "type": "HLS",
         "icono": "https://i.imgur.com/EuPvzJe.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       },
       {
         "name": "Rede TV",
-        "url": "4aV2JjrTI2h5vABW4Y4CCxB0UiFd0sQmB61cGz5CLzmubnoJkM/sI0+aH/GTE4K08AwXh2NNjYkLLYNZRT1guH0nx1dnx3l7/ZI+5JsSphOEKXF1T6Q+DefnGfOeaOlFXvqZfuXGTJWQETbThrnra5BZRWDPEgjpcucTGxM1NOE=",
+        "url": "dKCLFrS4QA24IowGwM90k+mxXet/B09Ji5N5fn8/K4MrpG2nIvEd3MycQtvV71rQTUVBly0tHxl29IzidIXBhQ==",
         "type": "HLS",
         "icono": "https://embedtv.digital/assets/images/record.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       },
       {
         "name": "Band News",
-        "url": "4aV2JjrTI2h5vABW4Y4CCxB0UiFd0sQmB61cGz5CLzmubnoJkM/sI0+aH/GTE4K08AwXh2NNjYkLLYNZRT1guKfZEgXPNOu2nbIVBErhnvf2eAEeCPMLsqzJsvhbWuWGsHTqeV+qGs7NSNykEY1p0Boi/YF4zDbgjErVpmJ7Gbc=",
+        "url": "dKCLFrS4QA24IowGwM90k9pvTcFBP2Pg3rdixMEt/eUq6JKH2jeMajXY8VCkcIPnIe+ngWo9tHGca+twh5MXZA==",
         "type": "HLS",
         "icono": "https://i.imgur.com/3YlJsCL.png",
         "headers": {
-          "Origin": "It8kOav8H1FBIsH6DwqMfrtilbdZ5VlOmb08Dbd5CHs=",
-          "Referer": "It8kOav8H1FBIsH6DwqMflqyKh6vpNt3VGSKrGZMxfw=",
+          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
+          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
       }
