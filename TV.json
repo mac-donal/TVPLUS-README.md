@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA1",
     "samples": [
       {
         "name": "El Destape",
@@ -1358,6 +1358,12 @@
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "url": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
+        "type": "HLS"
       },
       {
         "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
