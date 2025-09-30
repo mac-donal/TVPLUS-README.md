@@ -3,6 +3,18 @@
     "name": "ESTRENO",
     "samples": [
       {
+        "name": "Eddington (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtzdHPxx+z7iKT5PoNm/5NEaBxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://iili.io/KG3vYTG.jpg",
+        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BODhhYTZkNjAtY2JkYS00ZDFhLWFjMzctMTgwYzMzM2VlNTg5XkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "iconpng": "https://iili.io/KG3vYTG.jpg",
+        "descripcion": "En mayo de 2020, un enfrentamiento entre el sheriff y el alcalde de un pequeño pueblo enciende tensiones y divide a los vecinos en Eddington, Nuevo México.",
+        "anio": "2025",
+        "genero": "Western",
+        "duracion": "2h 28min",
+        "type": "PELICULA"
+      },
+      {
         "name": "Prisoner of War (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwi99kr891TvpBN1LUjkntVLa6nCQEyRDQPwjLhJeF8m",
         "icono": "https://images2.imgbox.com/90/8c/zg3oljF6_o.jpg",
