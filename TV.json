@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA3",
     "samples": [
       {
         "name": "Telefe",
@@ -833,7 +833,7 @@
     ]
   },
   {
-    "name": "🇦🇷 DSPORTS SOLO ARGENTINA",
+    "name": "🇦🇷 DEPORTE ARGENTINO",
     "samples": [
       {
         "name": "DSPORTS SOLO ARGENTINA",
@@ -873,12 +873,7 @@
           "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
           "Cookie": "bFGOlA/ILFkTmJyIww+ioCAPt+B9gKrLMZ7tmB8JoblqbqJkvsJJlsB8HvPlbSLU5bhmRPl8Re6fickcnVJt5nEqNEABwqDrwZWv6FvuU3nAOAy+flXnxvj752rxXf3lYwvACT/EN1DEGuONmLsWONLbrD3W9C2yF6Iyng4l3lLQCQbROcevexqR4om5QcPhXIiX5xv+KpglmK4+I2Shfw=="
         }
-      }
-    ]
-  },
-  {
-    "name": "🇦🇷 DEPORTE ARGENTINO",
-    "samples": [
+      },
       {
         "name": "TNT Sports",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJ1pQjEn/saNYyNPAUtQBXztemFwy4+KUXOhcVuzmtwebq+qvLLSYTLI0p1BhhBg8z/X3YlT9O2aqNnt/SFCAYS",
@@ -1081,7 +1076,7 @@
       },
       {
         "name": "FOX SPORTS 2",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/Qf99KpdArHwfoiGT/ED0FR0+vY1fcRNLXg8DW2zVzPzhgEKMjDOkSqFfvVcNHyt7LqRGdipAmdVUEYSz87+0n",
+        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DR1diwDdnukwan5y73eDajxKfseBH08pTTeoST1hLH9J4JHNh5B6liWDYG/7Hvd1g=",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKc5iit56frofX4cNSyNQnFO6E1+b2Yda+ajlAB190PgGyPwl6L+pd7dqApODx22NHRKY/96I9EMAwNePAQU6cT2Z0/pCl5c9MXOOU/kEsc4detfK7vNRprB+zD0OdP1Rg==",
@@ -1107,7 +1102,7 @@
       },
       {
         "name": "ESPN",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/R8+Guimj5YRd9Ji2YcPNB86EaL2YQNTGiurFjFKd+JWAS3bfeAvM8itT8PzNMyn3RicgdAYLT0iUA/cU76UOp",
+        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DsPhCLaGIYzzZTgR4q3ZyHGqBYOKIOhf0OsiW90CKWeAyyZrSqHQTsn4oKkpwyesw=",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvErtfPTZo/t/BAOYh0bCg3onFIrWipeQWKPImO2N9+2ofTStJv4PnCleVbYCz6Kv6906coOXhKXW7SvxPVM0Ik7iAbMPWZMZ8tVMuOYekkWEZBwu/4MXv4stS4KnB13hAA==",
@@ -1120,7 +1115,7 @@
       },
       {
         "name": "ESPN",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/R8+Guimj5YRd9Ji2YcPNBXwZMmnfjocJrhpVbhdiqJQ7inicJpTKwN3r0xzZfYSo=",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3p9rV3aEo9FRJHwQA3APgUdTOzWNQTVSZAiwC5ikcCApw==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMA8G5f/7SG8bpbllSmRuA2TPR/xByQ3Q4xqPgLB9UzUrt08j2kRvuDrJpyYIsbHkR6LtqjZi+W8e1xUcqEbwqeCb6UUztFc/lV6JrBUyYhyoeWgdn8ZbBKsm5xLPFXV2A==",
@@ -1133,7 +1128,7 @@
       },
       {
         "name": "ESPN 2",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/R8+Guimj5YRd9Ji2YcPNBbqSfuqRjNBdyH295bzm3Ybv2jqM6XADXxG1XBlurBlQ=",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3o+9GReLqcQdYz312AZh0Qf18U+MBkTxMX/gtcmGZQU4w==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvD4gBbnr6WqeXy6zE1FvXWrcZWGcBf4XsJqwpa4pzpC5gMSu3W0aKv20fgtPdOobS+lB0Fu9mfMNp6sqaOvMsFwel1Aog6nfhHfakWWSxG4Vm91J1p5XC3YXqdj+Gi1zig==",
@@ -1146,7 +1141,7 @@
       },
       {
         "name": "ESPN 3",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/R8+Guimj5YRd9Ji2YcPNBlugwQAQShH2xUld9+K54NxXs3jIHddoVzvXjk9wRjGU=",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3orI41NurWNPqrSmyB7wZ8z+txB4kFbbEHgrFiiikQAGw==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAu6MAjifdGJ1lxU8Fe+mDw69us6EFcElZth6hLAkAUK2qiG32FnoyKrxTb5nYsDQbDgEA+PKNAfayXvqX3u1XKYc4j6oAgPVoEDQmEW7+g8uEFu7y01kNiZKkMsEHOmiA==",
@@ -1159,7 +1154,7 @@
       },
       {
         "name": "ESPN 4",
-        "url": "NXPFgFRqvUEpZ5iE5c8trZtRbQhFvLGDQcqZsVz8mC/R8+Guimj5YRd9Ji2YcPNBCo9oMYtjWfK/+GyGx9C1DgVJW20WMA3j5/56/XuYzRM=",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3qAGKhEU0InwhdvsbvVOYvgifGN5TNEwNZ4z761j5QoQA==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA09rahrAV/Wkaff4rlPvqCU154ifW43hsbSj6e0q5uGJdjhywu1Oc/f8f1dCplXOp/7tbEibxkhVIRXQeh1/Y9XD/6VivptBXKvUt5cOT5fFefSP9R9Fpgdg8tkk8iSBw==",
@@ -1172,7 +1167,7 @@
       },
       {
         "name": "ESPN CO",
-        "url": "E9dvhEuLgplFXDJ+arhR7VjjbrISTnWqg88BL6aeCLPR8+Guimj5YRd9Ji2YcPNBM/kSP4olaG/Tg+Vo2RIL+UJk9Yxs8dvbICjqYpZgZzVAdXLc6+Vf/g7njQlkwSwt",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJm0Qa7A+5AFX5R7QwRrHc3qpdKAyOPYBkjEuKp35FSyFGqBYOKIOhf0OsiW90CKWeI0PeARngQIRZCGJexNMepM=",
         "type": "CLEARKEY",
         "icono": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLurcSP0UhLePo925nHY+XUEJer/RigPACBmVJmkPiU0k2d7jMbkJApVtHsRm/sH9bfIKUGVgKK17pRurbRgBiTAcfEKWb0u/HdHmLJeMc51DL8SJaXG4DS6J5woDkah0w==",
@@ -1404,7 +1399,7 @@
     "samples": [
       {
         "name": "MLS",
-        "url": "dkuMhdS1NoI8R7w8LUseHsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKztKZiYErp0DqjLl+us+23BE6yKjx1bUfvMyWZYbt64A0=",
+        "url": "k+ghjutsRDKiqJFK52Sly0AusyR4KLHdoRnZBUikh1owLglUjJrHJQ9+02CGEC5/dc1n3TK9oJqIMa2IOOWZc3YFOZgBrRBITsHBqhgqnUA=",
         "type": "HLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "headers": {
