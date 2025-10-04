@@ -1706,15 +1706,16 @@
       {
         "name": "DAZN 1",
         "url": "oqyzk7pCEsWxpz4Blgv2MdqQsM52zkzh6U7mEG/kQ+KFvwLuTE/uhM9Q9MACtkPKdMFzS1XH/IKmnj8+o+vijMHNaa5qVd5DWtCk/6fjXVU=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "FORMULA 1  PRO",
-        "url": "nainWZNQ8Iqu28VsYRPIFhUmnirrgSg2MoJBh/plmpWUYBkgUevuzSw9buuw2hgj",
-        "icono": "https://i.ibb.co/3kJG4tH/dazn.png",
-        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
+          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
+          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
+          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        },
+        "type": "HLS"
       },
       {
         "name": "DAZN F1 (ts2)",
