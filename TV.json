@@ -1439,6 +1439,12 @@
     "name": "​🇵🇾 TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "TIGO COPA",
+        "url": "9n6KnizKL2gZ97Ny4tQWcN9O1Wb/o9YRGCyxV6IC4CcoeL/TSPbos44vQcqsbNLok1ZM4PA8EdvqWnKCc1750A==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
         "name": "TIGO test 🇵🇾",
         "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
         "type": "HLS",
