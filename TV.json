@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1",
+    "name": "🇦🇷 CANALES DE ARGENTINA4",
     "samples": [
       {
         "name": "Telefe",
@@ -845,7 +845,7 @@
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
           "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
           "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
-          "Cookie": "HKkg8+Pl0plISff3ST30AWR+9Gdqt9Ii0o0NmEDEbZQbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaXVI0iBMZjj/yYhAZPouUxQyXqXGXSHF3dHFJK+Vc7ke45Z8GH1wnUxvBhf91AY+FXzdEVoHpko3vCx6OvFYtBjZ+WbfmqtR0XoVahqtOqxsQ=="
+          "Cookie": "8E6CroOJkkIb8Ib9eRf+BDaGvCuGAdoxAUhMqeCV+PsbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaWzytXmYmqZCBUUNqSTGEIkCLE4LQHy2BFUz5SQD0zjfyh7t0YLSTePTcEI3bjfNTwRxTkfaZCi0WZMnP7K+Tks2z38aOwJ9KHDLubR+7GGjA=="
         }
       },
       {
@@ -871,7 +871,7 @@
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
           "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
           "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
-          "Cookie": "HKkg8+Pl0plISff3ST30AWR+9Gdqt9Ii0o0NmEDEbZQbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaXVI0iBMZjj/yYhAZPouUxQyXqXGXSHF3dHFJK+Vc7ke45Z8GH1wnUxvBhf91AY+FXzdEVoHpko3vCx6OvFYtBjZ+WbfmqtR0XoVahqtOqxsQ=="
+          "Cookie": "8E6CroOJkkIb8Ib9eRf+BDaGvCuGAdoxAUhMqeCV+PsbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaWzytXmYmqZCBUUNqSTGEIkCLE4LQHy2BFUz5SQD0zjfyh7t0YLSTePTcEI3bjfNTwRxTkfaZCi0WZMnP7K+Tks2z38aOwJ9KHDLubR+7GGjA=="
         }
       },
       {
@@ -1704,9 +1704,16 @@
         }
       },
       {
+        "name": "DAZN F1 (ts2)",
+        "url": "cbleISU3zn1b9vcXMOmJBcopQkY61umO7SawNvWxSX7qPXABOjsY8eWWejHR1f8Sx4WTbVw40ZAS091sHU4BMg==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+     },
+      {
         "name": "DAZN 1",
-        "url": "oqyzk7pCEsWxpz4Blgv2MdqQsM52zkzh6U7mEG/kQ+KFvwLuTE/uhM9Q9MACtkPKdMFzS1XH/IKmnj8+o+vijMHNaa5qVd5DWtCk/6fjXVU=",
-        "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
+        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEipUw71Qxn7bqTn1Zt1DDtEe9xH+ui8iJbellgn20odIvcQv5DLOOLwq2YV4qOyy452BTmYAa0QSE7BwaoYKp1A",
+        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.pn",
+        "type": "HLS",
         "headers": {
           "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
           "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
@@ -1715,14 +1722,14 @@
           "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
+        }
       },
       {
-        "name": "DAZN F1 (ts2)",
+        "name": "DAZN 1",
         "url": "+qbbwiZyoHj10caex/amMlf4LXFkwz54Ju1zPGajEhA8lPmg7ueuFQU9LTaDTjm+",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
+        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
       }
     ]
   },
