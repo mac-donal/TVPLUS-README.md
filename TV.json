@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA",
+    "name": "🇦🇷 CANALES DE ARGENTINA1",
     "samples": [
       {
         "name": "Telefe",
@@ -4325,9 +4325,25 @@
           "User-Agent": "z4EycgpPDRx/d+W643x6Hw==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+	    }
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 1  🇺🇾",
+        "url": "nainWZNQ8Iqu28VsYRPIFn/yDy3d4Q9BKl+Bn01mTDW2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "type": "HLS",
+        "headers": {
+          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "X-Hash": "Szt2c8rVLD3d7Q/Ooenzr+o9PiKZA+vv0ohVk6CB8ARhTcP5tBIb8FyLYQyR2FerEhQS995RgA2sEBCHVPWIgg6R+p396b0iYlvEmZXNO7tXmUqnqxFiEC34aM97qs0CnaP+1fMaW0S5j0sf/BkJJmZsqw0u02jKFhxyZL0CsULluOuiPJk2uRcIcMXqOVXutlpcATlR+cXPW6ttAGFcLEAvmiEbOtOIXy0awlcBZn4I72bAqJLBfIeUkfZeu7BqwmZo8Wo3pfJQ8ChBdLiDatoeTPaps/4tYtxTXzOXXsLZnuaAc56lCrjVnNau0vFZVu8Zojs0pGrTim0fssDNMFa0rJtv6VUe/4yvNiVt6VM2C2W6TRENFkaUO4jE9V1Nv8kp9TaMxdmRtWAssxhAsXZk6oLgJLPpwgAoPCm7Q+qRlG16hE4fY6nOBvAmdBJZ3E/Z3rhsCDNXH2OYg2w1ALrttcYcSpaRCUxtKtIdSJ/iWcCPqLmzzA5K7s4u71t2MI/5uEgsram9nj0kKYdCp3RiTXZvnG/+EMqFrCoakkyZrf/ChMHpWYyKo2ll5kBqLYX8mdJHUpkxUYZ1Oe+NR9xhJdEVWdREO9uGX4Y8lo34Pu7+QPtGKaWLncK+dWw6LegMqFcW63BMo1Ui+a9z1JSgYgZDRf+rwgTpckivnVdp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
       },
       {
+	  
         "name": "🇧🇴 Bolivision",
         "url": "b+LEYBbtVqgiPvHv6MfrE9kBT2vYD5w/0WnpL+K+PqBH8AA30rYQ9N0BnHnUQEgKaeOQC5B3HMPhPFrje2g56Q==",
         "type": "HLS",
