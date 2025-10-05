@@ -3,33 +3,6 @@
     "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
-        "name": "CINE ACCIÓN",
-        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzD1SUhcy0NILjJZQR1hiYu38rTJM+2o0KpjjVyU/UOD6Qhuo6XVRBOvsfQiIlXRXJYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OcPa5HklSA7rLvLUUfMlTHHYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://i.ibb.co/HfJ8Y93w/cine247.png",
-        "type": "HLS",
-        "headers": {
-          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
-          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
-      {
-        "name": "DRAGON BALL Z PRUEBA ",
-        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Pw9ekSSAYKw/y4U1GYM9mJt38rTJM+2o0KpjjVyU/UODzIYdng41SWmpNklnZAYunFYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OdegOwhuCeohgZLlRRTo16HYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://i.postimg.cc/dQrmPcZV/dragonball.jpg",
-        "headers": {
-          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
-          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
-          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
-          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
-      {
         "name": "Telefe",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8O8j1Ktm6xVNrN3p8+pa03RvJJbMdFdpSUbJA/cpI+W/fj4upLSzqy0BK+W++eqY=",
         "type": "CLEARKEY",
@@ -3411,8 +3384,132 @@
           "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
+       }
       }
+    ]
+  },
+  {
+    "name": "🎥CANALES 24/7",
+    "samples": [
+      {
+        "name": "DRAGON BALL",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PyhIiUMuzLRnO6Zrn6BNNyG38rTJM+2o0KpjjVyU/UOD76+ZrQCWXIhjhcWib3pVWBYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OWWjg8iCNPStKhY1p7uStnnYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/ba2044576c78df97b62c9f9ffb77511bf368d85d5acef4911a0cebf30f68544e.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "DRAGON BALL SUPER",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PwaDGiTlcK2L9HiBD6OEfNW38rTJM+2o0KpjjVyU/UOD3Zm3vwTeDCx4DWtd/9CjXVYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OFVp6vV9Vb7g5qUkEN1KsrHYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://i.ibb.co/ns2JzbpK/Dragon-Ball-Super-1.webp",
+        "type": "HLS",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Pzo7Hv6BO1EwBuY4outQrmz38rTJM+2o0KpjjVyU/UODx2ACxCc6v2n18nf29owzEpYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OVeyAWz2UPebfEi3q0HlwqHYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "CHESPIRITO",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Px9uYNBL0OTB/VKX670RBtY38rTJM+2o0KpjjVyU/UODznnDrOaWVDuxUkI9rLmlA9Ylo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7O+QVMJt+xMJ8fJXNFYzxSOnYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYjAyMjVjMjMtOTBlOC00N2ZkLWJiOTYtMTEwMWRjZTVkZjdjXkEyXkFqcGc@._V1_.jpg",
+        "type": "HLS",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "EL CHAVO DEL 8",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Pwk+zlm3icNwmB/cN/ORepR38rTJM+2o0KpjjVyU/UOD5EvHJ27oo2/7HbZIjgS0R1Ylo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OLfvKsherRricO+GWzfm2pXYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "ALF",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Pwuu0cPzZlE+L0MvEKD7zdum3z0dOB5giVPdFiU2/RUnsIYI2O81tnlnkm0kzeu9fD3eckS2bj+lCXEoqVyW3U2DfiWUnCMOf4MxrUbhBVdjEoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRnAGRK4zat0uH9Kn3h1Qd1zyar46+dWeo1VFPw2Hpi/wGyaqBkH7dztQFWayPouBPV3REf4I3cBBpVLFgTy+f3eoNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://i.ibb.co/xtbHtrr6/R-5.png",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "NARUTO",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PxvAcl+Xb2jBaCeojxeUeSv38rTJM+2o0KpjjVyU/UOD/srAUI8Vay8wHY2C4wxu8BYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OR1fnjRQEOAMVFCpac0g7cXYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://wallpapers.com/images/hd/naruto-profile-pictures-sa1tekghfajrr928.jpg",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "LOS PICA PIEDRAS",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PxvAcl+Xb2jBaCeojxeUeSv38rTJM+2o0KpjjVyU/UOD/srAUI8Vay8wHY2C4wxu8BYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OR1fnjRQEOAMVFCpac0g7cXYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/5/51/The_Flintstones.jpg/revision/latest?cb=20250808221418&path-prefix=es",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+        }
+      },
+      {
+        "name": "Super Campeones",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/Pz/1ljXv9acYSXeN/lRQQ4438rTJM+2o0KpjjVyU/UOD7axidUSrc9F3tY4uKP2jHVYlo6NRIGk2QndOzHq/7h51JUTqpxQlsjLESHHb19V3ZNdM8t40gCXOPxES+JUJolnXUADjtLS+R1vqipQeX/Iv2K/ZD5nG3e0vKiT5URgvMI2ynOF7uXNDQDaIZ0tObH6vlHOvVRlO+B/11pu2s7OIDnWacAvtmAvpiBqPiJMf3YFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhRh0tw9yML8JosqsYqQD1LoSKE.jpg",
+        "headers": {
+          "X-Hash": "K+tUsW4QI0juAZLJPiWGEgq97ugHN5PeDKIgM7TbWuhnUf5xRWOpkTa26dii09VOAMOY1b4+BR6ekSzk47/6Uzl2jKH5yMyCwyyRLrOiIhlymMV8d9b8QJV9UnUQmiwBofdk5I8CifC2Cb40jummmQ2b5sw6aggUg2UKKXtKt55T0Gx7wC2lgmgR9IY/6TLqN2yrECEer9c65ANDzxK+vw7xm1oLj5lKmHHzgUmv7re7pthmY3HvuAvzjktuYP+kADurC02juNaShEvOsnOiKoi340evavbVxgL0eJRpNYk4IFy7F2PTMn/bbmGhEtbmIdusc298enYWGbLncJI6lfs964w7iVQEogAe2hae+jaonYzlOHE17AFMxPCvlQNvx9JUjR5Bn1rKSg8uM8lp8f6lIlX6V0/CKYwS+vj7MjjXXkSOhYTKag4mn8Ht+5EO2srwn7JAZ+L6IXgRcY01plDc6uYRKy9IjLpA8yvCF3r1pf3bu8n510HWPEoQhT2AEI5Pk4bbYpk3I+QD6ymxKdlzvvtk7sn/KkveJND1Yv4aJ+DUrR4kO8MHan2N+5v/ZD1l/y5PG35LA5X2dEve8yOXAxvWTGw8vSsHo7WcZbXLsg8dnfys9yV5EF7Zjqbg5hk0PjkeYha5NuqwkP30UKhZdloU0IoqfzWbis12/MZp45ALkHccw+E8WuN7aDnp",
+          "X-Did": "c2mjWxbInuBjbzjbfoI9S2njkAuQdxzD4Txa43toOek=",
+          "X-Version": "C8wS08gzf4KzdWI0Ej55bw==",
+          "User-Agent": "M7QQ+FhHUC6+ghzh6FiEZQ==",
+          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
+          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
+      }}
     ]
   },
   {
