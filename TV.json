@@ -3331,7 +3331,7 @@
       },
       {
         "name": "CINE NAVIDEÑO",
-        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzcHKqWZymGjabWknZIaprymY8mW6avMVZXBjMUmbwJGZBjYR6/A3f0XKhfqQLGsuc/fa3D49PRmQMB23+I8Xy4xpnPqV1YgMRvV9nsGJ1/xY9uJtHKE/6uvIjtfM+7ILhproBufIU4IGHH5rWETMEDNqNvfERYx4bXZemgucXrnZjBZlw+5Ko4ogGTksRmTrzJkg+Ej9IcTknBw4JjkHq1jvtSeyY6CH8SyREvMewxCiOPnf5WdUb8IGnuVy8+ons=",
+        "url": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PwEvL+2VWxtZwnLdwYkDnjUmY8mW6avMVZXBjMUmbwJGY9t1F82H7BjV379uPJ15x0/fa3D49PRmQMB23+I8Xy4xpnPqV1YgMRvV9nsGJ1/xY9uJtHKE/6uvIjtfM+7ILhproBufIU4IGHH5rWETMEDNqNvfERYx4bXZemgucXrnZjBZlw+5Ko4ogGTksRmTrzJkg+Ej9IcTknBw4JjkHq1f8wAlFUKbD6W97Y04HoA1raNOOa898NTUdhvkey4Tiw=",
         "icono": "https://i.ibb.co/HfJ8Y93w/cine247.png",
         "type": "HLS",
         "headers": {
@@ -3384,12 +3384,6 @@
           "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
           "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
         }
-      },
-      {
-        "name": "TERROR 24/7",
-        "url": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8MrFmnYMHJHYv4Zi6WeSr1/lGAZIFHr7s0sPW7rsNoYIw==",
-        "icono": "https://i.ibb.co/HfJ8Y93w/cine247.png",
-        "type": "HLS"
       },
       {
         "name": "CINE FICCIÓN",
