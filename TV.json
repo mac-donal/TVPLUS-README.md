@@ -1605,86 +1605,11 @@
         "icono": "https://i.postimg.cc/bw6bmQz4/download-3.png"
       },
       {
-        "name": "Bein Sports Ñ",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEgxuzSBbiouTWnfdbI8H7wfBawJQmHytfKo+e0bZsT8NqY42conWXDtckno2CX3E1UiE98oXZdic35SrWuDNoQX",
-        "icono": "https://i.ibb.co/yFhY5bWm/Be-IN-Sports-En-Espa-ol.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
         "name": "Bein Sports Extra Ñ",
         "url": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
         "type": "CLEARKEY",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeWk2AFnwOjgYdMxY4VlqXJIZJxtYu9RS/ogqXdCYGjSV+Y3aXJo0PUrRZfPbAe7lcotOLYWJeHHTGmhUAlHuBwbKFXwCgZHPs7l0FrvzkVK4op8/KlawGSaarGB1xJudF7f9PrNzqvJl/uUwKiJVrU4=",
         "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-      },
-      {
-        "name": "Win Sports",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhnv8BOcQatRR7ypcXCf+c8U8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffXl1p7twnRUashzhZ2TuGxk=",
-        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Win Sports +",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhlg9v41Wgl79/p7CEAKyySU8zGf98LYs+uQTdGYKKZ+U7P64uEvIron2j1A5HLqAAAoaybwPzDWDHfwUI/OIRN7aW7Q4V07JMnPX7HGO0ffelDUzLg+0FspLK8aoCYz8s=",
-        "icono": "https://i.ibb.co/8g3XZ6v/logo-win.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Claro Sports",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEhP9I5+rcpT+emzWZ52daakbJqzC/4IY3z7YlSCPLcN8YBzdb3lYARgvA+MVZLZVsZZzS51kKvJ7RFQ43PVeits",
-        "icono": "https://i.ibb.co/r2tFkZ8z/claro-png-file-claro-sports-logo-svg-1280.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
-      },
-      {
-        "name": "Cdo Premium",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEjxC1L+Z+zdAXltysmQvJxNZldKedis+VuYxR6/m9/a+l5a+TjclcsN+EPmO7iO0O2Uf9dpsztkrHkV1aLKSBbG",
-        "icono": "https://i.ibb.co/nMRb9NYk/6065f67d6a70f2448ee66115-cdo.png",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        },
-        "type": "HLS"
       }
     ]
   },
@@ -1709,21 +1634,6 @@
         "type": "HLS",
         "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
      },
-      {
-        "name": "DAZN 1",
-        "url": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEipUw71Qxn7bqTn1Zt1DDtEe9xH+ui8iJbellgn20odIvcQv5DLOOLwq2YV4qOyy452BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
-        "type": "HLS",
-        "headers": {
-          "X-App": "Dc7iFRGpwhfHTtGyJkPdHw==",
-          "X-Version": "wkxTZWwgZxSkRcw257m6Sw==",
-          "X-Hash": "RjSfTXTDZ+RwNoRQgRRQO7sMYo4scpEeFUD+ck/GPOl+2riP2t0tZwotjlxEGoCVJlErPkE/sENjSVCNPu1uNGGFJ243X7NpANfhb8Kz9+BaQBiXnjjmOA0tyuC5kNRSnN1PzRdZ7oqr4a2XoZhDWVS6ECtuLgOAALIgfwIkuat7icNL2qq7K3gkY7RJOSUhjV8IKe5oxt+WQizD7hTlsW5bnj42kEH8WBRY/YnHtqjMq494fYWBbrI8B2dxNxGjOzdmvWEbdDjAKbscolJyTaYxaV9W44EK6QMBeO3Oq4zST2gr2yqOZPQYQaLo8aNzppv8ZWniAsh7QVvdb86etzuNIKQxfek53RrwsMcG4jdwi6sKb6B5hWrYybbOu8jmY5afw0kzfs9W4bmMaFi19utOv+fzr9g7hh2r3KdyN8aedcE36biAD7P/M27rwx0uPNwfkl/3IkUEDOWDV9DB1zF5CMO8W90xJzYZKaArzqv0KOKlkYShYGdi0ZqsLuN9eTxxFZFgVmSCHqlNXX0uSIsslvy5lckszDMqCcNC+wFxQS9KlRarB5tESrFLL1VT+PQqNJdM50P2EZTDo25xYttYpwTjETz+KyAIOyGaSPg/AzC+rKBx8RCln8Do+rmp4ItrqCm1b/H0DNFsWC4gQMSyGmDypfTl9Uy3+tZPmKL8lxEX3S/u9fORNGxpn/bzU6IcwuH4qeKgSEMam1twYOA+eMDtbOMD5WOeNDDtN/Zlqq6Zpq82K2EeriXnCV2rLiiw2OX35//7VEqf/klmjRNspvLgIan2CJPBdcz3UH8=",
-          "X-Did": "vvGbJDKCYdoJCGPyo2HxzmnjkAuQdxzD4Txa43toOek=",
-          "User-Agent": "VURm0va6b0zggv6vvoXw1g==",
-          "Accept-Encoding": "43Gn5BigD9HxzoCb7QtHMQ==",
-          "Connection": "1UJ5oHjtDSYd9dqJoqQpyA=="
-        }
-      },
       {
         "name": "DAZN 1",
         "url": "+qbbwiZyoHj10caex/amMlf4LXFkwz54Ju1zPGajEhA8lPmg7ueuFQU9LTaDTjm+",
