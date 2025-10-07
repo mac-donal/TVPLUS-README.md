@@ -1,5 +1,46 @@
 [
   {
+    "name": "⚡️Recomendados⚡️",
+    "samples": [
+      {
+        "name": "Mazel Tov",
+        "url": "DgHcCgjSA9Y+8Y/1e8N6Uf2tFvLLQo1meTh8Xy8DDvnNv1YPzvrf46vXymO0DPp433LoLMdV6Cj2ELUruh8h0w==",
+        "icono": "https://image.tmdb.org/t/p/original/j8EORyEJyVk7wSyUoy0bb4lVkuu.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hwShDVdN23QUKj7s8yvlqGn7oog.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w500/6tECaKK8hpoICkXT3BzqoQx3xBO.png",
+        "descripcion": "Cuando Darío Roitman regresa de los Estados Unidos a Argentina para asistir a una boda familiar y un Bat Mitzvah, se enfrenta a un inesperado giro del destino: la muerte de su padre. Lo que comienza como un viaje planeado para reuniones festivas se convierte en una montaña rusa emocional llena de viejas heridas, rivalidades entre hermanos y momentos hilarantes que sólo una familia puede ofrecer.  Entre el dolor y la celebración, los Roitman intentarán encontrar un equilibrio entre tradición y reconciliación, demostrando que el amor familiar, aunque imperfecto, siempre prevalece.",
+        "anio": "2025",
+        "genero": "Drama, Comedia",
+        "duracion": "97 min",
+        "type": "PELICULA"
+      },
+      {
+        "name": "El Exorcismo de Georgetown",
+        "url": "DgHcCgjSA9Y+8Y/1e8N6Uf2tFvLLQo1meTh8Xy8DDvnNv1YPzvrf46vXymO0DPp4kfI7MBvVuI1mi1pS8nWzng==",
+        "icono": "https://image.tmdb.org/t/p/original/ioQCdjn2YPfAJMfJlgzNdXgYZrr.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w500/e7Zs38UxvdaR2ktZiqsqeS6A9Z1.png",
+        "descripcion": "Anthony Miller (Russell Crowe) es un actor con problemas que empieza a desmoronarse durante el rodaje de una película de terror sobrenatural. Su distante hija (Ryan Simpkins) se pregunta si su padre está volviendo a sus adicciones del pasado o si hay algo más siniestro detrás...",
+        "anio": "2024",
+        "genero": "Terror, Suspense",
+        "duracion": "96 min",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Bob Marley: One Love",
+        "url": "s+c6kbXi9mN83nJmR58LjIth6ML4TArWhIcbZq0JYUJrc8UzcKdtqbRbJhr2WSEnqlHQv/tTBGsj7n36TrnMZkrEF+wSXX0w+oA7VClSe2E=",
+        "icono": "https://image.tmdb.org/t/p/original/2QlWpWXZ7exFSsWm8K0Gu9Yqfib.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/lHPap2xBR7DgWLiu6RsfKESgzAi.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w500/yzu0yisZMNRVK35SWNIxXWPPowO.png",
+        "descripcion": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+        "anio": "2024",
+        "genero": "Música, Historia, Drama",
+        "duracion": "104 min",
+        "type": "PELICULA"
+      }
+    ]
+  },
+  {
     "name": "ESTRENO",
     "samples": [
       {
