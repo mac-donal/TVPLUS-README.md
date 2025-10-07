@@ -152,6 +152,18 @@
     "name": "ESTRENO",
     "samples": [
       {
+        "name": "Un sueño posible  (2009)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/Cc4lttrLc5+OjixdXFwUSqOIwN1L1MhkmapycogMeN",
+        "icono": "https://miralogratis.com/wp-content/uploads/2014/07/un-sue%C3%B1o-posible.jpg",
+        "iconoHorizontal": "https://miralogratis.com/wp-content/uploads/2014/07/un-sue%C3%B1o-posible.jpg",
+        "iconpng": "https://miralogratis.com/wp-content/uploads/2014/07/un-sue%C3%B1o-posible.jpg",
+        "type": "PELICULA",
+        "descripcion": "La historia de Michael Oher, un chico sin hogar traumatizado que se convertiría en un campeón del fútbol americano con la ayuda de una cariñosa mujer y su familia.",
+        "anio": "2005",
+        "genero": "Drama",
+        "duracion": "118 min"
+      },
+      {
         "name": "Y2K (2024)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt7+Y77BUVLtUIV5hACiweZ6S8bKqFInpEPqEutc8E6M3",
         "icono": "https://m.media-amazon.com/images/M/MV5BZmY5NjExMmUtMWZlMy00MmY4LWI4MDAtZDc2MmZmNjc2NjYwXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
