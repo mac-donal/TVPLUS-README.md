@@ -22,7 +22,7 @@
         "iconpng": "https://m.media-amazon.com/images/M/MV5BYmQzNGQ5ZmYtNTAxMS00N2U5LWFmYTItNWYwYWU1YzA5ODk0XkEyXkFqcGc@._V1_FMjpg_UX655_.jpg",
         "descripcion": "Retrato gélido de la dualidad de un poderoso líder, desentrañando al dictador despiadado y el alma atormentada subyacente.",
         "anio": "2023",
-        "genero": "Documental",
+        "genero": "Bélica",
         "duracion": "1h 49min",
         "type": "PELICULA"
       },
@@ -174,6 +174,18 @@
         "anio": "2005",
         "genero": "Drama",
         "duracion": "118 min"
+      },
+      {
+        "name": "Putin (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5EadC/TfDbFCT4d566LoEFp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMDc0MzQ5NGEtZTIwZC00ZjllLWE0YzUtYzAwN2ZjM2U0MmE2XkEyXkFqcGc@._V1_FMjpg_UX833_.jpg",
+        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BYmQzNGQ5ZmYtNTAxMS00N2U5LWFmYTItNWYwYWU1YzA5ODk0XkEyXkFqcGc@._V1_FMjpg_UX655_.jpg",
+        "iconpng": "https://m.media-amazon.com/images/M/MV5BYmQzNGQ5ZmYtNTAxMS00N2U5LWFmYTItNWYwYWU1YzA5ODk0XkEyXkFqcGc@._V1_FMjpg_UX655_.jpg",
+        "descripcion": "Retrato gélido de la dualidad de un poderoso líder, desentrañando al dictador despiadado y el alma atormentada subyacente.",
+        "anio": "2023",
+        "genero": "Bélica",
+        "duracion": "1h 49min",
+        "type": "PELICULA"
       },
       {
         "name": "Y2K (2024)",
