@@ -573,6 +573,12 @@
     "name": "🇦🇷 CANALES DEL INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "RETROX TV",
+        "url": "fJhwm0KhWBs8ktdYhIpwJV8h4i481sT08h+w5QbyA0ETDlx9KdhGPhVBV0Sl8h8DilL0rraKxnhub8UNqkQOMXYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://play-lh.googleusercontent.com/exNjR3MpGhPEPUitjYzswZf0d7XCmdASiSc3VTf5cNo10IC6Kgh_CJMkFlU--U3NvFw=w240-h480-rw"
+      },
+      {
         "name": "San Luis+(🇦🇷)",
         "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
         "type": "HLS",
