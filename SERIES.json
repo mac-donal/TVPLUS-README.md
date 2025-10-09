@@ -4,7 +4,7 @@
       "nombre": "RECOMENDADOS",
       "series": [
         {
-   "nombre": "El genio y los deseos (2025)",
+          "nombre": "El genio y los deseos (2025)",
           "genero": "Misterio, Drama",
           "descripcion": "Genio es un espíritu que sale de una lámpara, está lleno de exceso emocional y va y viene entre diferentes emociones. Ga Young es alguien que carece de emociones, ella llama al Genio fuera de su lámpara y se le conceden 3 deseos.",
           "anio": "2025",
@@ -80,6 +80,70 @@
             }
           ],
           "tmdb_id": 228689,
+          "total_seasons": 1
+       },
+        {
+          "nombre": "Animal (2025)",
+          "genero": "Comedia",
+          "descripcion": "Kyle Turner es un agente especial que trabaja como investigador del Servicio de Parques Nacionales. Cuando se descubre un brutal asesinato en un lugar remoto del parque nacional de Yosemite, Turner se ve envuelto en una tensa investigación que indaga en los secretos ocultos del parque y le obliga a enfrentarse a los fantasmas de su propio pasado. Para resolver el caso, se une a Naya Vasquez (Lily Santiago), una joven guardabosques recientemente llegada de Los Ángeles. Juntos intentarán descubrir la verdad detrás del crimen. A medida que la investigación avanza, emergen secretos oscuros que pondrán a prueba su confianza mutua, su temple… y su propia supervivencia.",
+          "anio": "2025",
+          "iconPng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+          "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYczshDGYktciJdcdxWpWManGiD.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "numero_temporada": 1,
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Familia Kawanda",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQwXtnbGSX+B5h8Ez8U/B7Kw="
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Sonrisa llama a sonrisa",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ2263vwRiX+VaHUD7smkBBo="
+                },
+                {
+                  "numero": 3,
+                  "titulo": "Frases de taza",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ05GRsr0eMruGro+PHw9YYk="
+                },
+                {
+                  "numero": 4,
+                  "titulo": "Una ansiedad de cobaya",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ2rE53n5U60buw5Wurss/iI="
+                },
+                {
+                  "numero": 5,
+                  "titulo": "Fundación Kawanda",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ5FnxmbkPRNI+J1ueKyM5P4="
+                },
+                {
+                  "numero": 6,
+                  "titulo": "El último paseo",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ3TpYW5BE7sSYMd48CuK9V4="
+               },
+                {
+                  "numero": 7,
+                  "titulo": "La visita",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ87mHgZYF0uXzSdUA37MQVk="
+                },
+                {
+                  "numero": 8,
+                  "titulo": "Las cataratas del Niágara",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ/+32FRcM0m2izTzZriDwY0="
+                },
+                {
+                  "numero": 9,
+                  "titulo": "Un día de perros",
+                  "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQyUQWy03R99BRgzQY6ZPfPM="
+                }
+              ]
+            }
+          ],
+          "tmdb_id": 243200,
           "total_seasons": 1
         },
         {
