@@ -1700,18 +1700,14 @@
       },
       {
         "name": "PREMIERE 1",
-        "url": "7al3Mhk5W6cngRP5XC8W0XX/RLyYzB9tIunh511riI4TazbwPp3yHHGoIMzc8m4Wz+Wwa/U6wOHBC1n8bTjEug==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
-        "headers": {
-          "Referer": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
-          "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxK7zj8Nzt/AQU/idtzOQZy4uTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "url": "y77AaEppnZ1GolUoDP0ejuxHTymI85/BTxH3XooGOizPUuM9jxCds6yFkqrcombTBoQfT+Rs+3p6deoL+WJNKZg8K645jGs/EmQQTes4m1u5Ki2NxXDg2FVXupRwrCdP+T8+U+e3aCSRqSnNyP1zAmV9DvszxFUY0oBnfOiikPrS9axSzHgskC3Vj8i2D00KOaAHxFNBn811/MrLHUXR+g==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKmXZU3Pb9kwpQRo66gNfe4p1651FKZEUdQizJYSpMTIS9/80BdjzvQCk8E4Drypz0crEGPYY7l3+mXYVlEwc4IXmxclM6vGjBkeopLz8F8HcewVuGZttwLZ+w8ZqcWLZw==",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png"
       },
       {
         "name": "PREMIERE 2",
-        "url": "7al3Mhk5W6cngRP5XC8W0SWBFqrhguPQhHB7oS7Wcw/hVWVLir0EmmF5VoGoJ4cJto045rz3w1NR2G+R7LhOLA==",
+        "url": "zPcZ92O904XnJWL69DFS8KXFL6QMZ+tacm5KxCK80eg3/U7uvv6Q9TlH8KAqBeHnH03H9KPlbO8n+XyvVXo50Q==",
         "type": "HLS",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "headers": {
@@ -1722,7 +1718,7 @@
       },
       {
         "name": "PREMIERE 3",
-        "url": "7al3Mhk5W6cngRP5XC8W0RgLr762emzcUCxNUDHEp/zhVWVLir0EmmF5VoGoJ4cJto045rz3w1NR2G+R7LhOLA==",
+        "url": "zPcZ92O904XnJWL69DFS8KXFL6QMZ+tacm5KxCK80eg3/U7uvv6Q9TlH8KAqBeHnZ0dD6seKSMx4etwPFfMyvA==",
         "type": "HLS",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "headers": {
@@ -1733,7 +1729,7 @@
       },
       {
         "name": "PREMIERE 4",
-        "url": "7al3Mhk5W6cngRP5XC8W0SAU5aTutDoIdhczYjj+pq/hVWVLir0EmmF5VoGoJ4cJto045rz3w1NR2G+R7LhOLA==",
+        "url": "zPcZ92O904XnJWL69DFS8KXFL6QMZ+tacm5KxCK80eg3/U7uvv6Q9TlH8KAqBeHndi+t69HI6b6v/+n/NN0sMQ==",
         "type": "HLS",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "headers": {
@@ -1744,7 +1740,7 @@
       },
       {
         "name": "PREMIERE 5",
-        "url": "7al3Mhk5W6cngRP5XC8W0RA4GWiaXtOEBy/OD3YE0abhVWVLir0EmmF5VoGoJ4cJto045rz3w1NR2G+R7LhOLA==",
+        "url": "zPcZ92O904XnJWL69DFS8KXFL6QMZ+tacm5KxCK80eg3/U7uvv6Q9TlH8KAqBeHnRQxhzE8paFzmcRCbMpvfdg==",
         "type": "HLS",
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "headers": {
