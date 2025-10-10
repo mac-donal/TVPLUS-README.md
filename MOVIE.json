@@ -3,6 +3,18 @@
     "name": "RECOMENDADOS",
     "samples": [
       {
+        "name": "Devuélvemela (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt9+HR3884vLaLWXEaZgtQsnJUSGd/2VyXNmzGzKJHCsm",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/3W3zkhRsNdgEC7YbfIzxDz1GB4w.png",
+        "iconpng": "https://image.tmdb.org/t/p/original/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+        "descripcion": "Un hermano y su hermana descubren un aterrador ritual en la apartada casa de su nueva madre adoptiva. Lo que parece un hogar seguro pronto se convierte en una pesadilla, donde figuras siniestras, extrañas imágenes en vídeo y sucesos paranormales los rodean.",
+        "anio": "2025",
+        "genero": "TERROR",
+        "duracion": "1h 44m",
+        "type": "PELICULA"
+      },
+      {
         "name": "Caramelo (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxcRNksDaGvj3zj9BO4UReSqOIwN1L1MhkmapycogMeN",
         "icono": "https://m.media-amazon.com/images/M/MV5BNTRlMzI4MDItZDJiNS00YmNmLWE1MmQtNjZjYTVhNDdmYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
