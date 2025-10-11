@@ -1,9 +1,33 @@
 [
   {
-    "name": "RECOMENDADOS",
+    "name": "RECOMENDADOS1",
     "samples": [
       {
-       "name": "Bala perdida (2025)",
+        "name": "El mejor (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9r4ifKX7Q3yQ8LtSs3vk7K3mNgC.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/Al2K7xuhXmfB83d5suoi9klOYjC.png",
+        "type": "PELICULA",
+        "descripcion": "Cameron Cade es un quarterback en ciernes que ha dedicado su vida y su identidad al fútbol americano. En vísperas del campeonato anual de fútbol americano profesional, Cam es atacado por un hincha desquiciado y sufre un traumatismo cerebral que podría poner fin a su carrera. Justo cuando todo parece perdido, Cam recibe un salvavidas cuando su héroe, Isaiah White, un legendario quarterback ocho veces campeón y megaestrella cultural, se ofrece a entrenar a Cam en el aislado complejo que Isaiah comparte con su esposa, Elsie White. Pero a medida que el entrenamiento de Cam se acelera, el carisma de Isaiah comienza a cuajar en algo más oscuro, enviando a su protegido a un agujero de conejo desorientador que puede costarle más de lo que jamás esperó.",
+        "anio": "2025",
+        "genero": "Terror,Misterio",
+        "duracion": "1h 36m"
+      },
+      {
+        "name": "Django imbatible (2024)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDYOP8HBz+MvRzuQUIEH97YlErONFR8DTVp8vh5WuL8ZI8etsPd2cvcluNoEiyB+hM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l33smCkbpVFvNxGLILrx1PEyxyw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/bjLcgfdWaNMrIULmmOQVVvm7wT0.png",
+        "descripcion": "Decidido a exigir justicia, Django se enfrenta a peligrosos desafíos y sangrientos enfrentamientos para restaurar el orden en un territorio dominado por la anarquía y la injusticia.",
+        "anio": "2025",
+        "genero": "Western",
+        "duracion": "1h 24m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Bala perdida (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8qclSoai/hF4SGeMKIjfFVHu+I5pK3Q0NDqhicWFbxf",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpEGQKgOeDo9GmmKDnEWjTLTi4u.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/wUO4lGA9TDeDDQjfvgPXMtmF1EN.jpg",
@@ -39,7 +63,7 @@
         "type": "PELICULA"
       },
       {
-         "name": "Y2K (2024)",
+        "name": "Y2K (2024)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt7+Y77BUVLtUIV5hACiweZ6S8bKqFInpEPqEutc8E6M3",
         "icono": "https://m.media-amazon.com/images/M/MV5BZmY5NjExMmUtMWZlMy00MmY4LWI4MDAtZDc2MmZmNjc2NjYwXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
         "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNGZkZGE4YTctNjNmYS00YmJlLWI3Y2MtMTRlN2VlNThkODY3XkEyXkFqcGc@._V1_FMjpg_UX851_.jpg",
@@ -200,7 +224,7 @@
     "name": "ESTRENO",
     "samples": [
       {
-  "name": "Bala perdida (2025)",
+        "name": "Bala perdida (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8qclSoai/hF4SGeMKIjfFVHu+I5pK3Q0NDqhicWFbxf",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpEGQKgOeDo9GmmKDnEWjTLTi4u.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/wUO4lGA9TDeDDQjfvgPXMtmF1EN.jpg",
@@ -462,6 +486,275 @@
         "anio": "2025",
         "genero": "Acción, Suspense, Crimen",
         "duracion": "91 min"
+      }
+    ]
+  },
+  {
+    "name": "ESTRENO",
+    "samples": [
+      {
+        "name": "Django imbatible (2024)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDYOP8HBz+MvRzuQUIEH97YlErONFR8DTVp8vh5WuL8ZI8etsPd2cvcluNoEiyB+hM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l33smCkbpVFvNxGLILrx1PEyxyw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/bjLcgfdWaNMrIULmmOQVVvm7wT0.png",
+        "descripcion": "Decidido a exigir justicia, Django se enfrenta a peligrosos desafíos y sangrientos enfrentamientos para restaurar el orden en un territorio dominado por la anarquía y la injusticia.",
+        "anio": "2025",
+        "genero": "Western",
+        "duracion": "1h 24m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Seducción (2024)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAvuOVNKVUG2gjHqhg/YzkZP8BUgkasHEf9htCKXqKAvgzYy+iBwx+MbPPKtRCxXw0=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JCbXlLvGxYvGuKSciweViGfeUv.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ctb0e3rVwlXSNOmx2LdhwNfEpRb.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/7JCbXlLvGxYvGuKSciweViGfeUv.jpg",
+        "descripcion": "Dos mujeres, Diana, una ladrona extravagante y despiadada, y Evie, una joven aparentemente inocente con un pasado problemático, se ven envueltas en una serie de horribles asesinatos en la isla de Malta.",
+        "anio": "2024",
+        "genero": "Suspense,Terror",
+        "duracion": "1h 41m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Hombres de guerra (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmB6Sl9Na4aIiRb0UtHwoUZt5qPzfJKFRmGGgAOM1Et9g3SXvUK3/4L58ry2e51tggs=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fBcmfhuxe0WJNvhOUnCFEyFBENr.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/x1WNbiV4IwbEQz5bXQ5oHaQG7Cu.jpg",
+        "type": "PELICULA",
+        "descripcion": "Gunner, un soldado de las fuerzas especiales que ha sido testigo del lado más oscuro del país y del combate, se ve obligado a volver al campo de batalla para salvar a su sobrina, que está retenida en Sudamérica. A medida que la lucha se intensifica, Gunner y su equipo descubren que la desaparición de la sobrina forma parte de una operación privada corrupta que les toca demasiado de cerca.",
+        "anio": "2025",
+        "genero": "Acción,Bélica,Crimen",
+        "duracion": "1h 41m"
+      },
+      {
+        "name": "Regalo Maldito (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmD5wxqFL419inwwp2UlmZy6d1EBFjRy97LkYsLo/iTvz9AwN5CLzsWrHCjtElL5VA8=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn63tQpkGoOqbncnrGhpr1tFHsJ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/7NLO1l0xQ6keajQdlz4NENpvMT5.png",
+        "descripcion": "Cuando Polly recibe una misteriosa caja de una inesperada visitante nocturna, viene con la simple instrucción de colocar tres cosas dentro: algo que necesites, algo que odies y algo que ames. Lo que comienza como un extraño ritual se convierte rápidamente en una pesadilla. Atrapada en un mundo aterrador donde la realidad se tuerce y la memoria la traiciona, Polly debe tomar una serie de decisiones imposibles. A medida que el tiempo se escapa, se ve obligada a enfrentarse a la oscuridad no sólo a su alrededor, sino también en su interior, antes de que consuma todo y a todos los que ha conocido.",
+        "anio": "2025",
+        "genero": "Terror, Suspense",
+        "duracion": "1h 38m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Valiente uno (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmD3si2VxoVl3AjIGWr4VfUWoHcYhHzMK+KwXmtKUIjBYB5afF5tGdF64WuEYSppy/Q=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/njCc9bEut22FkxoRdPzcLkSa1np.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fxUVRSYSu6umhPADzIx6CDAVjVN.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/aE4tLAKV61edZQvOCM3puWwmgRl.png",
+        "descripcion": "Un helicóptero estadounidense se estrella en el lado norcoreano, ahora los supervivientes deben trabajar juntos para proteger a un civil especialista en tecnología y encontrar la salida sin la ayuda del apoyo militar estadounidense.",
+        "anio": "2023",
+        "genero": "Acción,Bélica",
+        "duracion": "1h 26m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Mi padre, el asesino BTK (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCa1u1aRLdIEUB3L9NWv+ATnKYABhSs5OouFzwI/b2himy1zQ1wsJTVW3BVoGGP8WY=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47EblKlcEQ4lHdTVnay4P1d6thf.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/hItxQ4gE3Eu7vq4HKw78y9YG8AS.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47EblKlcEQ4lHdTVnay4P1d6thf.jpg",
+        "descripcion": "Criada por un hombre que llevaba una monstruosa doble vida, la hija del asesino en serie BTK comparte su escalofriante historia.",
+        "anio": "2024",
+        "genero": "Documental",
+        "duracion": "1h 33m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Limpia (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDpCbKp6xdxNRpB7JA7EsX/koDYAAAQjgPjckZkcI643clz0C5Cp5RRF1ly6eAEDu4=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHK4R14rjhoDIBwmk9uwTNpopFz.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xvSm5ayYS1c8nwvkJKAe2Bey261.png",
+        "descripcion": "Estela, una joven de la zona rural de Chile, se embarca en un viaje a Santiago, dejando atrás a su familia para trabajar como empleada doméstica en un hogar acomodado.",
+        "anio": "2025",
+        "genero": "Drama,Crimen",
+        "duracion": "1h 42m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "La mujer del camarote 10 (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDiYshv0UjYWXbhSQkGybvCCsJHCZwP3B0EH/xLjlriFXHs2A0DF5YqnmeYIDIta7k=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUJIBUjEab71fJ8U9gs0NouUJ18.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/a9SLDj7GPKxeuOjoYkgr5nz1IOl.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/299nCyfgBMyWzO6scExmWjkx2os.png",
+        "descripcion": "A bordo de un lujoso yate por motivos de trabajo, una periodista ve como alguien cae al mar. Pero cuando nadie la cree, decide arriesgar su propia vida para descubrir la verdad.",
+        "anio": "2023",
+        "genero": "Misterio,Drama,Suspense",
+        "duracion": "1h 35m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Aïcha (2004)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDsT19vhBXBUSHWfFbkA2uzhEJqt/LsEbAeLwUb9CFck64mPLLrd48wMJucs5XZTwo=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1lGmDLOVlHredEZK5ODYwGmnZQ.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/d1lGmDLOVlHredEZK5ODYwGmnZQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/d1lGmDLOVlHredEZK5ODYwGmnZQ.jpg",
+        "descripcion": "No tenemos una sinopsis en español. Ayúdamos a ampliar nuestra base de datos añadiendo una.",
+        "anio": "2004",
+        "genero": "Drama,Romance",
+        "duracion": "2h 04min",
+        "type": "PELICULA"
+      },
+      {
+        "name": "El caso Frieda (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDfKsifJn9WDq0u+T69l+fhw2Qg8DYJ9A2+rnEUprk2/ViE4HtrLIL8DllSwemWcbM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lAsVqtqt29JwKVhsNcox7P8OHk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/18123xD7SwODSeEiVUg1xWOKRI2.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1lAsVqtqt29JwKVhsNcox7P8OHk.jpg",
+        "descripcion": "Suiza, 1904. Frieda Keller, una joven costurera, asesina a su hijo de cinco años, fruto de una violación. Su historia sacudió a una sociedad que, al conocer las circunstancias del caso, apoyaron a Frieda y su juicio marcó los inicios del movimiento por la igualdad política y los derechos de la mujer en el país.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 47m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Miss Carbón (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmA9YBv/QJMGgAV5t8Wdad5CpSuq7Y6QLoGRzxr/MpdqMhFLIZyY7FRV6fMHnY0HR2s=",
+        "icono": "https://image.tmdb.org/t/p/original/y1jEGpeJ6Q8RPaIk8Rfbd5WCANp.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/fkdC0YdAyEoLHZXBCaoUxiZlTTc.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/y1jEGpeJ6Q8RPaIk8Rfbd5WCANp.jpg",
+        "descripcion": "Carlita, Carla Antonella Rodríguez, la primera mujer minera en una región de Argentina en la que las mujeres tenían prohibido el acceso al trabajo en las minas.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 30m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Los monstruos de Tim Burton (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDS5XHCNBeLdtYW4+LlpitRyREMj5WuZV/V0I2fIuGx7e3vYMn/EX0XwuqQyynnbLw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6IvM8GwiS1GvrfspncmwGMtLr6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pwBHLJ6HnQbvZAPGzMHeCdrtgps.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/kg7McT5amcZdHFKizpnDwMFmWv8.png",
+        "descripcion": "Tim Burton es un cineasta único que explora la infancia y la fantasía a través de personajes raros y marginados. Este documental muestra su vida y películas, donde los monstruos, lejos de ser villanos, son verdaderos héroes que nos conectan con aquellos que se sienten diferentes.",
+        "anio": "2025",
+        "genero": "Documental",
+        "duracion": "53 min",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Bajo un volcán (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCHe1t4kqakEbt/2XS78bPNZyf2oacRciqbpy/Gf7QdLoVMppjN1RLimYRgJr432TM=",
+        "icono": "https://image.tmdb.org/t/p/original/aka4GNY1MniOZiCa7U3nldaAf2J.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/oSnlCp1ptFa7dWz9aXBex9I9BTu.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/aka4GNY1MniOZiCa7U3nldaAf2J.jpg",
+        "descripcion": "Cuando Mario Torres, capitán y piloto militar, llega a Tenerife la erupción del volcán parece haber remitido. Dani, una experta vulcanóloga, teme una reactivación violenta inminente. Eso le lleva a un conflicto con el comité científico del organismo encargado. Con esa amenaza sobre el pueblo Garachico, el amor y la pasión que nace entre ellos es tan inevitable como cualquier catástrofe natural. Una vez confirmada la amenaza, ambos deberán luchar contra el volcán y sus propios sentimientos.",
+        "anio": "2025",
+        "genero": "Romance,Drama,Aventura",
+        "duracion": "1h 32m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "La vida de Chuck (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCHe1t4kqakEbt/2XS78bPNZyf2oacRciqbpy/Gf7QdLoVMppjN1RLimYRgJr432TM=",
+        "icono": "https://image.tmdb.org/t/p/original/pHcmYgTfQA1ZyZRgr17pVPyJLt3.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/qK3F0K0CNE2ekNAeuczXlyiEqBj.png",
+        "descripcion": "Inspirado en un relato de Stephen King, narra tres episodios vinculados al personaje Charles Krantz, siguiendo un orden inverso: desde su fallecimiento a los 39 años debido a un tumor cerebral, hasta su niñez en una casa que se creía embrujada.",
+        "anio": "2025",
+        "genero": "Fantasía,Drama",
+        "duracion": "1h 50m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "War 2 (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAVgw6Bx1+fnXFcaJ+ns9lUhF6nWuphq7LCEnQGy51J3DNoQnERUTKh/ldtqgRpRl8=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHUEGjexjpTDO3ggla9JQ6CojxU.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/pKIRUTnwY3YYU9urSdsuobdcliP.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHUEGjexjpTDO3ggla9JQ6CojxU.jpg",
+        "descripcion": "Hace años, el Agente Kabir se rebeló y se convirtió en el mayor villano de la India. A medida que se adentra en las sombras más profundas... India envía a su agente más letal tras él, el Agente Vikram. Un oficial de Unidades Especiales que supera a Kabir y un Terminator implacable, dominado por sus propios demonios, decidido a dispararle a Kabir.",
+        "anio": "2025",
+        "genero": "Acción,Aventura,Suspense",
+        "duracion": "2h 53m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Autos, mota y rocanrol (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCUFUXlzE1DT7BUVk+waBajleZqjClBgy5xTZL7e3laNdB+pD/YSiTsrS4rFUIH5v0=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJEr5YkPz3Cey0UWoLZ9sKi0CBR.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gWDtt3Sh9BWWRdwUFdwk4lo0xS.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJEr5YkPz3Cey0UWoLZ9sKi0CBR.jpg",
+        "descripcion": "Justino y Eduardo querían organizar una carrera de coches y un pequeño concierto... pero todo salió mal y terminaron haciendo el mayor concierto de rock en la historia de México.",
+        "anio": "2025",
+        "genero": "Música,Historia",
+        "duracion": "1h 29m",
+        "type": "PELICULA"
+      },
+      {
+        "name": "Electra (2024)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmD+aNhww0WNdDId8HpWHvDOPG4hmjeOpbeeZBJLdW2u6VUjadJqtxi4GiVvN5ki4A0=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYo16ZdBCBS2A7xhsfr5cH0fiyt.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uFL2kXKvqPv90piOD3dZPEhYS7Q.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYo16ZdBCBS2A7xhsfr5cH0fiyt.jpg",
+        "type": "PELICULA",
+        "descripcion": "Un periodista y su compañera viajan a Roma para entrevistar a un famoso músico, donde una generosa invitación a una finca rural se convierte en algo mucho más de lo esperado.",
+        "anio": "2024",
+        "genero": "Drama, Suspense",
+        "duracion": "1h 25m"
+      },
+      {
+        "name": "Se requiere mantenimiento (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCPr55LKXyt2D99qGZqdt7beYwIFvOK7mJt3MdsIoIRElRYDatx1L5CskjALnnaTJM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVcoxXAPfHo58FDwOCOF8NAW4bp.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uxRCrEMJlfCILQhkcDuDpadkQC9.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/nYYxZxVcn6rFIIkIOHosefHJR5B.png",
+        "type": "PELICULA",
+        "descripcion": "Charlie, la independiente dueña de un taller exclusivamente femenino, se ve obligada a reevaluar su futuro cuando una gran corporación de la competencia se instala enfrente. Buscando consuelo, recurre a un confidente en internet, sin saber que es Beau, el rival que amenaza su negocio. Mientras saltan chispas, tanto en internet como fuera de ella, la verdad amenaza con desbaratarlo todo.",
+        "anio": "2025",
+        "genero": "Romance,Comedia",
+        "duracion": "1h 40m"
+      },
+      {
+        "name": "Pesadillas de terapia (2022)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDKRvuohJKzuRIMhWaJq/BuMMWYisTZlO9LI+RmP8yQ7J8YmK0KPcYsIbFNgnqJklI=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOlFctacfoJUBC2APOVaIXu9pQT.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOlFctacfoJUBC2APOVaIXu9pQT.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOlFctacfoJUBC2APOVaIXu9pQT.jpg",
+        "type": "PELICULA",
+        "descripcion": "Leah es una terapeuta experimentada que publicó unas memorias sobre cómo superó una relación abusiva. Pero se encuentra con nuevas amenazas",
+        "anio": "2022",
+        "genero": "Suspense,Película de TV",
+        "duracion": "1h 27m"
+      },
+      {
+        "name": "La mujer de la fila (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmASDn63K+Xg15oZgJmu0+s9W5VMZk6OQ9hx3vAeYAWGdnQZLyL7LM96xz37H12COhM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YlBa1nuQEjuvGyJdJdE3EGakSk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJRSJPqq7assJtCZcsUn21yocCr.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/gJRSJPqq7assJtCZcsUn21yocCr.jpg",
+        "type": "PELICULA",
+        "descripcion": "La vida de Andrea, una mujer de clase media, cambia drásticamente cuando su hijo de 18 años termina en la cárcel acusado falsamente de un delito menor que no cometió. Ahora deberá dedicar sus días a sacarlo de la cárcel. Para liberarlo, tiene que enfrentarse a la burocracia del sistema judicial y al abuso de los prisioneros, pero sobre todo a sus propios prejuicios, valores y creencias. Ella se dará cuenta de este poderoso cambio cuando no pueda evitar enamorarse de un preso.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "El mejor (2025)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9r4ifKX7Q3yQ8LtSs3vk7K3mNgC.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/Al2K7xuhXmfB83d5suoi9klOYjC.png",
+        "type": "PELICULA",
+        "descripcion": "Cameron Cade es un quarterback en ciernes que ha dedicado su vida y su identidad al fútbol americano. En vísperas del campeonato anual de fútbol americano profesional, Cam es atacado por un hincha desquiciado y sufre un traumatismo cerebral que podría poner fin a su carrera. Justo cuando todo parece perdido, Cam recibe un salvavidas cuando su héroe, Isaiah White, un legendario quarterback ocho veces campeón y megaestrella cultural, se ofrece a entrenar a Cam en el aislado complejo que Isaiah comparte con su esposa, Elsie White. Pero a medida que el entrenamiento de Cam se acelera, el carisma de Isaiah comienza a cuajar en algo más oscuro, enviando a su protegido a un agujero de conejo desorientador que puede costarle más de lo que jamás esperó.",
+        "anio": "2025",
+        "genero": "Terror,Misterio",
+        "duracion": "1h 36m"
+      },
+      {
+        "name": "Hombres integros (2024)",
+        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDvNwR49aAhGTVOjQdzJtSnSHREYLdVecrAiFjjuOpXTjzaQecaoY+YtGyhkQiozXo=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qa4zfnU34dvIs3Iyp3tNVDNZJ5b.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7NdQ0V0VYlDI9m8HT4rreUn1HsV.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/qa4zfnU34dvIs3Iyp3tNVDNZJ5b.jpg",
+        "type": "PELICULA",
+        "descripcion": "Alf, de 17 años, regresa a su colegio católico juvenil tras un año de ausencia. Ya no se relaciona con sus compañeros, que son populares y atléticos. Se siente atraído por Oliver, un alumno gay. En un intento por disipar los rumores sobre su predisposición, se relaciona con sus viejos amigos y termina cometiendo un delito para demostrar que aún pertenece.",
+        "anio": "2024",
+        "genero": "Drama,suspenso",
+        "duracion": "1h 29m"
       }
     ]
   },
