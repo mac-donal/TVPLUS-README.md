@@ -4,6 +4,75 @@
       "nombre": "RECOMENDADOS",
       "series": [
         {
+          "nombre": "Gatillo (2025)",
+          "genero": "Action & Adventure,Drama,Crimen",
+          "descripcion": "En Corea del Sur, donde la posesión de armas está prohibida, un audaz policía y un misterioso aliado unen fuerzas y luchan por frenar una amenaza inminente.",
+          "anio": "2025",
+          "iconPng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",
+          "icono": "https://image.tmdb.org/t/p/original/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/x4HADJBXu0z8YiOguPrAK1k71Vi.png",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "numero_temporada": 1,
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "El disparo inicial",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeYOstBZQtoZfrtP9YemzkYWp7FtiSIzFGyvc3FSe4uGlieA7p4Y3wRpiuZIQvexUAp2hz9aKprXhWIVx399zafjk+sblaWsC3Lgixr3j40ppy/BF5pxwW8NtnBwU/8LbG9qUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Blanco movil",
+                  "url": "TQSPBT5fFAmrHLJIeXbfefhMVu4k92gtb4WPrZrE6pzdXU0jti8ILfrplfocuo5o4HeGvoPopiIp7hs79SCkn8hAnQ7L7EBhuxPxKkyQGgHgaK2z7Gku26dYuctNhuu6BLy3/WkJfsMDzOB4nKru1NqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 3,
+                  "titulo": "Sin retroceso",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeeLY/5dLWGg1jmZMKIMD9NAAg8sOp6y+BXMK043pq0O3G6DBuRjDm/5gDiwIEo8V2A1ZM2LrxXbe3+KxQcJuCq40b3NHTckI2RAn3w0OzY4QDIOzdX4X/u5ErYtoYiInNtqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 4,
+                  "titulo": "Mira telescopica",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeRKDuRk6pkHqXPYniMzn1eOwA5OQDvAM9AeL9aasWT5KAJKB9OkK/4ovU56ryecgAI52CgcbRbKX1aqmPbKBwxboRDXuNxQHQ+Ao/u1BfNd+TYSPPF/5VwCqhVl1k6xcRtqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 5,
+                  "titulo": "Balas perdidas",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeX09yMThuFxO00VkpR3leRiRtNz4VfYOO3XKnCMtuBL84Ivp7JfdL5cYKitMUKnDsTEvb1RBxOOtHi/Kv7IyYCyY6CdH7jN3SncMzUSCRtQzQ1udyS+si5tr5RvqKUQ/BdqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 6,
+                  "titulo": "Gatillo fácil",
+                  "url": "TQSPBT5fFAmrHLJIeXbfef0DAdN6Y5HmycpkzqG7pg26IxyjQdcQ7ngPJWBDHw7jxT+GH0kSCszjokbNj9NY+JTnU0uHEPMH1+gYd8EJxjvQ/8SDqMXnxmGYkqFJPPm1Pon6bN6GfB/BWDyQc/8FIdqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 7,
+                  "titulo": "Silenciador",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeQB52f5DyVqly+Ar8IbEZ8DOP/GQowRL3sk5J6S8Ffrejjf572Ge5TBHOC3agAeAHPS6m+C3+x5inuvumu3sxORk1dlOW0cANSBMrbiv41jwTVCoxfjA10rlSVxS84m4ENqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 8,
+                  "titulo": "Recarga",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeQNNVZKEw8gz93NJKHn9hdXII5qCHwgTdWMibOmFrYOqiwL4+A9RPqOqSGnKZnfTMFEyUoHCmzOx9gc7Nyl1mKohQ1RvTlAqUzc2jI5eRJcfcMadTE8CHOKKeRWGtX63gdqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 9,
+                  "titulo": "Blanco perfecto",
+                  "url": "TQSPBT5fFAmrHLJIeXbfecK3+gU2+4H8S6xRgG5rGsdkIwCxsbaIfat90+I5czsChjAlp+Xe35T6AI2q2j/+mG8jMazuO/U5pkrjlXXbksnpYOl09pmMm4eghWZw8h3zx4AX9fVohZe1yLSBFxTbOtqUfxIR3d/actX5KAnIJoQ="
+                },
+                {
+                  "numero": 10,
+                  "titulo": "Disparo final",
+                  "url": "TQSPBT5fFAmrHLJIeXbfeWxcHZP1X0dPgZqNoQmj+jCC23vdGo019MN7SfeCX3dPbjIAzhCTDx5rAjRi6VH27p/AZp1maZWOtrcXeSkxlTtGfTANlgjEagHvkDM/s4Roh0RdYMxjLldNPrEEARAMF8BvEro/FaAaCGTofr2AmbM="
+                }
+              ]
+            }
+          ],
+          "tmdb_id": 238084,
+          "total_seasons": 1
+        },
+        {
           "nombre": "El genio y los deseos (2025)",
           "genero": "Misterio, Drama",
           "descripcion": "Genio es un espíritu que sale de una lámpara, está lleno de exceso emocional y va y viene entre diferentes emociones. Ga Young es alguien que carece de emociones, ella llama al Genio fuera de su lámpara y se le conceden 3 deseos.",
@@ -81,7 +150,7 @@
           ],
           "tmdb_id": 228689,
           "total_seasons": 1
-       },
+        },
         {
           "nombre": "Animal (2025)",
           "genero": "Comedia",
@@ -124,7 +193,7 @@
                   "numero": 6,
                   "titulo": "El último paseo",
                   "url": "cVI+FPBxX2ASracUSyM4w2g4HkXsCO+ckJhojucn12Lz/fmgPXAzNc8WgbaxofvjSPOtsKXCabJmB2UYwOyVQ3TpYW5BE7sSYMd48CuK9V4="
-               },
+                },
                 {
                   "numero": 7,
                   "titulo": "La visita",
