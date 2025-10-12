@@ -1,9 +1,8 @@
-{
-  "categorias": [
-    {
-      "nombre": "RECOMENDADOS",
-      "samples": [
-        {
+[
+  {
+    "name": "ESTRENO",
+    "samples": [
+      {
         "name": "El mejor (2025)",
         "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
