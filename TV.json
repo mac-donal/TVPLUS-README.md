@@ -889,7 +889,7 @@
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
           "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
           "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw=",
-          "json": "7yq8DmEGefi1YzGzTYsjLq45PJplkEa9Z7S4+8fxkvUOhAYivBiTeKmp4FWOZGth"
+          "Cookie": "GwZkfAH7vusLVLT+NJoiw2l/w+o46vZEiKVSPji5w3AbgOtPptyfxy4Ek8otE0I6Nbtj1wxQF4ha0tx4oldPnGY7/C1LPwX0UUl2pBwxcaV4HcsEGdzokFXnwiO1GSwq/xTPcG6Z/CUilyzn0VYhr+PiFh+ujw2nHdZFkQUkm7AfbKi+3e8SsYMhpQQDwMRQNfByWjrWKiDsAXPmcQ3A/w=="
         }
       },
       {
@@ -3540,6 +3540,12 @@
         "name": "Next HD ",
         "url": "gMIXmHNeVZSsj4D1CTkkipYzZDdR8xIbZ2D0Cknp6OIYvOr2MuepUjyocJmVWSIQjEsU1B3dZ8OaMt29WcV8fcVdJMAvkU1a+CGlXRCMYXYiE98oXZdic35SrWuDNoQX",
         "icono": "https://i.ibb.co/F4q0QxQX/IMG-3534.png",
+        "type": "HLS"
+      },
+      {
+        "name": "PU TV PY",
+        "url": "2ld3TGGgDIBP7Xqmnu43DEICX31wEUNCjATQ9z5wA1pqcrnuEop1fS19GfDzYCb8JZWtZtnYelI7OvcJqVmhT6v3V+f3PvL5GOt0/uDureFVV7fWomn6GJ0pE/htRMRQ",
+        "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg",
         "type": "HLS"
       },
       {
