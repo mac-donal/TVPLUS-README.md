@@ -211,6 +211,101 @@
           "total_seasons": 1
         },
         {
+          "nombre": "Generación V",
+          "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+          "descripcion": "En la única universidad para superhéroes de Estados Unidos, los estudiantes superdotados ponen a prueba sus límites morales, compitiendo por la clasificación más alta de la universidad y la oportunidad de unirse a Los Siete, el equipo de élite de superhéroes de Vought International. Cuando los oscuros secretos de la escuela salen a la luz, deben decidir en qué tipo de héroes quieren convertirse.",
+          "anio": "2023",
+          "iconPng": "https://image.tmdb.org/t/p/original/7d1c5ee35DSQniwxlnZq1cmq6Mm.png",
+          "icono": "https://image.tmdb.org/t/p/original/fLJzwWk28vRrNQIvIXUSU5YBdT5.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/ScaVfT5IkwVC3Edhmxqyl0GbK0.jpg",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "numero_temporada": 1,
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Uni God",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAksszdr6bo26AJ8JyZJr1Slb8706gyAtmrg4vioIMJjP5VccWk+JtspZKszP7WQWU="
+                },
+                {
+                  "numero": 2,
+                  "titulo": "Primer día",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBTfs0v9/4M7K8npGdhJakzczYSetoqKWcC7HTe4HkQnLchRuFrDFRsCA1aj6YtdFo="
+                },
+                {
+                  "numero": 3,
+                  "titulo": "#PiensaEnBrink",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAsxQ019uoaDt7rZcnlhlTz8HYzD2M8HOD/BeSfAR2chdVzQLaQDlLHogW/5H7GcEo="
+                },
+                {
+                  "numero": 4,
+                  "titulo": "Toda la verdad",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDDMxEJRPXqljoOh75/T3KJyDCtC4xNBIYJq/LqYLNK3T46G74oKiooegDWeYfVE/I="
+                },
+                {
+                  "numero": 5,
+                  "titulo": "Bienvenidos al club de los monstruos",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAJXbeExty8mN+CXqa0S8F6z25hg1TpftqrExXkn5Gj+j4grTf/myVt2Fniz0w2L9M="
+                },
+                {
+                  "numero": 6,
+                  "titulo": "Jumanji",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmA7wpeiTpVKr8uUadUg6bnQTOsjzU5KBDGY60lijcTBGraXIlawbKEdg3YPZ8QMNCs="
+                },
+                {
+                  "numero": 7,
+                  "titulo": "Enfermos",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmD3iWYm83+VJzGn0fSWDGAXzYfE4ZqNmwJ1maYFfiu3NYPB0JZFwIEDMmjWNuqyJX4="
+                },
+                {
+                  "numero": 8,
+                  "titulo": "Guardianes de Godolkin",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDGhyLDznEn6iLMOOiDEjdBW1vn/lKX2osOzSdkqyNoOxprrItOabw5T/atLFdLgkA="
+                }
+              ]
+            },
+            {
+              "nombre": "Temporada 2",
+              "numero_temporada": 2,
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "Año nuevo, universidad nueva",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBUyXnUiLoFIYFUTWf+U8siGA4Yy2464NyxFNtqE1YVbY8JUjSL6gLebksrFkBjayk="
+                },
+                {
+                  "numero": 2,
+                  "titulo": "La justicia nunca olvida",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDJUrE/x9vXIDSljwnErITUSCJiHimqtLz3Z15B+xWEkeWf/7x3M1DgBJ0+w3+Kz1o="
+                },
+                {
+                  "numero": 3,
+                  "titulo": "H de Humano",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDWJ3Hw66O753YhXn3FLFIlQKLKdiWDLMXSO9dafw6BXQdZfGd5PcZQOhK8+ksEEB4="
+                },
+                {
+                  "numero": 4,
+                  "titulo": "Bolsas",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmAcxOAdKXv+dufmT8v1AXe7P32TMVZeQ9lvdsjcAw+UFO502fyqhNnDuFoKiSd0KOE="
+                },
+                {
+                  "numero": 5,
+                  "titulo": "Los niños no están bien",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDAF0J91s1W/gwulfGzQHj2PggJFxKZgP7vTJIFqWRGr1pPt9zt7k95HLrlzhRTggc="
+                },
+                {
+                  "numero": 6,
+                  "titulo": "Clases de cocina",
+                  "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmDOQx5iOq/pvHotHP7cNgwxdEQ85eIwMl+39N0/lWrSMI9ScZo40dqqPi0IQRuBmXo="
+                }
+              ]
+            }
+          ],
+          "tmdb_id": 205715,
+          "total_seasons": 2
+        },
+        {
           "nombre": "Animal (2025)",
           "genero": "Comedia",
           "descripcion": "Animal cuenta la historia de Antón (Luis Zahera), un veterinario rural gallego que se ve obligado a trabajar en una tienda de mascotas dirigida por su sobrina Uxía (Lucía Caraballo), con quien tendrá que aprender a adaptarse y descubrir que, en la familia y en el trabajo, no todo es siempre blanco o negro.",
