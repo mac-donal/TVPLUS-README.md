@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+         "name": "Tron.Ares (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
+        "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/veER9dS1GJ5a22cJbRXpdI298Ah.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/k0uyosqc5pxFjdyHcie91S3s6mM.png",
+        "type": "PELICULA",
+        "descripcion": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+        "anio": "2025",
+        "genero": "Ciencia ficción,Aventura,Acción",
+        "duracion": "1h 59m"
+      },
+      {
         "name": "El mejor (2025)",
         "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
@@ -223,6 +235,18 @@
     {
     "name": "ESTRENO",
     "samples": [
+      {
+         "name": "Tron.Ares (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
+        "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/veER9dS1GJ5a22cJbRXpdI298Ah.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/k0uyosqc5pxFjdyHcie91S3s6mM.png",
+        "type": "PELICULA",
+        "descripcion": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+        "anio": "2025",
+        "genero": "Ciencia ficción,Aventura,Acción",
+        "duracion": "1h 59m"
+      },
       {
         "name": "El mejor (2025)",
         "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
