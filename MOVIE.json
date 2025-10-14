@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+         "name": "Los tipos malos 2 (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
+        "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/kcsudLBu2OKcdJrlkC2gFLU1DgU.png",
+        "type": "PELICULA",
+        "descripcion": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+        "anio": "2025",
+        "genero": "Familia,Comedia,Crimen,Aventura,Animación",
+        "duracion": "1h 43m"
+      },
+      {
          "name": "Tron.Ares (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
         "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
@@ -247,6 +259,18 @@
     {
     "name": "ESTRENO",
     "samples": [
+      {
+         "name": "Los tipos malos 2 (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
+        "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/kcsudLBu2OKcdJrlkC2gFLU1DgU.png",
+        "type": "PELICULA",
+        "descripcion": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+        "anio": "2025",
+        "genero": "Familia,Comedia,Crimen,Aventura,Animación",
+        "duracion": "1h 43m"
+      },
       {
          "name": "Tron.Ares (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
