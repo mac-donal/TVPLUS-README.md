@@ -609,6 +609,19 @@
         }
       },
       {
+        "name": "MULTIVISIÓN FEDERAL",
+        "url": "u4ZWz+4IwMVIZ0G3/rGFJmXye4JZiL3Q2/AmErsbxKLCVnrFNlnMOuCyrEKS+r2gk52fxp5rXZXcyzKinxPpfQ==",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/RGTnqxn6/hq720.jpg",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAbDInvtq3UBXsKRCBWIwJufR5yGTx2pwQtAcPDXIPo6onm4ykRQb94TUE5DPWKy6297pByxEdOrZxyPCFNqtajyw1/6QY+Va9WFcIGNZ+TqvhrLMbj0mqArg0Wr/47sjA==",
+        "headers": {
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "webtoken": "+iIHLhifnL33WunO8InC7w==",
+          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "Canal 7 Neuquen",
         "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIoKb+b79fjs47384ilDgXGbPHS4dyjacNMZg5Ogt05a95DvCFbQNzMj1ye/GpmzwrLAAmR2SnIVoVYg2P/f8ea",
         "type": "CLEARKEY",
