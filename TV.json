@@ -1467,54 +1467,6 @@
     ]
   },
   {
-    "name": "​🇵🇾 TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
-    "samples": [
-      {
-        "name": "TIGO COPA",
-        "url": "9n6KnizKL2gZ97Ny4tQWcN9O1Wb/o9YRGCyxV6IC4CcoeL/TSPbos44vQcqsbNLok1ZM4PA8EdvqWnKCc1750A==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
-      },
-      {
-        "name": "TIGO test 🇵🇾",
-        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
-      },
-      {
-        "name": "Tigo Sports 1",
-        "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA1kp49JYTx5O/hfgqDQUT3xwsIzvzgxhshXjohSXtxA+IROZyjKdH5sGt6G+kSU1Y7+xofz4gj5haTRiqCHS/MtNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA=="
-      },
-      {
-        "name": "Tigo Sports 2",
-        "url": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZkZjioKs2LFT3z+uWn1mk2FpMrEI2KHtjFuJfKmbzLysh52cXla7ZJ9d1t605NUgbvd1hujBZLVZegdsxuMm0sAxK6FY7sEpZa8AZduK7QJH0SNVrQcY+NhNYGmPx5LrQ==",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "headers": {
-          "Origin": "h0MlQ5xM7sWNsMyIyHf4mfMv5HhvkP/l1Sp2R6PKEPI=",
-          "Referer": "h0MlQ5xM7sWNsMyIyHf4mYyZk4QaeuqBaXTTcUhuvAQ=",
-          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
-        }
-      },
-      {
-        "name": "Tigo Sports Bolivia",
-        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolB3HLrfEJ7pljLOLci3b71TM5ZuWGkHCucXH2pAETqdW3HoGt2QJ6EAjWC4WedWfUGYA+l/kD0iQ3Mj8DtCNr6rTvMsB+yHJLSISjRrHDKfxaBDZ4IgWBFTvdTEqM1N0GXNwTZe1Zmg8ghsjIFyGxwY0JBYdSY3oywnthgncedSfg==",
-        "type": "HLS",
-        "icono": "https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z=w240-h480-rw"
-      },
-      {
-        "name": "Tigo Sports Bolivia 2",
-        "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolCju1lDg5JSWCs/11F5KC/UWgO1CMyowNZjx9LwmL5e+WQqZxu5qOxRJ78Zrd9AiKzcx1h2zThlp5f7opcGDYWtOXtCZl8atPw71MwxeSZYfa0JJg1ISpkNF7HW0eDDGBNzK7njuXvgKtKETd8ERTRcODMOsFFwKuZCeM/ksDlAVA==",
-        "type": "HLS",
-        "icono": "https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z=w240-h480-rw"
-      }
-    ]
-  },
-  {
     "name": "🇲🇽 DEPORTE FOX SPORTS",
     "samples": [
       {
