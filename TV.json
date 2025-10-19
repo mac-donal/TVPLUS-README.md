@@ -1470,8 +1470,14 @@
     "name": "​🇵🇾 TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "TIGO COPA",
+        "name": "TIGO",
         "url": "gvuZ39gDgv25mT0cbuHVGuNzSueM38A4caQEDa+OP+6KmPpStU8CxC6YBQclpEA3",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
+        "name": "TIGO 2",
+        "url": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
         "type": "HLS",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
       },
