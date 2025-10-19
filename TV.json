@@ -1482,6 +1482,17 @@
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
       },
       {
+        "name": "5TIGO jeinzmacias",
+        "url": "sXfk6gnkJu7yxZ0u470DHedViBYc++JIuMIrKVgIeUD97xANFACUuzNzgVNi+S5M0RixvrH6mOKPHxCusx8Zy5RgGSBR6+7NLD1u67DaGCM=",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "headers": {
+          "Origin": "NsDp/2hV56qfMqcMzkdPZs+cYiG4Wt8mU25Pt+vM4Ak=",
+          "Referer": "NsDp/2hV56qfMqcMzkdPZgxyLzbAMz3rvhFNEBNhnaQ=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "TIGO test 🇵🇾",
         "url": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
         "type": "HLS",
