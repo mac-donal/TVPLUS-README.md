@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+         "name": "Las nubes (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX4D4EpRsK3RgqckJSFf5l1hriM.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cTc5QzX7nJZOZryeC4RYWvTWfWp.jpg",
+        "type": "PELICULA",
+        "descripcion": "Pablo Prieto lidera una banda de ladrones cuyo tiempo se agota. Perseguido por un juez implacable, ¿podrá Pablo escapar de su destino o tendrá que pagar por sus crímenes?",
+        "anio": "2025",
+        "genero": "Suspense",
+        "duracion": "1h 41m"
+      },
+      {
          "name": "Los tipos malos 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
         "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
@@ -259,6 +271,18 @@
     {
     "name": "🆕 ESTRENOS 🎬✨",
     "samples": [
+      {
+         "name": "Las nubes (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX4D4EpRsK3RgqckJSFf5l1hriM.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/cTc5QzX7nJZOZryeC4RYWvTWfWp.jpg",
+        "type": "PELICULA",
+        "descripcion": "Pablo Prieto lidera una banda de ladrones cuyo tiempo se agota. Perseguido por un juez implacable, ¿podrá Pablo escapar de su destino o tendrá que pagar por sus crímenes?",
+        "anio": "2025",
+        "genero": "Suspense",
+        "duracion": "1h 41m"
+      },
       {
          "name": "Los tipos malos 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
