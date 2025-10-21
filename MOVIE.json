@@ -3,6 +3,30 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+         "name": "Furioza 2 (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/original/3f98fpG9s666xLcxX4rL0KRWRiE.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/dfo2VR1Zg6Gi7Dx1diTvWqiFAu8.png",
+        "type": "PELICULA",
+        "descripcion": "A resultas de un asesinato, el nuevo líder de Furioza, Golden, reclama el poder de su violenta banda de ultras y adopta un nuevo enfoque para actuar en el extranjero.",
+        "anio": "2025",
+        "genero": "Acción,Crimen,Suspense",
+        "duracion": "1h 39m"
+      },
+      {
+         "name": "La chica perdida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxFN6tqo+leeeaSfHzPbiTUzLYtLCsJqUr6wMT3T9Cib",
+        "icono": "https://image.tmdb.org/t/p/original/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ne6NTmAvQtYfb7O5NwWK7r2RjKY.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2j3uxt2UZ6dl0Ungbg4sJK09itU.png",
+        "type": "PELICULA",
+        "descripcion": "Una joven sigue una misteriosa melodía hasta una remota isla de mareas. Cuando vuelve a cruzar en la próxima marea baja, emerge a un mundo en el que han pasado 25 años.",
+        "anio": "2025",
+        "genero": "Terror, Suspense, Misterio",
+        "duracion": "1h 39m"
+      },
+      {
          "name": "Las nubes (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
@@ -13,6 +37,18 @@
         "anio": "2025",
         "genero": "Suspense",
         "duracion": "1h 41m"
+      },
+      {
+         "name": "Parking (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1ruEzcLNWUBmcVpphE4G61hCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/original/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LXVLQrTedD5xpaIo4KDlVhEjyz.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/okBq0BvnJ0OZ9vBOjtngMlGPger.png",
+        "type": "PELICULA",
+        "descripcion": "Mateo, un delincuente bajo arresto domiciliario, trabaja en un estacionamiento en el centro de Buenos Aires y planea escapar. Su rutina se ve interrumpida cuando Lara paga una noche de alojamiento y minutos después un hombre armado irrumpe en el lugar. Ambos presencian un asesinato que desencadena una persecución mortal por las rampas y los niveles del edificio, obligándolos a luchar contra el tiempo y contra los delincuentes para escapar con vida del laberinto.",
+        "anio": "2025",
+        "genero": "Comedia,Drama",
+        "duracion": "1h 30m"
       },
       {
          "name": "Los tipos malos 2 (2025)",
@@ -272,6 +308,30 @@
     "name": "🆕 ESTRENOS 🎬✨",
     "samples": [
       {
+          "name": "Furioza 2 (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/original/3f98fpG9s666xLcxX4rL0KRWRiE.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/dfo2VR1Zg6Gi7Dx1diTvWqiFAu8.png",
+        "type": "PELICULA",
+        "descripcion": "A resultas de un asesinato, el nuevo líder de Furioza, Golden, reclama el poder de su violenta banda de ultras y adopta un nuevo enfoque para actuar en el extranjero.",
+        "anio": "2025",
+        "genero": "Acción,Crimen,Suspense",
+        "duracion": "1h 39m"
+      },
+      {
+         "name": "La chica perdida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxFN6tqo+leeeaSfHzPbiTUzLYtLCsJqUr6wMT3T9Cib",
+        "icono": "https://image.tmdb.org/t/p/original/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ne6NTmAvQtYfb7O5NwWK7r2RjKY.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/2j3uxt2UZ6dl0Ungbg4sJK09itU.png",
+        "type": "PELICULA",
+        "descripcion": "Una joven sigue una misteriosa melodía hasta una remota isla de mareas. Cuando vuelve a cruzar en la próxima marea baja, emerge a un mundo en el que han pasado 25 años.",
+        "anio": "2025",
+        "genero": "Terror, Suspense, Misterio",
+        "duracion": "1h 39m"
+      },
+      {
          "name": "Las nubes (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
@@ -282,6 +342,18 @@
         "anio": "2025",
         "genero": "Suspense",
         "duracion": "1h 41m"
+      },
+      {
+         "name": "Parking (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1ruEzcLNWUBmcVpphE4G61hCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/original/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LXVLQrTedD5xpaIo4KDlVhEjyz.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/okBq0BvnJ0OZ9vBOjtngMlGPger.png",
+        "type": "PELICULA",
+        "descripcion": "Mateo, un delincuente bajo arresto domiciliario, trabaja en un estacionamiento en el centro de Buenos Aires y planea escapar. Su rutina se ve interrumpida cuando Lara paga una noche de alojamiento y minutos después un hombre armado irrumpe en el lugar. Ambos presencian un asesinato que desencadena una persecución mortal por las rampas y los niveles del edificio, obligándolos a luchar contra el tiempo y contra los delincuentes para escapar con vida del laberinto.",
+        "anio": "2025",
+        "genero": "Comedia,Drama",
+        "duracion": "1h 30m"
       },
       {
          "name": "Los tipos malos 2 (2025)",
