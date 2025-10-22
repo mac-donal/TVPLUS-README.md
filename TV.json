@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA 📺✨",
+    "name": "🇦🇷 CANALES DE ARGENTINA 📺",
     "samples": [
       {
         "name": "Telefe",
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "name": "🇦🇷 TV DE ARGENTINA 2 📡✨",
+    "name": "🇦🇷 TV DE ARGENTINA 2 📡",
     "samples": [
       {
         "name": "El Destape",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "name": "🇦🇷 TV INTERIOR ARGENTINA 2 📡",
+    "name": "🇦🇷 TV INTERIOR ARGENTINA 📡",
     "samples": [
       {
         "name": "RETROX TV",
@@ -3211,7 +3211,7 @@
         "name": "Telemundo",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIHrwm8q+T63NEFp2HRMWE8b+KEXpSKzh+jRVLY69V1SqJC7Uzg7ASVezUWkj/Ek/2i+fVELpZv+HHRtuoKE+64",
         "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/2560px-Telemundo_logo_2012.svg.png",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMqTbK1T9nXLpH7BZx2oYy4GrNV/tLVbox919ewvRm9igHHtLfMoqCIR4zC9mHJAnTq+I/xKiYpRvOBU6bHBbevwVdOaRFkpBUZEZbWveb20nRgh9ZWFsIOozmf/TZltvQ==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
@@ -3223,7 +3223,7 @@
         "name": "TELEMUNDO INERNACI0NAL",
         "url": "naesvCySKo8f+hdww3SWgDXZ+OBCBaBecy457O72dhRMs+7tLSt32CTmC50RDzKGDI0L1XqUf12VjlEWLxKoOvzKa6/o9A5UFXWVq983FPOmlbkl6rVHyjvHrtS07GNh",
         "type": "HLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/2560px-Telemundo_logo_2012.svg.png"
       },
       {
         "name": "Telenovelas",
