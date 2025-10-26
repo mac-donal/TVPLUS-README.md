@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+         "name": "Sin rastro (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwPxZMvejqoIbHmlA49Uz7yS4fp6ULuJs0U43jdps+5l",
+        "icono": "https://image.tmdb.org/t/p/original/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/A00hR2OBzWuydrvKDYiCfaV6FC7.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1rwjVIIcaVasKXxEwFG7gTNkE77.png",
+        "type": "PELICULA",
+        "descripcion": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
+        "anio": "2025",
+        "genero": "Suspense,Acción,Aventura",
+        "duracion": "1h 50m"
+      },
+      {
          "name": "El bufón (2023)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt3Uuww9LG/fjgMyB8wF4AE+qOIwN1L1MhkmapycogMeN",
         "icono": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
