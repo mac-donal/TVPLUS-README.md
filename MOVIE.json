@@ -3,6 +3,18 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
+           "name": "27 noches (2025)",
+        "url": "YalSE7LaDpOuIPOowrlBvHooTduCimM4vSwpViW5zzlPx/GBknR5ri8Zx5sQfJYRwc+3OvIvyWhTU2uorKiG1uJMo6HKOPcZ+sB3S8Ug+pE=",
+        "icono": "https://image.tmdb.org/t/p/original/wQYtMj8YiJ45outE1WYRpWJRAH1.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xYI1S56NvO8UixplyFAWFwyvGb7.png",
+        "type": "PELICULA",
+        "descripcion": "Una mujer acaba en una clínica psiquiátrica por decisión de sus hijas. Un especialista debe decidir si realmente está enferma o si lo único que quiere es disfrutar de la vida.",
+        "anio": "2025",
+        "genero": "Comedia",
+        "duracion": "1h 47m"
+      },
+      {
          "name": "Sin rastro (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwPxZMvejqoIbHmlA49Uz7yS4fp6ULuJs0U43jdps+5l",
         "icono": "https://image.tmdb.org/t/p/original/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
@@ -391,6 +403,18 @@
     {
     "name": "🆕 ESTRENOS 🎬✨",
     "samples": [
+      {
+           "name": "27 noches (2025)",
+        "url": "YalSE7LaDpOuIPOowrlBvHooTduCimM4vSwpViW5zzlPx/GBknR5ri8Zx5sQfJYRwc+3OvIvyWhTU2uorKiG1uJMo6HKOPcZ+sB3S8Ug+pE=",
+        "icono": "https://image.tmdb.org/t/p/original/wQYtMj8YiJ45outE1WYRpWJRAH1.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xYI1S56NvO8UixplyFAWFwyvGb7.png",
+        "type": "PELICULA",
+        "descripcion": "Una mujer acaba en una clínica psiquiátrica por decisión de sus hijas. Un especialista debe decidir si realmente está enferma o si lo único que quiere es disfrutar de la vida.",
+        "anio": "2025",
+        "genero": "Comedia",
+        "duracion": "1h 47m"
+      },
       {
           "name": "Furioza 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q",
