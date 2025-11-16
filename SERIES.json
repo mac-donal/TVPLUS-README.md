@@ -4,6 +4,40 @@
       "nombre": "RECOMENDADOS",
       "series": [
         {
+        "nombre": "50 Segundos: El caso de Fernando Báez Sosa (2025)",
+          "genero": "Documental,Crimen",
+          "descripcion": "Esta serie documental explora el caso de Fernando Báez Sosa, cuyo asesinato a golpes por parte de un grupo de jóvenes quedó grabado en video, hecho que conmocionó a la Argentina.",
+          "anio": "2025",
+          "iconPng": "https://image.tmdb.org/t/p/original/npctlfm4TTYfWYPyjO0W78PE64J.png",
+          "icono": "https://image.tmdb.org/t/p/original/voMljae3BXWo63qnM9QikVJpUK.jpg",
+          "logoHorizontal": "https://image.tmdb.org/t/p/original/AiH3pDVAxt485WzCaBjRQHcP599.jpg",
+          "temporadas": [
+            {
+              "nombre": "Temporada 1",
+              "numero_temporada": 1,
+              "capitulos": [
+                {
+                  "numero": 1,
+                  "titulo": "«El final del verano»",
+                  "url": "cVI+FPBxX2ASracUSyM4wyXgG/aT7Gzy+Swm1aJSJGqHX8ZygcvwGEVzqvk6cloN9Se49IAq8Ufq1yRkh8RpY+4RhdC2eYhP+eUPIivumik="
+                },
+                {
+                  "numero": 2,
+                  "titulo": "«Tres años en suspenso»",
+                  "url": "cVI+FPBxX2ASracUSyM4wyXgG/aT7Gzy+Swm1aJSJGqHX8ZygcvwGEVzqvk6cloNEzgZuT5/dYeGukT9XWtS1+4RhdC2eYhP+eUPIivumik="
+                },
+                {
+                  "numero": 3,
+                  "titulo": "«La noche perpetua»",
+                  "url": "cVI+FPBxX2ASracUSyM4wyXgG/aT7Gzy+Swm1aJSJGqHX8ZygcvwGEVzqvk6cloNOWhvp7ATHFRyZJL4WbdKRu4RhdC2eYhP+eUPIivumik="
+                }
+              ]
+            }
+          ],
+          "tmdb_id": 286801,
+          "total_seasons": 1
+        },
+        {
           "nombre": "Monster The Ed Gein Story (2025)",
           "genero": "Action & Adventure,Drama,Crimen",
           "descripcion": "La impactante historia real de Ed Gein, el infame asesino y profanador de tumbas que sirvió de inspiración para numerosas películas emblemáticas de Hollywood sobre asesinos.",
