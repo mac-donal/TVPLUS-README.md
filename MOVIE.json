@@ -1,9 +1,338 @@
 [
-    {
-        "name": "RECOMENDADOS",
-        "samples": [
-            {
-           "name": "27 noches (2025)",
+  {
+    "name": "RECOMENDADOS",
+    "samples": [
+      {
+        "name": "Depredador: Tierras salvajes (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdri5MPyOfxnERT2VKy6zAAN2oJybh2MU8cWjZjEX47vdR",
+        "icono": "http://image.tmdb.org/t/p/original/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/4q32tob1mPwFDXrTxyMbD342pmP.png",
+        "type": "PELICULA",
+        "descripcion": "En un planeta hostil conocido como Kalisk, un joven Yautja llamado Dek es expulsado de su clan tras fallar en su rito de iniciación. Solo y marcado como presa, su destino cambia al encontrar a Thia, una sintética dañada de Weyland-Yutani que ha desarrollado conciencia propia. A pesar de sus orígenes opuestos, forman una alianza inquebrantable para sobrevivir en un entorno donde bandas humanas, criaturas mutantes y otros depredadores los acechan. A medida que Dek busca redimirse y escalar en la cadena alimenticia, descubre que su verdadero desafío no es solo cazar, sino enfrentar a una bestia colosal y casi invencible, un kaiju ancestral que representa el ápice del poder en este mundo destruido. La película explora temas de honor, redención y conexión entre seres marginados, ofreciendo una perspectiva inédita desde el punto de vista del Predator.",
+        "anio": "2025",
+        "genero": "Acción,Cienciaficción,Aventura",
+        "duracion": "1h 47m"
+      },
+      {
+        "name": "Padre no hay más que uno 5: Nido repleto (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdruheExDMlU7Fg8ufjO5IESSMZyK2zLIeApvn0elAMOZTXVmSITMB1fU+BHbL+bukyg==",
+        "icono": "https://image.tmdb.org/t/p/original/kU8jHbqlFIjCO1YiMsvS054aUTN.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jE9PtFwRbTr3WrlGd81SGDSJNSQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/hEkEpwySXtcNRoD5rCUVx2n2lje.png",
+        "type": "PELICULA",
+        "descripcion": "Algunos padres experimentan la angustia del “nido vacío” cuando los hijos empiezan a abandonar el hogar. Javier, en cambio, sufre el trauma del “nido repleto”: nadie se va de casa.",
+        "anio": "2025",
+        "genero": "Comedia,Familia",
+        "duracion": "1h 40m"
+      },
+      {
+        "name": "Deathstalker (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpPObS/Rp4VuVHgqBVmjfzRhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/original/weTuMRnkegYiLkWWrEuLs0qOFvg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vtqKDMdRySkV4GSM5F6AKyZO8aJ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/9sisFFmBYChLwNDqTqUY5iz85Jj.png",
+        "type": "PELICULA",
+        "descripcion": "El reino de Abraxeon está siendo asediado por los Dreadites, heraldos del hechicero Nekromemnon, muerto hace mucho tiempo. Cuando Deathstalker recupera un amuleto maldito de un campo de batalla sembrado de cadáveres, queda marcado por la magia negra y es perseguido por monstruosos asesinos de todo tipo. Para sobrevivir, debe romper la maldición y enfrentarse al mal naciente.",
+        "anio": "2025",
+        "genero": "Acción,Aventura,Fantasía",
+        "duracion": "1h 42m"
+      },
+      {
+        "name": "Antes de la Luna Llena (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrlCC4FoCyrN1KauDTdARx9HevTlxYkq5+aDUGbzDgGZi",
+        "icono": "https://image.tmdb.org/t/p/original/uJ13k79tpmsFDhXX2YUAlsRFzDT.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1y2l3labp9FTwpA58vYU5nAV5rt.png",
+        "type": "PELICULA",
+        "descripcion": "Una joven camarera es secuestrada por una secta religiosa, que está empeñada en curarla de un virus de hombre lobo de transmisión sexual... o matarla en el proceso. Escapará antes de la primera luna llena?",
+        "anio": "2025",
+        "genero": "Terror,Suspense",
+        "duracion": "1h 37m"
+      },
+      {
+        "name": "Mascotas al rescate (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrl+vWr84ZjuqwdchlYa/DiwJetYYlvFsf2EosPuYm42u",
+        "icono": "https://image.tmdb.org/t/p/original/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jWyBdGiJOMViBrXPBoz33ouRGFw.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/fcCuUENy24ksYNrNc0R3anANyoe.png",
+        "type": "PELICULA",
+        "descripcion": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+        "anio": "2025",
+        "genero": "Animación,Comedia,Aventura,Suspense",
+        "duracion": "1h 27m"
+      },
+      {
+        "name": "Manada Voraz (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrtoNNhhwFihGxkusb3+Rsc+S4fp6ULuJs0U43jdps+5l",
+        "icono": "https://image.tmdb.org/t/p/original/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5xn3QGuG7MjdmfQPNHYjRTJkmUZ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uVpPgLFxPQk8cEEG9LuBRPqNCFR.png",
+        "type": "PELICULA",
+        "descripcion": "Perseguidos por su padre, Cameron y su madre se mudan a una granja aislada donde Cameron ve y escucha cosas que no son posibles. Empieza a cuestionarlo todo y debe descubrir los secretos antes de que lo separen.",
+        "anio": "2025",
+        "genero": "Terror,Suspense,Misterio",
+        "duracion": "1h 37m"
+      },
+      {
+        "name": "La mujer de la fila (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrr7HVi8zP7u8i4Jiwx3AnWQDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/original/3YlBa1nuQEjuvGyJdJdE3EGakSk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJRSJPqq7assJtCZcsUn21yocCr.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/MDFNz8wOlVGxE38vW2aRTbQcm1.png",
+        "type": "PELICULA",
+        "descripcion": "La vida de Andrea, una mujer de clase media, cambia drásticamente cuando su hijo de 18 años termina en la cárcel acusado falsamente de un delito menor que no cometió. Ahora deberá dedicar sus días a sacarlo de la cárcel. Para liberarlo, tiene que enfrentarse a la burocracia del sistema judicial y al abuso de los prisioneros, pero sobre todo a sus propios prejuicios, valores y creencias. Ella se dará cuenta de este poderoso cambio cuando no pueda evitar enamorarse de un preso.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Un Día Fuera de Control (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrvxF1trEv4ZKXmx9vkfIGcuRagXwOPPt/ZRIaCinCRZWaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/original/nWprcqzpw41jslTgGrGcf4QhZ7Z.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/eE1cvNG454xGCMZ9euvBVTPCRBJ.png",
+        "type": "PELICULA",
+        "descripcion": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
+        "anio": "2025",
+        "genero": "Acción,Comedia",
+        "duracion": "1h 33m"
+      },
+      {
+        "name": "Sin Salida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdro5d/5FnsFnpbgy7KXQyrwmqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/original/lFfABpBsp1eVXFphGreqGsHjp0m.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/h8pd7WOGoxs7CvV4ZpPLzwZ6jA5.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/5rqcwTVJ9LeeqRFwy7VxsR8im39.png",
+        "type": "PELICULA",
+        "descripcion": "Narra las consecuencias de una amenaza nuclear que obliga a seis personas a refugiarse en un búnker subterráneo averiado. La tensión crece rápidamente mientras luchan por sobrevivir. Con el oxígeno y la confianza mutua agotándose, descubren que se está gestando un plan mucho más siniestro.",
+        "anio": "2025",
+        "genero": "Acción,Suspense,Crimen",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Corazón delator (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrnfgtBXBhVqfluROei+IykgnxGcMLz+zQ+iHOCSIrN6T",
+        "icono": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cowIX8cBauH8MGd0hMYUt4b8NPi.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/d8SyvgSYWfSalhi9HIFKoNbGr49.png",
+        "type": "PELICULA",
+        "descripcion": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
+        "anio": "2025",
+        "genero": "Romance,Drama",
+        "duracion": "1h 29m"
+      },
+      {
+        "name": "Suburbios del alma (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrrLerr2pU6aeZqdjDLe6rwfKX5NWuaWgGR2FqRDQzeuL",
+        "icono": "https://image.tmdb.org/t/p/original/t2PhEClW082uyto0NCvPTmdsSjw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mulQzZjG9ffADYxr44PggeRzCuy.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/pnZXs5iEHue8L8H3OthFCEvJ4AD.png",
+        "type": "PELICULA",
+        "descripcion": "Mediado de los años '90, ciudad costera. Clara y Miguel son dos personas solas que se encuentran. Luis y Viviana son un matrimonio que lidia con su hijo adolescente, Marcos. Lorena es una joven ingenua. El mar y la arena serán testigos de cómo estas vidas comunes son entrelazadas por los hilos del destino que desnudan los más profundos rincones de su alma.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 44m"
+      },
+      {
+        "name": "La princesa perdida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdruyY8/HSH8EG/zWxSTMnPm3qeeEFOEf4ID7p0kP5JmLv",
+        "icono": "https://image.tmdb.org/t/p/original/xXie22VAqXHMYBDTM2XpWRJWZIn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/p78a7gEmd8dxZuWWlKnwiIGVONA.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/eBvq86bYqD91IEanS7dZXg0ltoP.png",
+        "type": "PELICULA",
+        "descripcion": "Alec Touati es un multimillonario americano que se embarca en un viaje transformador para descubrir sus raíces. A través de una visión de ayahuasca, Alec es transportado a una sangrienta batalla y se encuentra en un castillo encantado de Marruecos. Allí conoce a Hanna, que le cuenta la trágica historia del matrimonio forzado con un príncipe saudí y su relación amorosa secreta con el cuidador del castillo. A medida que el embarazo de la princesa se hace más evidente, la historia de amor de la pareja se enfrenta a peligrosas consecuencias.",
+        "anio": "2025",
+        "genero": "Acción,Aventura",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Maldita suerte (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpdL8TNR2S8MzEHt5xQ6gMbJUSGd/2VyXNmzGzKJHCsm",
+        "icono": "https://image.tmdb.org/t/p/original/jd4p4omMZIywNP5vYbrPUfL1phX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xRpqYqrAfKEFiOtuTjGNwsepq55.png",
+        "type": "PELICULA",
+        "descripcion": "En los deslumbrantes casinos de Macao, un jugador que huye de su pasado queda fascinado por una enigmática mujer en la mesa de bacará.",
+        "anio": "2025",
+        "genero": "Misterio,Suspense,Crimen,Drama",
+        "duracion": "1h 42m"
+      }
+    ]
+  },
+  {
+    "name": "🆕 ESTRENOS 🎬✨",
+    "samples": [
+      {
+        "name": "Depredador: Tierras salvajes (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdri5MPyOfxnERT2VKy6zAAN2oJybh2MU8cWjZjEX47vdR",
+        "icono": "http://image.tmdb.org/t/p/original/r7TEWHLr1lsIsTkiEFwtM3hAWma.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/4q32tob1mPwFDXrTxyMbD342pmP.png",
+        "type": "PELICULA",
+        "descripcion": "En un planeta hostil conocido como Kalisk, un joven Yautja llamado Dek es expulsado de su clan tras fallar en su rito de iniciación. Solo y marcado como presa, su destino cambia al encontrar a Thia, una sintética dañada de Weyland-Yutani que ha desarrollado conciencia propia. A pesar de sus orígenes opuestos, forman una alianza inquebrantable para sobrevivir en un entorno donde bandas humanas, criaturas mutantes y otros depredadores los acechan. A medida que Dek busca redimirse y escalar en la cadena alimenticia, descubre que su verdadero desafío no es solo cazar, sino enfrentar a una bestia colosal y casi invencible, un kaiju ancestral que representa el ápice del poder en este mundo destruido. La película explora temas de honor, redención y conexión entre seres marginados, ofreciendo una perspectiva inédita desde el punto de vista del Predator.",
+        "anio": "2025",
+        "genero": "Acción,Cienciaficción,Aventura",
+        "duracion": "1h 47m"
+      },
+      {
+        "name": "Frankenstein (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrr7HVi8zP7u8i4Jiwx3AnWQDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/original/juGvqgUhKbX5wnrI9W9Jp342sOz.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vrjRcY43fHBNQqx0El0ZZzo7HZb.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/A2qs8jKKvTIuHSIJjB0CT6PQNbj.png",
+        "type": "PELICULA",
+        "descripcion": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador.",
+        "anio": "2025",
+        "genero": "Drama,Terror,Fantasía",
+        "duracion": "2h 30m"
+      },
+      {
+        "name": "Padre no hay más que uno 5: Nido repleto (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdruheExDMlU7Fg8ufjO5IESSMZyK2zLIeApvn0elAMOZTXVmSITMB1fU+BHbL+bukyg==",
+        "icono": "https://image.tmdb.org/t/p/original/kU8jHbqlFIjCO1YiMsvS054aUTN.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jE9PtFwRbTr3WrlGd81SGDSJNSQ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/hEkEpwySXtcNRoD5rCUVx2n2lje.png",
+        "type": "PELICULA",
+        "descripcion": "Algunos padres experimentan la angustia del “nido vacío” cuando los hijos empiezan a abandonar el hogar. Javier, en cambio, sufre el trauma del “nido repleto”: nadie se va de casa.",
+        "anio": "2025",
+        "genero": "Comedia,Familia",
+        "duracion": "1h 40m"
+      },
+      {
+        "name": "Deathstalker (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpPObS/Rp4VuVHgqBVmjfzRhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/original/weTuMRnkegYiLkWWrEuLs0qOFvg.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/vtqKDMdRySkV4GSM5F6AKyZO8aJ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/9sisFFmBYChLwNDqTqUY5iz85Jj.png",
+        "type": "PELICULA",
+        "descripcion": "El reino de Abraxeon está siendo asediado por los Dreadites, heraldos del hechicero Nekromemnon, muerto hace mucho tiempo. Cuando Deathstalker recupera un amuleto maldito de un campo de batalla sembrado de cadáveres, queda marcado por la magia negra y es perseguido por monstruosos asesinos de todo tipo. Para sobrevivir, debe romper la maldición y enfrentarse al mal naciente.",
+        "anio": "2025",
+        "genero": "Acción,Aventura,Fantasía",
+        "duracion": "1h 42m"
+      },
+      {
+        "name": "Antes de la Luna Llena (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrlCC4FoCyrN1KauDTdARx9HevTlxYkq5+aDUGbzDgGZi",
+        "icono": "https://image.tmdb.org/t/p/original/uJ13k79tpmsFDhXX2YUAlsRFzDT.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/1y2l3labp9FTwpA58vYU5nAV5rt.png",
+        "type": "PELICULA",
+        "descripcion": "Una joven camarera es secuestrada por una secta religiosa, que está empeñada en curarla de un virus de hombre lobo de transmisión sexual... o matarla en el proceso. Escapará antes de la primera luna llena?",
+        "anio": "2025",
+        "genero": "Terror,Suspense",
+        "duracion": "1h 37m"
+      },
+      {
+        "name": "Mascotas al rescate (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrl+vWr84ZjuqwdchlYa/DiwJetYYlvFsf2EosPuYm42u",
+        "icono": "https://image.tmdb.org/t/p/original/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jWyBdGiJOMViBrXPBoz33ouRGFw.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/fcCuUENy24ksYNrNc0R3anANyoe.png",
+        "type": "PELICULA",
+        "descripcion": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+        "anio": "2025",
+        "genero": "Animación,Comedia,Aventura,Suspense",
+        "duracion": "1h 27m"
+      },
+      {
+        "name": "Manada Voraz (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrtoNNhhwFihGxkusb3+Rsc+S4fp6ULuJs0U43jdps+5l",
+        "icono": "https://image.tmdb.org/t/p/original/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5xn3QGuG7MjdmfQPNHYjRTJkmUZ.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/uVpPgLFxPQk8cEEG9LuBRPqNCFR.png",
+        "type": "PELICULA",
+        "descripcion": "Perseguidos por su padre, Cameron y su madre se mudan a una granja aislada donde Cameron ve y escucha cosas que no son posibles. Empieza a cuestionarlo todo y debe descubrir los secretos antes de que lo separen.",
+        "anio": "2025",
+        "genero": "Terror,Suspense,Misterio",
+        "duracion": "1h 37m"
+      },
+      {
+        "name": "La mujer de la fila (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrr7HVi8zP7u8i4Jiwx3AnWQDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/original/3YlBa1nuQEjuvGyJdJdE3EGakSk.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/gJRSJPqq7assJtCZcsUn21yocCr.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/MDFNz8wOlVGxE38vW2aRTbQcm1.png",
+        "type": "PELICULA",
+        "descripcion": "La vida de Andrea, una mujer de clase media, cambia drásticamente cuando su hijo de 18 años termina en la cárcel acusado falsamente de un delito menor que no cometió. Ahora deberá dedicar sus días a sacarlo de la cárcel. Para liberarlo, tiene que enfrentarse a la burocracia del sistema judicial y al abuso de los prisioneros, pero sobre todo a sus propios prejuicios, valores y creencias. Ella se dará cuenta de este poderoso cambio cuando no pueda evitar enamorarse de un preso.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Un Día Fuera de Control (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrvxF1trEv4ZKXmx9vkfIGcuRagXwOPPt/ZRIaCinCRZWaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/original/nWprcqzpw41jslTgGrGcf4QhZ7Z.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/eE1cvNG454xGCMZ9euvBVTPCRBJ.png",
+        "type": "PELICULA",
+        "descripcion": "Brian acaba de ser despedido de su trabajo, y se convierte en un padre que se queda en casa. Acepta una invitación para jugar de otro padre, que resulta ser un bala perdida.",
+        "anio": "2025",
+        "genero": "Acción,Comedia",
+        "duracion": "1h 33m"
+      },
+      {
+        "name": "Sin Salida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdro5d/5FnsFnpbgy7KXQyrwmqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/original/lFfABpBsp1eVXFphGreqGsHjp0m.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/h8pd7WOGoxs7CvV4ZpPLzwZ6jA5.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/5rqcwTVJ9LeeqRFwy7VxsR8im39.png",
+        "type": "PELICULA",
+        "descripcion": "Narra las consecuencias de una amenaza nuclear que obliga a seis personas a refugiarse en un búnker subterráneo averiado. La tensión crece rápidamente mientras luchan por sobrevivir. Con el oxígeno y la confianza mutua agotándose, descubren que se está gestando un plan mucho más siniestro.",
+        "anio": "2025",
+        "genero": "Acción,Suspense,Crimen",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Corazón delator (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrnfgtBXBhVqfluROei+IykgnxGcMLz+zQ+iHOCSIrN6T",
+        "icono": "https://image.tmdb.org/t/p/original/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cowIX8cBauH8MGd0hMYUt4b8NPi.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/d8SyvgSYWfSalhi9HIFKoNbGr49.png",
+        "type": "PELICULA",
+        "descripcion": "Un amor que trasciende la muerte. Juan Manuel, un empresario frío, recibe el corazón de Pedro, un hombre humilde. Al investigar el origen de su donante, conoce a Valeria, la viuda, y se enamora de ella. Ocultando su identidad, lucha por salvar el barrio de Pedro, sin revelar que en su pecho late su corazón.",
+        "anio": "2025",
+        "genero": "Romance,Drama",
+        "duracion": "1h 29m"
+      },
+      {
+        "name": "Suburbios del alma (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrrLerr2pU6aeZqdjDLe6rwfKX5NWuaWgGR2FqRDQzeuL",
+        "icono": "https://image.tmdb.org/t/p/original/t2PhEClW082uyto0NCvPTmdsSjw.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/mulQzZjG9ffADYxr44PggeRzCuy.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/pnZXs5iEHue8L8H3OthFCEvJ4AD.png",
+        "type": "PELICULA",
+        "descripcion": "Mediado de los años '90, ciudad costera. Clara y Miguel son dos personas solas que se encuentran. Luis y Viviana son un matrimonio que lidia con su hijo adolescente, Marcos. Lorena es una joven ingenua. El mar y la arena serán testigos de cómo estas vidas comunes son entrelazadas por los hilos del destino que desnudan los más profundos rincones de su alma.",
+        "anio": "2025",
+        "genero": "Drama",
+        "duracion": "1h 44m"
+      },
+      {
+        "name": "La princesa perdida (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdruyY8/HSH8EG/zWxSTMnPm3qeeEFOEf4ID7p0kP5JmLv",
+        "icono": "https://image.tmdb.org/t/p/original/xXie22VAqXHMYBDTM2XpWRJWZIn.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/p78a7gEmd8dxZuWWlKnwiIGVONA.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/eBvq86bYqD91IEanS7dZXg0ltoP.png",
+        "type": "PELICULA",
+        "descripcion": "Alec Touati es un multimillonario americano que se embarca en un viaje transformador para descubrir sus raíces. A través de una visión de ayahuasca, Alec es transportado a una sangrienta batalla y se encuentra en un castillo encantado de Marruecos. Allí conoce a Hanna, que le cuenta la trágica historia del matrimonio forzado con un príncipe saudí y su relación amorosa secreta con el cuidador del castillo. A medida que el embarazo de la princesa se hace más evidente, la historia de amor de la pareja se enfrenta a peligrosas consecuencias.",
+        "anio": "2025",
+        "genero": "Acción,Aventura",
+        "duracion": "1h 45m"
+      },
+      {
+        "name": "Maldita suerte (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu9gyGtremkFuDPYaAVOhtSmXko9rNptehA6xCUHEuPdrpdL8TNR2S8MzEHt5xQ6gMbJUSGd/2VyXNmzGzKJHCsm",
+        "icono": "https://image.tmdb.org/t/p/original/jd4p4omMZIywNP5vYbrPUfL1phX.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/xRpqYqrAfKEFiOtuTjGNwsepq55.png",
+        "type": "PELICULA",
+        "descripcion": "En los deslumbrantes casinos de Macao, un jugador que huye de su pasado queda fascinado por una enigmática mujer en la mesa de bacará.",
+        "anio": "2025",
+        "genero": "Misterio,Suspense,Crimen,Drama",
+        "duracion": "1h 42m"
+      },
+      {
+        "name": "27 noches (2025)",
         "url": "YalSE7LaDpOuIPOowrlBvHooTduCimM4vSwpViW5zzlPx/GBknR5ri8Zx5sQfJYRwc+3OvIvyWhTU2uorKiG1uJMo6HKOPcZ+sB3S8Ug+pE=",
         "icono": "https://image.tmdb.org/t/p/original/wQYtMj8YiJ45outE1WYRpWJRAH1.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg",
@@ -15,7 +344,7 @@
         "duracion": "1h 47m"
       },
       {
-         "name": "Sin rastro (2025)",
+        "name": "Sin rastro (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwPxZMvejqoIbHmlA49Uz7yS4fp6ULuJs0U43jdps+5l",
         "icono": "https://image.tmdb.org/t/p/original/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/A00hR2OBzWuydrvKDYiCfaV6FC7.jpg",
@@ -27,7 +356,7 @@
         "duracion": "1h 50m"
       },
       {
-         "name": "El bufón (2023)",
+        "name": "El bufón (2023)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt3Uuww9LG/fjgMyB8wF4AE+qOIwN1L1MhkmapycogMeN",
         "icono": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/uVke6EROI3Y72sND0fPBB0EKwIC.jpg",
@@ -39,7 +368,7 @@
         "duracion": "1h 30m"
       },
       {
-         "name": "El bufón (2023)",
+        "name": "El bufón (2023)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt3Uuww9LG/fjgMyB8wF4AE+qOIwN1L1MhkmapycogMeN",
         "icono": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/uVke6EROI3Y72sND0fPBB0EKwIC.jpg",
@@ -51,7 +380,7 @@
         "duracion": "1h 30m"
       },
       {
-         "name": "El bufón: Capítulo 2 (2025)",
+        "name": "El bufón: Capítulo 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1S5ScQP+TH28aO39vmFD9t44fnX0HuAiD/9JiThDM/I",
         "icono": "https://image.tmdb.org/t/p/original/giV7FS7HGyxRbwqxudXPvv1RgXD.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/ustxSC4hYFzqIgJ1PB2iTJKUiKL.jpg",
@@ -63,7 +392,7 @@
         "duracion": "1h 27m"
       },
       {
-         "name": "Matando la fe (2025)",
+        "name": "Matando la fe (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5wn8TkPYaIA8hmoplouCwAzjmxANJrvw6ALi9H1zUxS",
         "icono": "https://image.tmdb.org/t/p/original/wzKftb572lYY3x6dzclPIIiaBM5.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/7ZBmCbUETBxcNQTZLgT6Xj7jAzC.jpg",
@@ -75,7 +404,7 @@
         "duracion": "1h 48m"
       },
       {
-         "name": "Coyotes (2025)",
+        "name": "Coyotes (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt67FWkq+v4PXKHs2A6bGNothCxMmmYjxrAZPsldYcAkn",
         "icono": "https://image.tmdb.org/t/p/original/xXIkD4nTWbQgQ2KDd9gMVcOUAHx.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/ripeXiI6e7hjqm4jWC6OXDWAqtE.jpg",
@@ -87,7 +416,7 @@
         "duracion": "1h 31m"
       },
       {
-         "name": "Tu anfitrión (2025)",
+        "name": "Tu anfitrión (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4IK9c9mnuNvn7QKJ0r9KTrJUSGd/2VyXNmzGzKJHCsm",
         "icono": "https://image.tmdb.org/t/p/original/s0uMjv7kkWkOYNYzLaTONEra23B.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/aiMCZmsIbKWq8JK2h3nvr0OHQyf.jpg",
@@ -99,7 +428,7 @@
         "duracion": "1h 29m"
       },
       {
-         "name": "Furioza 2 (2025)",
+        "name": "Furioza 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q",
         "icono": "https://image.tmdb.org/t/p/original/3f98fpG9s666xLcxX4rL0KRWRiE.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg",
@@ -111,7 +440,7 @@
         "duracion": "1h 39m"
       },
       {
-         "name": "La chica perdida (2025)",
+        "name": "La chica perdida (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxFN6tqo+leeeaSfHzPbiTUzLYtLCsJqUr6wMT3T9Cib",
         "icono": "https://image.tmdb.org/t/p/original/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/ne6NTmAvQtYfb7O5NwWK7r2RjKY.jpg",
@@ -123,7 +452,7 @@
         "duracion": "1h 39m"
       },
       {
-         "name": "Las nubes (2025)",
+        "name": "Las nubes (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX4D4EpRsK3RgqckJSFf5l1hriM.jpg",
@@ -135,7 +464,7 @@
         "duracion": "1h 41m"
       },
       {
-         "name": "Parking (2025)",
+        "name": "Parking (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1ruEzcLNWUBmcVpphE4G61hCxMmmYjxrAZPsldYcAkn",
         "icono": "https://image.tmdb.org/t/p/original/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LXVLQrTedD5xpaIo4KDlVhEjyz.jpg",
@@ -147,7 +476,7 @@
         "duracion": "1h 30m"
       },
       {
-         "name": "Los tipos malos 2 (2025)",
+        "name": "Los tipos malos 2 (2025)",
         "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
         "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
@@ -159,8 +488,8 @@
         "duracion": "1h 43m"
       },
       {
-         "name": "Tron.Ares (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
+        "name": "Tron.Ares (2025)",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtzh3eBJJPRcm08YK7pU/8Ic=",
         "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/veER9dS1GJ5a22cJbRXpdI298Ah.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/k0uyosqc5pxFjdyHcie91S3s6mM.png",
@@ -172,7 +501,7 @@
       },
       {
         "name": "Camina o Muere (2025)",
-        "url": "t66mQIL0al4QGguoSjH6Bmry3khs45VXmVs+PfpjpUVo712z6XkItNzKl6kfnxQuNYizCi4vXWiehubyRQlE7qCKEsrN4UbGl9RiiKm84jlsT66FBfnEWu5gv4dTRs7yhe3im81d+99LgcrTvsJsk555MAJon6lOaoZOR8mhMec=",
+        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt/J8bmryZvj1Acb2t655UD0RknUZ7NwSVonDs/5eRxkX",
         "icono": "https://image.tmdb.org/t/p/original/kXIw6UiO2zANEPyStiYoEIopN0q.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/original/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
         "iconpng": "https://image.tmdb.org/t/p/original/xZu7hliyvTyZ8UaOHXY84ApvLaX.png",
@@ -205,371 +534,6 @@
         "genero": "Western",
         "duracion": "1h 24m",
         "type": "PELICULA"
-      },
-      {
-        "name": "Bala perdida (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8qclSoai/hF4SGeMKIjfFVHu+I5pK3Q0NDqhicWFbxf",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpEGQKgOeDo9GmmKDnEWjTLTi4u.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/wUO4lGA9TDeDDQjfvgPXMtmF1EN.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2b6vhstmnpFoCOaLrZKgpqLBsqU.png",
-        "descripcion": "Cuando su vecin o punki Russ le pide que cuide de su gato durante unos días, Hank Thompson se encuentra atrapado en medio de un variopinto grupo de gángsters amenazantes. Todos quieren algo de él; el problema es que él no sabe por qué. Mientras Hank intenta eludir sus cada vez más estrechas garras, tendrá que emplear toda su habilidad para mantenerse con vida el tiempo suficiente para averiguarlo.",
-        "anio": "2025",
-        "genero": " Crimen,Suspense,Comedia",
-        "duracion": "1h 47m",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Devuélvemela (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt9+HR3884vLaLWXEaZgtQsnJUSGd/2VyXNmzGzKJHCsm",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/3W3zkhRsNdgEC7YbfIzxDz1GB4w.png",
-        "descripcion": "Un hermano y su hermana descubren un aterrador ritual en la apartada casa de su nueva madre adoptiva. Lo que parece un hogar seguro pronto se convierte en una pesadilla, donde figuras siniestras, extrañas imágenes en vídeo y sucesos paranormales los rodean.",
-        "anio": "2025",
-        "genero": "TERROR",
-        "duracion": "1h 44m",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Caramelo (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxcRNksDaGvj3zj9BO4UReSqOIwN1L1MhkmapycogMeN",
-        "icono": "https://m.media-amazon.com/images/M/MV5BNTRlMzI4MDItZDJiNS00YmNmLWE1MmQtNjZjYTVhNDdmYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNTRlMzI4MDItZDJiNS00YmNmLWE1MmQtNjZjYTVhNDdmYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
-        "iconpng": "https://m.media-amazon.com/images/M/MV5BNTRlMzI4MDItZDJiNS00YmNmLWE1MmQtNjZjYTVhNDdmYjQ1XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
-        "descripcion": "Tras recibir un diagnóstico que cambiará su vida, un prometedor chef halla consuelo, risa y esperanza gracias a la inesperada compañía de un amigo de cuatro patas.",
-        "anio": "2025",
-        "genero": "Aventura animal",
-        "duracion": "1h 41min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Y2K (2024)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt7+Y77BUVLtUIV5hACiweZ6S8bKqFInpEPqEutc8E6M3",
-        "icono": "https://m.media-amazon.com/images/M/MV5BZmY5NjExMmUtMWZlMy00MmY4LWI4MDAtZDc2MmZmNjc2NjYwXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNGZkZGE4YTctNjNmYS00YmJlLWI3Y2MtMTRlN2VlNThkODY3XkEyXkFqcGc@._V1_FMjpg_UX851_.jpg",
-        "iconpng": "https://m.media-amazon.com/images/M/MV5BZmY5NjExMmUtMWZlMy00MmY4LWI4MDAtZDc2MmZmNjc2NjYwXkEyXkFqcGc@._V1_FMjpg_UX700_.jpg",
-        "descripcion": "Dos 'don nadie' del colegio toman la decisión de colarse en la última celebración antes del nuevo milenio en la Nochevieja de 1999. La noche se vuelve aún más loca de lo que jamás podrían haber soñado cuando el reloj marca la medianoche.",
-        "anio": "2024",
-        "genero": "Ciencia ficción",
-        "duracion": "2h 9min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Putin (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5EadC/TfDbFCT4d566LoEFp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMDc0MzQ5NGEtZTIwZC00ZjllLWE0YzUtYzAwN2ZjM2U0MmE2XkEyXkFqcGc@._V1_FMjpg_UX833_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BYmQzNGQ5ZmYtNTAxMS00N2U5LWFmYTItNWYwYWU1YzA5ODk0XkEyXkFqcGc@._V1_FMjpg_UX655_.jpg",
-        "iconpng": "https://m.media-amazon.com/images/M/MV5BYmQzNGQ5ZmYtNTAxMS00N2U5LWFmYTItNWYwYWU1YzA5ODk0XkEyXkFqcGc@._V1_FMjpg_UX655_.jpg",
-        "descripcion": "Retrato gélido de la dualidad de un poderoso líder, desentrañando al dictador despiadado y el alma atormentada subyacente.",
-        "anio": "2023",
-        "genero": "Bélica",
-        "duracion": "1h 49min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "A Través del Fuego (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5NlD70UH0FY5ixufpKsVtHvDh6ufOqRZMQm4Ur60Qhn",
-        "icono": "https://iili.io/KWzyUYJ.jpg",
-        "iconoHorizontal": "https://cinecassette.com/wp-content/uploads/2025/10/lost-bus.png?w=816",
-        "iconpng": "https://cinecassette.com/wp-content/uploads/2025/10/lost-bus.png?w=816",
-        "descripcion": "Explora lo que salió mal en el incendio forestal más mortífero de Estados Unidos en un siglo, y cómo prevenir futuras tragedias.",
-        "anio": "2023",
-        "genero": "Desastres",
-        "duracion": "2h 9min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "El Vengador Toxico (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt8yIxagBD8dJv1JAns31nO4DqbhouEvVTTAppTXjSnco",
-        "icono": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
-        "iconoHorizontal": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2025/03/vengador-toxico-2025-4304163.jpg?tf=3840x",
-        "iconpng": "https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_.jpg",
-        "descripcion": "Un terrible accidente tóxico transforma al conserje Winston Gooze, con una enfermedad terminal, en una nueva evolución de héroe: El Vengador Tóxico. Ahora, blandiendo una fregona brillante con fuerza sobrehumana, debe correr contrarreloj para salvar a su hijo y detener a un tirano despiadado y ávido de poder, empeñado en usar superpoderes tóxicos para fortalecer su imperio contaminado.",
-        "anio": "2023",
-        "genero": "Terror",
-        "duracion": "102 min.",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Eddington (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtzdHPxx+z7iKT5PoNm/5NEaBxi5j+H+03Yb2wfgNaRQw",
-        "icono": "https://iili.io/KG3vYTG.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BODhhYTZkNjAtY2JkYS00ZDFhLWFjMzctMTgwYzMzM2VlNTg5XkEyXkFqcGdeQWpnYW1i._V1_.jpg",
-        "iconpng": "https://iili.io/KG3vYTG.jpg",
-        "descripcion": "En mayo de 2020, un enfrentamiento entre el sheriff y el alcalde de un pequeño pueblo enciende tensiones y divide a los vecinos en Eddington, Nuevo México.",
-        "anio": "2025",
-        "genero": "Western",
-        "duracion": "2h 28min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Matadores de Aliens do Espaço Sideral (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtyjL60w0XXm35fQIFcw/eXncw6hPareLGX67B6ZMD4lyaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BNmIzOTQ1MmItYWRkYi00MWVhLTllOTYtYjI0OTU1NDkwOTAxXkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNmIzOTQ1MmItYWRkYi00MWVhLTllOTYtYjI0OTU1NDkwOTAxXkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg",
-        "iconpng": "https://m.media-amazon.com/images/M/MV5BMWIwMGQ2MjgtZjU1My00NmIxLWFiYTMtNzNmZTliN2U5OGEwXkEyXkFqcGc@._V1_FMjpg_UX2160_.jpg",
-        "descripcion": " Tras la misteriosa desaparición de varios jóvenes en la pequeña ciudad de Costa Esmeralda, un trío de amigos descubre que una criatura del espacio está controlando a los seres humanos con el objetivo de apoderarse de nuestro planeta.",
-        "anio": "2025",
-        "genero": "Ciencia Ficción",
-        "duracion": "1h 49min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Prisoner of War (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtwi99kr891TvpBN1LUjkntVLa6nCQEyRDQPwjLhJeF8m",
-        "icono": "https://images2.imgbox.com/90/8c/zg3oljF6_o.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BZGYxYzVhNWEtN2I0Ny00ZGExLWI3NGItMDRkOGIyYjk3ZGEwXkEyXkFqcGc@._V1_QL75_UX388_.jpg",
-        "iconpng": "https://images2.imgbox.com/90/8c/zg3oljF6_o.jpg",
-        "descripcion": "Un oficial británico del SAS durante la Segunda Guerra Mundial es capturado y obligado a luchar en un campo de internamiento japonés.",
-        "anio": "2025",
-        "genero": "Acción",
-        "duracion": "1h 52min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Tiempo De Asesinos (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt0KWCcm0zY5dfSt5nkKT4zE=",
-        "icono": "https://www.movistarplus.es/recorte/n/caratulaH/F4423148?od[]=Z1H:MM3_H",
-        "iconoHorizontal": "https://www.movistarplus.es/recorte/n/fanartweb/F4423145",
-        "iconpng": "https://www.movistarplus.es/recorte/n/caratulaH/F4423148?od[]=Z1H:MM3_H",
-        "descripcion": "Shanghái, 1932. Durante un banquete del ejército japonés, Zhang Mu Bai, líder de un grupo de traidores, arrasa con todos los miembros del ejército. Allí, Mu Bai conoce al maestro Hu Ba, quien lo recluta para asesinar al estratega japonés Kurokawa.",
-        "anio": "2025",
-        "genero": "Acción",
-        "duracion": "91 min.",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Sirât (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5qRpyYIs4knSSEMzf0f6X5p45ALkHccw+E8WuN7aDnp",
-        "icono": "https://i.ibb.co/67h5pQL8/sirat-867910558-large.jpg",
-        "iconoHorizontal": "https://images.mubicdn.net/images/film/301059/cache-1050234-1748021552/image-w1280.jpg",
-        "iconpng": "https://i.ibb.co/67h5pQL8/sirat-867910558-large.jpg",
-        "descripcion": "Um homem e seu filho chegam a uma rave perdidos no meio do que é descrito como as montanhas áridas e fantasmagóricas do sul de Marrocos.",
-        "anio": "2025",
-        "genero": "DOCUMENTAL",
-        "duracion": "1 h 55 min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "The Ritual",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5NAzlkG4h2eSBhTfM6LVAuS4fp6ULuJs0U43jdps+5l",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMzgxM2Q3ZGYtOTAzMy00NjZhLTk2OWMtYWUyMjY3NGU1YmRkXkEyXkFqcGc@._V1_FMjpg_UY3921_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BNWRmZDJkZmUtYzMyMS00YWNjLTkwN2UtMDg5OGFjZGY1Y2UzXkEyXkFqcGc@._V1_FMjpg_UX1600_.jpg",
-        "iconpng": "https://images2.imgbox.com/97/6d/DAvxCbUO_o.jpg",
-        "descripcion": "Dos sacerdotes, uno que se cuestiona su fe y otro que se enfrenta a un pasado turbulento, deben dejar a un lado sus diferencias para salvar a una joven poseída a través de una difícil y peligrosa serie de exorcismos.",
-        "anio": "2025",
-        "genero": "Terror",
-        "duracion": "1h 38min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "El conjuro 4: los ultimos ritos",
-        "url": "t66mQIL0al4QGguoSjH6BqdxWjaDNf7dWvWO2fapc7WN+tg+VUsW5L9YHQsk1AheioDkka2va13lvkro3MDuLWFmRcsEoReFvggKsZccSgbyQm+ceY9y5nEHArZfFATCh799DXFLBVss/tUNezaPPZ55MAJon6lOaoZOR8mhMec=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-        "iconoHorizontal": "https://www.eyescreamproductions.com/allaccess/wp-content/uploads/2025/09/cinesprogreso-05f841c4-820x391.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",
-        "descripcion": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
-        "anio": "2025",
-        "genero": "Terror",
-        "duracion": "2h 15m",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Together Juntos Hasta La Muerte (2025) ",
-        "url": "t66mQIL0al4QGguoSjH6BvHnq0VVDSMu7cKjxGMa5em3GS6ppt83U5EZ1DfS+X3AqeLIp56fC4Ui7kp+lVSCMsQ5Mh69lPTS8Q4BovhcAG9BSKmiSGVkXhWQdt0D4ZhRZHs4xhwvq4Xgvn7a28Ewu555MAJon6lOaoZOR8mhMec=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BZWNiNDdkOGQtNDFlYy00NDljLWIxNDItODBkN2IzMjc1MWE1XkEyXkFqcGc@._V1_FMjpg_UX750_.jpg",
-        "iconoHorizontal": "https://m.media-amazon.com/images/M/MV5BZWNiNDdkOGQtNDFlYy00NDljLWIxNDItODBkN2IzMjc1MWE1XkEyXkFqcGc@._V1_FMjpg_UX750_.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/w500/5DguNrKy6unRrCTiJ6Xjs8vzaaM.png",
-        "descripcion": "Una mudanza al campo desata fuerzas sobrenaturales que transforman la relación de una pareja, su realidad y sus cuerpos.",
-        "anio": "2025",
-        "genero": "Comedia",
-        "duracion": "1h 42min",
-        "type": "PELICULA"
-      },
-      {
-        "name": "Gatillero",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5vQGtuiM2ZM2xCstowgwhCBxi5j+H+03Yb2wfgNaRQw",
-        "icono": "https://images2.imgbox.com/4c/a8/B6Dm2PQv_o.jpg",
-        "iconoHorizontal": "https://indiehoy.com/wp-content/uploads/2025/04/gatillero.jpg",
-        "iconpng": "https://indiehoy.com/wp-content/uploads/2025/04/gatillero.jpg",
-        "type": "PELICULA",
-        "descripcion": "Un thriller en tiempo real filmado en una toma continua. En las calles de Isla Maciel, Buenos Aires, se desarrolla una cruda historia de tragedia y redención que mantiene al espectador al filo del asiento.",
-        "anio": "2025",
-        "genero": " thriller",
-        "duracion": "1h 19min"
-            }
-        ]
-    },
-    {
-    "name": "🆕 ESTRENOS 🎬✨",
-    "samples": [
-      {
-           "name": "27 noches (2025)",
-        "url": "YalSE7LaDpOuIPOowrlBvHooTduCimM4vSwpViW5zzlPx/GBknR5ri8Zx5sQfJYRwc+3OvIvyWhTU2uorKiG1uJMo6HKOPcZ+sB3S8Ug+pE=",
-        "icono": "https://image.tmdb.org/t/p/original/wQYtMj8YiJ45outE1WYRpWJRAH1.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/xYI1S56NvO8UixplyFAWFwyvGb7.png",
-        "type": "PELICULA",
-        "descripcion": "Una mujer acaba en una clínica psiquiátrica por decisión de sus hijas. Un especialista debe decidir si realmente está enferma o si lo único que quiere es disfrutar de la vida.",
-        "anio": "2025",
-        "genero": "Comedia",
-        "duracion": "1h 47m"
-      },
-      {
-          "name": "Furioza 2 (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt2nZX6rOZgCGWkdKblfl0rcDQIzurqu3cVx38WdtPo6Q",
-        "icono": "https://image.tmdb.org/t/p/original/3f98fpG9s666xLcxX4rL0KRWRiE.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9WiWj08EqdzPWJFYLhRbnqRpvjK.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/dfo2VR1Zg6Gi7Dx1diTvWqiFAu8.png",
-        "type": "PELICULA",
-        "descripcion": "A resultas de un asesinato, el nuevo líder de Furioza, Golden, reclama el poder de su violenta banda de ultras y adopta un nuevo enfoque para actuar en el extranjero.",
-        "anio": "2025",
-        "genero": "Acción,Crimen,Suspense",
-        "duracion": "1h 39m"
-      },
-      {
-   "name": "El bufón (2023)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt3Uuww9LG/fjgMyB8wF4AE+qOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uVke6EROI3Y72sND0fPBB0EKwIC.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/6R6hCH9E74szkpIKNitqpustZYc.png",
-        "type": "PELICULA",
-        "descripcion": "Una entidad malévola conocido como The Jester aterroriza a un pueblo la noche de Halloween, donde dos hermanas separadas tendrán que unirse para vencer este mal.",
-        "anio": "2025",
-        "genero": "Terror,Suspense,Crimen",
-        "duracion": "1h 30m"
-      },
-      {
-         "name": "El bufón (2023)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt3Uuww9LG/fjgMyB8wF4AE+qOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/original/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/uVke6EROI3Y72sND0fPBB0EKwIC.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/6R6hCH9E74szkpIKNitqpustZYc.png",
-        "type": "PELICULA",
-        "descripcion": "Una entidad malévola conocido como The Jester aterroriza a un pueblo la noche de Halloween, donde dos hermanas separadas tendrán que unirse para vencer este mal.",
-        "anio": "2025",
-        "genero": "Terror,Suspense,Crimen",
-        "duracion": "1h 30m"
-      },
-      {
-         "name": "El bufón: Capítulo 2 (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1S5ScQP+TH28aO39vmFD9t44fnX0HuAiD/9JiThDM/I",
-        "icono": "https://image.tmdb.org/t/p/original/giV7FS7HGyxRbwqxudXPvv1RgXD.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ustxSC4hYFzqIgJ1PB2iTJKUiKL.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/6R6hCH9E74szkpIKNitqpustZYc.png",
-        "type": "PELICULA",
-        "descripcion": "Cuando la maga adolescente Max se cruza con el siniestro Bufón en la noche de Halloween, debe ser más astuta que un asesino sobrenatural cuya magia es demasiado real y cuyos trucos siempre acaban en sangre.",
-        "anio": "2025",
-        "genero": "Terror,Suspense,Crimen",
-        "duracion": "1h 27m"
-      },
-      {
-         "name": "Matando la fe (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt5wn8TkPYaIA8hmoplouCwAzjmxANJrvw6ALi9H1zUxS",
-        "icono": "https://image.tmdb.org/t/p/original/wzKftb572lYY3x6dzclPIIiaBM5.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/7ZBmCbUETBxcNQTZLgT6Xj7jAzC.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/8pSg2Rg5Nt9B4Zjs2LU0JJENtR0.png",
-        "type": "PELICULA",
-        "descripcion": "En el verano de 1859, un médico viudo acepta a regañadientes acompañar a una esclava recién liberada y a su misteriosa hija caucásica en un viaje de cinco días por el sangriento Oeste para encontrar al sanador de un pueblo lejano. La mujer cree que su hija está poseída. El médico cree que simplemente porta la Enfermedad. Sea como sea, lo cierto es que todo ser vivo que toca la niña muere misteriosamente.",
-        "anio": "2025",
-        "genero": "Suspense,Western",
-        "duracion": "1h 48m"
-      },
-      {
-         "name": "Coyotes (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt67FWkq+v4PXKHs2A6bGNothCxMmmYjxrAZPsldYcAkn",
-        "icono": "https://image.tmdb.org/t/p/original/xXIkD4nTWbQgQ2KDd9gMVcOUAHx.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ripeXiI6e7hjqm4jWC6OXDWAqtE.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/qa67XQkje8H2ILpXpBq7B8XPdqx.png",
-        "type": "PELICULA",
-        "descripcion": "Una familia debe luchar por su vida contra una feroz manada de coyotes mientras un feroz incendio arrasa las colinas de Hollywood, creando una angustiosa situación de supervivencia en medio de la doble amenaza de los animales salvajes y las llamas descontroladas.",
-        "anio": "2025",
-        "genero": "Terror,Comedia",
-        "duracion": "1h 31m"
-      },
-      {
-         "name": "Tu anfitrión (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4IK9c9mnuNvn7QKJ0r9KTrJUSGd/2VyXNmzGzKJHCsm",
-        "icono": "https://image.tmdb.org/t/p/original/s0uMjv7kkWkOYNYzLaTONEra23B.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/aiMCZmsIbKWq8JK2h3nvr0OHQyf.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2ffU9Bsg0vMISrls571a3qyyEtc.jpg",
-        "type": "PELICULA",
-        "descripcion": "Cuatro amigos quedan atrapados en un sádico concurso televisivo, obligados a burlar a un retorcido asesino en serie mientras compiten contra el tiempo. Cada movimiento los acerca a la libertad o a un destino espantoso.",
-        "anio": "2025",
-        "genero": "Terror",
-        "duracion": "1h 29m"
-      },
-      {
-         "name": "La chica perdida (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrtxFN6tqo+leeeaSfHzPbiTUzLYtLCsJqUr6wMT3T9Cib",
-        "icono": "https://image.tmdb.org/t/p/original/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ne6NTmAvQtYfb7O5NwWK7r2RjKY.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/2j3uxt2UZ6dl0Ungbg4sJK09itU.png",
-        "type": "PELICULA",
-        "descripcion": "Una joven sigue una misteriosa melodía hasta una remota isla de mareas. Cuando vuelve a cruzar en la próxima marea baja, emerge a un mundo en el que han pasado 25 años.",
-        "anio": "2025",
-        "genero": "Terror, Suspense, Misterio",
-        "duracion": "1h 39m"
-      },
-      {
-         "name": "Las nubes (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt+IIMxT/Gr0C4did61B4tt6Bxi5j+H+03Yb2wfgNaRQw",
-        "icono": "https://image.tmdb.org/t/p/original/uyN6BSiua7W5sDqGVeI8foZHk1w.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/eX4D4EpRsK3RgqckJSFf5l1hriM.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/cTc5QzX7nJZOZryeC4RYWvTWfWp.jpg",
-        "type": "PELICULA",
-        "descripcion": "Pablo Prieto lidera una banda de ladrones cuyo tiempo se agota. Perseguido por un juez implacable, ¿podrá Pablo escapar de su destino o tendrá que pagar por sus crímenes?",
-        "anio": "2025",
-        "genero": "Suspense",
-        "duracion": "1h 41m"
-      },
-      {
-         "name": "Parking (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt1ruEzcLNWUBmcVpphE4G61hCxMmmYjxrAZPsldYcAkn",
-        "icono": "https://image.tmdb.org/t/p/original/oNxANEMPx3sbj6BY9VtZxrXCMDF.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9LXVLQrTedD5xpaIo4KDlVhEjyz.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/okBq0BvnJ0OZ9vBOjtngMlGPger.png",
-        "type": "PELICULA",
-        "descripcion": "Mateo, un delincuente bajo arresto domiciliario, trabaja en un estacionamiento en el centro de Buenos Aires y planea escapar. Su rutina se ve interrumpida cuando Lara paga una noche de alojamiento y minutos después un hombre armado irrumpe en el lugar. Ambos presencian un asesinato que desencadena una persecución mortal por las rampas y los niveles del edificio, obligándolos a luchar contra el tiempo y contra los delincuentes para escapar con vida del laberinto.",
-        "anio": "2025",
-        "genero": "Comedia,Drama",
-        "duracion": "1h 30m"
-      },
-      {
-         "name": "Los tipos malos 2 (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt69sIJ9BdWaOQyqqB0SKH6VdaXBbAmZg/nG1apwPbtKH",
-        "icono": "https://image.tmdb.org/t/p/original/7JPVoal817aUKfNRRBKaC0c33T6.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/kcsudLBu2OKcdJrlkC2gFLU1DgU.png",
-        "type": "PELICULA",
-        "descripcion": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
-        "anio": "2025",
-        "genero": "Familia,Comedia,Crimen,Aventura,Animación",
-        "duracion": "1h 43m"
-      },
-      {
-         "name": "Tron.Ares (2025)",
-        "url": "cVI+FPBxX2ASracUSyM4w++c64GnqIUKvz+VvW2oYcCCBTS1ERgmLCJ0tOZOLcpO0HEzGyrcUMO8pBkzydzrt4+3hT+w8Y5idJNaojubQqc=",
-        "icono": "https://image.tmdb.org/t/p/original/9MW9qldFCQfh2hdh2LTP2KjjKBm.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/veER9dS1GJ5a22cJbRXpdI298Ah.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/k0uyosqc5pxFjdyHcie91S3s6mM.png",
-        "type": "PELICULA",
-        "descripcion": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
-        "anio": "2025",
-        "genero": "Ciencia ficción,Aventura,Acción",
-        "duracion": "1h 59m"
-      },
-      {
-        "name": "El mejor (2025)",
-        "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmBf9XtgQxl/8ohV7/5NRY0gUul5WumUXJq8Kp1M+BZ/PkVsQeLxtOfWcFrMPt7DoUs=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/9r4ifKX7Q3yQ8LtSs3vk7K3mNgC.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/original/Al2K7xuhXmfB83d5suoi9klOYjC.png",
-        "type": "PELICULA",
-        "descripcion": "Cameron Cade es un quarterback en ciernes que ha dedicado su vida y su identidad al fútbol americano. En vísperas del campeonato anual de fútbol americano profesional, Cam es atacado por un hincha desquiciado y sufre un traumatismo cerebral que podría poner fin a su carrera. Justo cuando todo parece perdido, Cam recibe un salvavidas cuando su héroe, Isaiah White, un legendario quarterback ocho veces campeón y megaestrella cultural, se ofrece a entrenar a Cam en el aislado complejo que Isaiah comparte con su esposa, Elsie White. Pero a medida que el entrenamiento de Cam se acelera, el carisma de Isaiah comienza a cuajar en algo más oscuro, enviando a su protegido a un agujero de conejo desorientador que puede costarle más de lo que jamás esperó.",
-        "anio": "2025",
-        "genero": "Terror,Misterio",
-        "duracion": "1h 36m"
       },
       {
         "name": "Bala perdida (2025)",
@@ -1020,6 +984,18 @@
   {
     "name": "💞 ROMANCE 🎬✨",
     "samples": [
+      {
+        "name": "Top Gun: Maverick (2022)",
+        "url": "YalSE7LaDpOuIPOowrlBvHooTduCimM4vSwpViW5zzkKNn4LP+29qsQ756+9PRP+WhB0ajOzLKJIUk6GFNRoYwMWXjza27GElZmn0N5UWPk=",
+        "icono": "https://image.tmdb.org/t/p/original/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/jO6hasfUIMejFdAc5DFHteunXp6.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/w6dMatJzyyVtmE8JVGnNjviapnv.png",
+        "type": "PELICULA",
+        "descripcion": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete Maverick Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo Goose",
+        "anio": "2025",
+        "genero": "Acción,Drama",
+        "duracion": "2h 11m"
+      },
       {
         "name": "Los puentes de Madison",
         "url": "Gy3syGFvQ4GJtBk0jIeL8P5GLyWhaR50ZqnN8lFDkmCJWsl6+1wQIZhYg5WMDvOKJLUP7cWMuZpgHACYeiRbsBqRcPr56xQ8CWUbYjPUn+A=",
