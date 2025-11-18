@@ -909,6 +909,12 @@
         "type": "HLS"
       },
       {
+        "name": "test",
+        "icono": "https://pbs.twimg.com/profile_images/1985814265354174466/pDivA3t2_400x400.jpg",
+        "url": "gvuZ39gDgv25mT0cbuHVGp3zHWFT3/7Z7t2ubODAOUgqTZUKP0ic9Hj23zSLMVypto045rz3w1NR2G+R7LhOLA==",
+        "type": "HLS"
+      },
+      {
          "name": "DSPORTS SOLO ARGENTINA",
         "url": "AGBcwfz2Ey+agK2kAkDGKZgnfXhHsXrTv54Y8p+SOb4/EJiWIZgLcG8v0Bmw6PdL5osonzn16CtyMYcKjgpn+dtmGMSS3fHGWfa68nuRUV9p45ALkHccw+E8WuN7aDnp",
         "type": "CLEARKEY",
